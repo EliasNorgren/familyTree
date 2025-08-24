@@ -1,0 +1,3382 @@
+digraph {
+	graph [bb="0,0,56282,1579.3",
+		rankdir=BT
+	];
+	node [label="\N"];
+	1	[height=0.74639,
+		label="[1] Kjell Erik Bergman
+, född 1944-03-09.",
+		pos="52786,26.87",
+		width=3.4766];
+	2	[height=0.74639,
+		label="[2] Erik Ingemund Bergman
+, född 1919-04-07.",
+		pos="52242,116.61",
+		width=4.2623];
+	1 -> 2	[color=blue,
+		pos="e,52353,97.836 52688,43.658 52597,58.397 52460,80.432 52362,96.231"];
+	3	[height=0.74639,
+		label="[3] Elin Arvida Lindström
+, född 1918-09-07.",
+		pos="54105,116.61",
+		width=3.8891];
+	1 -> 3	[color=pink,
+		pos="e,53974,106.89 52905,35.734 53148,51.901 53702,88.81 53964,106.21"];
+	4	[height=0.74639,
+		label="[4] Abraham Edvard Bergman
+, född 1882-01-01.",
+		pos="19238,206.35",
+		width=4.5373];
+	2 -> 4	[color=blue,
+		pos="e,19402,204.92 52089,118.02 49768,124.19 21876,198.34 19412,204.89"];
+	5	[height=0.74639,
+		label="[5] Hulda Kristina Näsholm
+, född 1891-12-26.",
+		pos="52242,206.35",
+		width=4.1641];
+	2 -> 5	[color=pink,
+		pos="e,52242,179.35 52242,143.94 52242,151.9 52242,160.79 52242,169.28"];
+	8	[height=0.74639,
+		label="[8] Nils Olof Bergman
+, född 1847-12-08 i Bjursta, Multrå sn.",
+		pos="8465.3,296.09",
+		width=5.7354];
+	4 -> 8	[color=blue,
+		pos="e,8670.8,293.42 19076,208.68 17850,218.66 10080,281.94 8680.9,293.33"];
+	9	[height=0.74639,
+		label="[9] Catarina Elisabet Öberg
+, född 1854-08-14 i Forse, Långsele sn.",
+		pos="19238,296.09",
+		width=5.7747];
+	4 -> 9	[color=pink,
+		pos="e,19238,269.09 19238,233.68 19238,241.64 19238,250.53 19238,259.02"];
+	16	[height=0.74639,
+		label="[16] Abraham Nilsson
+, född 1824-10-05 i Sand, Eds sn.",
+		pos="5931.3,385.83",
+		width=4.989];
+	8 -> 16	[color=blue,
+		pos="e,6104.9,378.82 8267.8,303.93 7790.2,320.47 6578,362.44 6115,378.47"];
+	17	[height=0.74639,
+		label="[17] Anna Elisabet Nilsdotter
+, född 1854-08-14 i Österstrinne, Multrå sn.",
+		pos="8465.3,385.83",
+		width=6.4818];
+	8 -> 17	[color=pink,
+		pos="e,8465.3,358.83 8465.3,323.42 8465.3,331.38 8465.3,340.27 8465.3,348.76"];
+	32	[height=0.74639,
+		label="[32] Nils Eriksson
+, född 1781-09-07 i Hågesta, Sollefteå sn.",
+		pos="3639.3,475.57",
+		width=6.1479];
+	16 -> 32	[color=blue,
+		pos="e,3848.2,466.58 5758.6,393.44 5347.7,409.17 4312.4,448.8 3858.5,466.18"];
+	33	[height=0.74639,
+		label="[33] Helena Abrahamsdotter
+, född 1791-06-12 i Yttersel, Resele sn.",
+		pos="5931.3,475.57",
+		width=5.7747];
+	16 -> 33	[color=pink,
+		pos="e,5931.3,448.57 5931.3,413.16 5931.3,421.12 5931.3,430.01 5931.3,438.5"];
+	64	[height=0.74639,
+		label="[64] Erik Nilsson
+, född 1740-11-01.",
+		pos="2673.3,565.31",
+		width=2.8874];
+	32 -> 64	[color=blue,
+		pos="e,2770.2,555.52 3466.1,492.31 3266.9,510.4 2946.2,539.53 2780.4,554.59"];
+	65	[height=0.74639,
+		label="[65] Sara Tomasdotter
+, född 1753.",
+		pos="3639.3,565.31",
+		width=3.4766];
+	32 -> 65	[color=pink,
+		pos="e,3639.3,538.31 3639.3,502.9 3639.3,510.86 3639.3,519.75 3639.3,528.24"];
+	128	[height=0.74639,
+		label="[128] Nils Olofsson
+, född 1704 i Para, Sånga, död 1785-12-11 i Hågesta,   Sollefteå sn. Bonde i Para o Hågesta, Sollefteå \
+sn.",
+		pos="1625.3,655.05",
+		width=15.046];
+	64 -> 128	[color=blue,
+		pos="e,1892.8,631.66 2575.2,574.53 2423.1,587.26 2124.9,612.23 1902.9,630.81"];
+	129	[height=0.74639,
+		label="[129] Helena Eriksdotter
+, född 1714 i Ås, Högsjö sn, död 1754-07-02   i Hågesta, Sollefteå sn.",
+		pos="2673.3,655.05",
+		width=9.9781];
+	64 -> 129	[color=pink,
+		pos="e,2673.3,628.05 2673.3,592.64 2673.3,600.6 2673.3,609.49 2673.3,617.98"];
+	256	[height=0.74639,
+		label="[256] Olof Olofsson
+, född 1677 i Para, Sånga sn. Bonde i Para, Sånga sn.   Nämnd 1702-40.",
+		pos="1015.3,744.79",
+		width=10.391];
+	128 -> 256	[color=blue,
+		pos="e,1177.1,720.52 1454.6,680.61 1371.1,692.62 1270.9,707.04 1187.2,719.07"];
+	257	[height=0.74639,
+		label="[257] NN
+, död 1725 i Para, Sånga sn.",
+		pos="1625.3,744.79",
+		width=4.2623];
+	128 -> 257	[color=pink,
+		pos="e,1625.3,717.79 1625.3,682.38 1625.3,690.34 1625.3,699.23 1625.3,707.72"];
+	512	[height=0.74639,
+		label="[512] Olof Andersson
+, född i Pars, Sånga sn. Bonde i Para 4, Sånga sn.   Nämnd 1684-1701.",
+		pos="445.33,834.53",
+		width=10.194];
+	256 -> 512	[color=blue,
+		pos="e,597.82,810.06 862.21,769.36 783.62,781.46 687.88,796.2 607.98,808.49"];
+	513	[height=0.74639,
+		label="[513] NN
+, död 1697 i Para, Sånga sn.",
+		pos="1015.3,834.53",
+		width=4.2623];
+	256 -> 513	[color=pink,
+		pos="e,1015.3,807.53 1015.3,772.12 1015.3,780.08 1015.3,788.97 1015.3,797.46"];
+	1024	[height=0.74639,
+		label="[1024] Anders Olofsson
+, född i Para, Sånga sn. Bonde i Para, Sånga sn.    Nämnd 1642-1683.",
+		pos="361.33,924.27",
+		width=10.037];
+	512 -> 1024	[color=blue,
+		pos="e,386.19,897.3 420.58,861.38 412.03,870.32 402.32,880.46 393.27,889.91"];
+	2048	[height=0.74639,
+		label="[2048] Olof Andersson
+. Bonde i Para, Sånga sn. Nämnd 1627-29.",
+		pos="361.33,1014",
+		width=6.2658];
+	1024 -> 2048	[color=blue,
+		pos="e,361.33,987.01 361.33,951.6 361.33,959.56 361.33,968.45 361.33,976.94"];
+	258	[height=0.74639,
+		label="[258] Erik Olofsson
+, född 1672 i Ås, Högsjö sn, död 1735-08-31 i Vålånger,   Högsjö sn.",
+		pos="2606.3,744.79",
+		width=9.762];
+	129 -> 258	[color=blue,
+		pos="e,2626.2,717.82 2653.6,681.9 2646.9,690.66 2639.3,700.58 2632.2,709.87"];
+	259	[height=0.74639,
+		label="[259] Sissla Järlandsdotter
+, född 1691 i Lästa, Ytterlännäs.",
+		pos="3496.3,744.79",
+		width=4.8319];
+	129 -> 259	[color=pink,
+		pos="e,3356.2,728.85 2873.3,677.37 3019.1,692.91 3213.4,713.62 3346,727.76"];
+	516	[height=0.74639,
+		label="[516] Olof Ersson
+, född 1630 i Ås, Högsjö sn, död 1716-11-25 i Ås, Högsjö sn.  Bonde i Ås, Högsjö sn.",
+		pos="1686.3,834.53",
+		width=12.021];
+	258 -> 516	[color=blue,
+		pos="e,1915.3,811.69 2392.7,766.17 2253,779.49 2070.2,796.92 1925.7,810.71"];
+	517	[height=0.74639,
+		label="[517] Brita Eriksdotter
+, född 1651 i Utanö, Högsjö sn, död 1735-06-15 i Ås,  Högsjö sn.",
+		pos="2606.3,834.53",
+		width=9.3102];
+	258 -> 517	[color=pink,
+		pos="e,2606.3,807.53 2606.3,772.12 2606.3,780.08 2606.3,788.97 2606.3,797.46"];
+	1032	[height=0.74639,
+		label="[1032] Erik Göransson
+, född i Ås, Högsjö sn. Bonde i Ås, Högsjö sn.  nämnd på 1630-talet.",
+		pos="1092.3,924.27",
+		width=9.7816];
+	516 -> 1032	[color=blue,
+		pos="e,1248.8,900.16 1524,859.51 1441.7,871.67 1341.8,886.43 1258.8,898.68"];
+	2064	[height=0.74639,
+		label="[2064] Göran Ersson
+. Bonde i Ås, Högsjö sn. nämnd 1613.",
+		pos="983.33,1014",
+		width=5.5783];
+	1032 -> 2064	[color=blue,
+		pos="e,1015.2,987.35 1060.2,951.12 1048.6,960.49 1035.3,971.19 1023.1,981.03"];
+	1034	[height=0.74639,
+		label="[1034] Erik Danielsson
+, född 1610 i Utanö, Högsjö sn, död 1683 i Utanö,   Högsjö sn. Bonde i Utanö, Högsjö sn.",
+		pos="1922.3,924.27",
+		width=12.767];
+	517 -> 1034	[color=blue,
+		pos="e,2106.5,899.65 2434.2,857.61 2337.5,870.02 2216.5,885.54 2116.4,898.37"];
+	1035	[height=0.74639,
+		label="[1035] Karin Jonsdotter
+, född 1623 i Ulvvik, Säbrå sn, död 1702 i Utanö,   Högsjö sn.",
+		pos="2721.3,924.27",
+		width=8.937];
+	517 -> 1035	[color=pink,
+		pos="e,2687.3,897.3 2640.2,861.38 2652.4,870.67 2666.3,881.26 2679.1,891.03"];
+	2068	[height=0.74639,
+		label="[2068] Daniel Ersson
+, född i Utanö, Högsjö sn, död 1639 i Utanö, Högsjö sn.   Bonde i Utanö, Högsjö sn.",
+		pos="1633.3,1014",
+		width=11.982];
+	1034 -> 2068	[color=blue,
+		pos="e,1717,987.6 1838.4,950.77 1803.5,961.36 1762.8,973.69 1727,984.58"];
+	2069	[height=0.74639,
+		label="[2069] Anna NN
+.",
+		pos="2176.3,1014",
+		width=2.5927];
+	1034 -> 2069	[color=pink,
+		pos="e,2118.2,992.94 1996.5,950.89 2032,963.14 2074.1,977.7 2108.7,989.65"];
+	4136	[height=0.74639,
+		label="[4136] Erik Sjulsson
+, född i Utanö, Högsjö sn. Bonde i Utanö, Högsjö sn.   levde 1591.",
+		pos="1633.3,1103.8",
+		width=9.5263];
+	2068 -> 4136	[color=blue,
+		pos="e,1633.3,1076.7 1633.3,1041.3 1633.3,1049.3 1633.3,1058.2 1633.3,1066.7"];
+	8272	[height=0.74639,
+		label="[8272] Sjul Ersson
+. Bonde i Utanö, Högsjö sn. nämnd 1561-1587.",
+		pos="1633.3,1193.5",
+		width=6.8746];
+	4136 -> 8272	[color=blue,
+		pos="e,1633.3,1166.5 1633.3,1131.1 1633.3,1139 1633.3,1147.9 1633.3,1156.4"];
+	2070	[height=0.74639,
+		label="[2070] Jon Hansson Ulf
+, född 1590 i Ulvvik, Säbrå sn, död 1655 i Ulvvik,   Säbrå sn. Fogde o mönsterskrivare i Ulvvik, Säbrå \
+sn.",
+		pos="2830.3,1014",
+		width=15.085];
+	1035 -> 2070	[color=blue,
+		pos="e,2798.1,987.04 2753.4,951.12 2765,960.41 2778.1,971 2790.3,980.77"];
+	4140	[height=0.74639,
+		label="[4140] Hans Eriksson
+, född 1560 i Ulvvik, Säbrå sn, död 1620 i Ulvvik,   Säbrå sn. Bonde i Ulvvik, Säbrå sn.",
+		pos="2830.3,1103.8",
+		width=12.473];
+	2070 -> 4140	[color=blue,
+		pos="e,2830.3,1076.7 2830.3,1041.3 2830.3,1049.3 2830.3,1058.2 2830.3,1066.7"];
+	8280	[height=0.74639,
+		label="[8280] Erik Jonsson
+, född 1530 i Ulvvik, Säbrå sn, död 1590 i Ulvvik,   Säbrå sn. Bonde i Ulvvik, Säbrå sn.",
+		pos="2830.3,1193.5",
+		width=12.473];
+	4140 -> 8280	[color=blue,
+		pos="e,2830.3,1166.5 2830.3,1131.1 2830.3,1139 2830.3,1147.9 2830.3,1156.4"];
+	16560	[height=0.74639,
+		label="[16560] Jon Esbjörnsson
+, född 1500 i Ulvvik, Säbrå sn, död 1575 i Ulvvik,   Säbrå sn. Bonde i Ulvvik, Säbrå sn.",
+		pos="2830.3,1283.2",
+		width=12.473];
+	8280 -> 16560	[color=blue,
+		pos="e,2830.3,1256.2 2830.3,1220.8 2830.3,1228.8 2830.3,1237.7 2830.3,1246.2"];
+	518	[height=0.74639,
+		label="[518] Järland Persson
+, född i Lästa, Ytterlännäs sn, död 1697-06-13 i Lästa,  Ytterlännäs sn. Bonde i Lästa, Ytterlännäs \
+sn.",
+		pos="3496.3,834.53",
+		width=14.456];
+	259 -> 518	[color=blue,
+		pos="e,3496.3,807.53 3496.3,772.12 3496.3,780.08 3496.3,788.97 3496.3,797.46"];
+	519	[height=0.74639,
+		label="[519] Elin Ersdotter
+.",
+		pos="4148.3,834.53",
+		width=3.1623];
+	259 -> 519	[color=pink,
+		pos="e,4067.8,815.5 3642.8,759.31 3749.2,770.01 3896.7,786.65 4025.3,807.66 4035.9,809.38 4046.9,811.4 4057.8,813.52"];
+	1036	[height=0.74639,
+		label="[1036] Per Jönsson
+, född 1640, död 1704-04-07 i Lästa, Ytterlännäs sn. Bonde   i Lästa, Ytterlännäs sn.",
+		pos="3496.3,924.27",
+		width=12.099];
+	518 -> 1036	[color=blue,
+		pos="e,3496.3,897.27 3496.3,861.86 3496.3,869.82 3496.3,878.71 3496.3,887.2"];
+	1037	[height=0.74639,
+		label="[1037] Anna Henriksdotter
+, född i Ed, Ytterlännäs sn.",
+		pos="4097.3,924.27",
+		width=4.1051];
+	518 -> 1037	[color=pink,
+		pos="e,3991.7,905.36 3678.4,859.74 3759,870.75 3855,884.24 3941.3,897.4 3954.4,899.4 3968.1,901.56 3981.8,903.76"];
+	2074	[height=0.74639,
+		label="[2074] Henrik Järlandsson
+, född i Ed, Ytterlännäs sn. Bonde i Ed,   Ytterlännäs sn.",
+		pos="4035.3,1014",
+		width=8.171];
+	1037 -> 2074	[color=blue,
+		pos="e,4053.7,987.04 4079.1,951.12 4072.9,959.79 4066,969.6 4059.5,978.8"];
+	4148	[height=0.74639,
+		label="[4148] Järland Henriksson
+, född i Nästvattnet, Gudmundrå sn. Bonde i Ed,   Ytterlännäs sn. nämnd 1615-1640.",
+		pos="3972.3,1103.8",
+		width=12.237];
+	2074 -> 4148	[color=blue,
+		pos="e,3991,1076.8 4016.8,1040.9 4010.5,1049.5 4003.5,1059.3 3996.9,1068.5"];
+	8296	[height=0.74639,
+		label="[8296] Henrik Larsson
+. Bosatt i Gudmundrå sn. finne.",
+		pos="3972.3,1193.5",
+		width=4.714];
+	4148 -> 8296	[color=blue,
+		pos="e,3972.3,1166.5 3972.3,1131.1 3972.3,1139 3972.3,1147.9 3972.3,1156.4"];
+	130	[height=0.74639,
+		label="[130] Tomas Mattsson
+.",
+		pos="3495.3,655.05",
+		width=3.457];
+	65 -> 130	[color=blue,
+		pos="e,3535.5,629.56 3598.8,590.98 3581.8,601.35 3561.9,613.5 3544.1,624.35"];
+	131	[height=0.74639,
+		label="[131] Margeta Månsdotter
+.",
+		pos="3784.3,655.05",
+		width=4.0659];
+	65 -> 131	[color=pink,
+		pos="e,3743.2,629.13 3679.7,590.75 3696.7,601.04 3716.7,613.1 3734.6,623.93"];
+	66	[height=0.74639,
+		label="[66] Abraham Rossberg
+, född 1761-06-12 i Lund, Brunflo sn.",
+		pos="5543.3,565.31",
+		width=5.4801];
+	33 -> 66	[color=blue,
+		pos="e,5641.9,542.02 5831.4,499.17 5776.4,511.6 5708.2,527.03 5651.9,539.76"];
+	67	[height=0.74639,
+		label="[67] Dordie Gustafsdotter
+, född 1768-10-05 i Rösta, Sollefteå sn.",
+		pos="6318.3,565.31",
+		width=5.7747];
+	33 -> 67	[color=pink,
+		pos="e,6218.7,541.72 6031,499.17 6085.4,511.5 6152.9,526.79 6208.7,539.46"];
+	132	[height=0.74639,
+		label="[132] Abraham Rossberg
+, född 1739-08-03 i Lund, Brunflo sn, död 1820-03-22   i Yttersel, Resele sn. Skomakare i Yttersel, Resele \
+sn.",
+		pos="4740.3,655.05",
+		width=15.537];
+	66 -> 132	[color=blue,
+		pos="e,4958,630.27 5392.8,582.76 5273.3,595.82 5104.2,614.29 4968.2,629.16"];
+	133	[height=0.74639,
+		label="[133] Elin Olofsdotter
+, född (döpt 1736-10-17) i Ope, Brunflo sn.",
+		pos="5543.3,655.05",
+		width=6.2658];
+	66 -> 133	[color=pink,
+		pos="e,5543.3,628.05 5543.3,592.64 5543.3,600.6 5543.3,609.49 5543.3,617.98"];
+	134	[height=0.74639,
+		label="[134] Gustaf Eriksson
+, född 1726-11-01 i Rösta, Sollefteå, död 1810-02-19   i Rösta, Sollefteå sn. Bonde i Rösta, Sollefteå \
+sn.",
+		pos="6318.3,655.05",
+		width=14.751];
+	67 -> 134	[color=blue,
+		pos="e,6318.3,628.05 6318.3,592.64 6318.3,600.6 6318.3,609.49 6318.3,617.98"];
+	135	[height=0.74639,
+		label="[135] Margareta Ersdotter
+, född 1732-06-04 i Ön, Eds sn, död 1811-06-08   i Sand, Eds sn.",
+		pos="7202.3,655.05",
+		width=9.3102];
+	67 -> 135	[color=pink,
+		pos="e,6997.6,633.73 6479.4,582.3 6621.9,596.44 6830.7,617.16 6987.3,632.71"];
+	268	[height=0.74639,
+		label="[268] Erik Gustafsson Niure
+, född 1706-01-05 i Landsom, Sundsjö sn, död 1767  i Rösta, Sollefteå sn. Bonde i Rösta, Sollefteå \
+sn.",
+		pos="5575.3,744.79",
+		width=14.535];
+	134 -> 268	[color=blue,
+		pos="e,5777,719.97 6116.3,679.91 6014.2,691.97 5890.4,706.59 5787,718.8"];
+	269	[height=0.74639,
+		label="[269] Margareta Persdotter
+, född 1688-03-11 i Gärdet, Sollefteå sn, död 1774  i Rösta, Sollefteå sn.",
+		pos="6491.3,744.79",
+		width=10.41];
+	134 -> 269	[color=pink,
+		pos="e,6440.7,718.13 6369.3,681.9 6388.8,691.81 6411.3,703.2 6431.6,713.49"];
+	536	[height=0.74639,
+		label="[536] Gustaf Welamsson Niure
+, född i Landsom, Sundsjö sn, död 1711 i Marsätt,  Sundsjö sn. Korpral i Marsätt, Sundsjö sn.",
+		pos="5518.3,834.53",
+		width=13.435];
+	268 -> 536	[color=blue,
+		pos="e,5535.2,807.53 5558.2,772.12 5552.7,780.61 5546.5,790.15 5540.7,799.14"];
+	537	[height=0.74639,
+		label="[537] Anna Eriksdotter
+, död 1740 i Ragunda sn.",
+		pos="6157.3,834.53",
+		width=3.8105];
+	268 -> 537	[color=pink,
+		pos="e,6059.2,815.67 5756.1,770.02 5834.6,780.92 5927.6,794.31 6011.3,807.66 6023.6,809.61 6036.4,811.74 6049.1,813.92"];
+	1072	[height=0.74639,
+		label="[1072] Welam Persson Niure
+, född 1650, död 1719-05-31 i Landsom, Sundsjö sn.  Löjtnant o målare i Landsom, Sundsjö sn.",
+		pos="5406.3,924.27",
+		width=13.612];
+	536 -> 1072	[color=blue,
+		pos="e,5439.5,897.3 5485.3,861.38 5473.5,870.67 5460,881.26 5447.5,891.03"];
+	1073	[height=0.74639,
+		label="[1073] Brita Månsdotter
+.",
+		pos="6049.3,924.27",
+		width=3.7516];
+	536 -> 1073	[color=pink,
+		pos="e,5952.2,905.55 5675.7,859.98 5746,871.09 5829.9,884.59 5905.3,897.4 5917.3,899.43 5929.8,901.6 5942.2,903.79"];
+	2144	[height=0.74639,
+		label="[2144] Per Eriksson Niure
+, född i Umeå lfs. Fogde i Jämtland.",
+		pos="5198.3,1014",
+		width=5.2837];
+	1072 -> 2144	[color=blue,
+		pos="e,5256.8,988.34 5345.3,951 5320.5,961.5 5291.6,973.67 5266.1,984.44"];
+	2145	[height=0.74639,
+		label="[2145] Ingrid Welamsdotter Biörkman
+.",
+		pos="5846.3,1014",
+		width=5.6765];
+	1072 -> 2145	[color=pink,
+		pos="e,5737.1,991.23 5531.8,950.3 5593.2,962.53 5666.6,977.18 5727.1,989.24"];
+	4288	[height=0.74639,
+		label="[4288] Ericus Petri Niurenius
+, född 1592, död 1661 i Umeå lfs. Kyrkoherde   i Umeå lfs.",
+		pos="4737.3,1103.8",
+		width=8.5049];
+	2144 -> 4288	[color=blue,
+		pos="e,4861.2,1079.2 5088.2,1036 5023.1,1048.4 4940.2,1064.1 4871.3,1077.3"];
+	4289	[height=0.74639,
+		label="[4289] Dordi Hansdotter
+, död 1646 i Järvsö sn.",
+		pos="5198.3,1103.8",
+		width=3.7909];
+	2144 -> 4289	[color=pink,
+		pos="e,5198.3,1076.7 5198.3,1041.3 5198.3,1049.3 5198.3,1058.2 5198.3,1066.7"];
+	8576	[height=0.74639,
+		label="[8576] Petrus Olai Gestricius
+, född 1540 i Gävle, död 1607 i Umeå lfs.   Kyrkoherde i Umeå.",
+		pos="4551.3,1193.5",
+		width=9.1335];
+	4288 -> 8576	[color=blue,
+		pos="e,4605.5,1166.9 4683.3,1130.2 4661.8,1140.4 4636.9,1152.1 4614.6,1162.7"];
+	8577	[height=0.74639,
+		label="[8577] Malin Nilsdotter
+, född i Gävle.",
+		pos="5029.3,1193.5",
+		width=3.6337];
+	4288 -> 8577	[color=pink,
+		pos="e,4957.6,1170.9 4820.2,1129.7 4860.3,1141.7 4908.1,1156.1 4948,1168"];
+	17152	[height=0.74639,
+		label="[17152] Olof Mårtensson
+, född i Teg, Umeå lfs. Rådman i Gävle.",
+		pos="4131.3,1283.2",
+		width=5.7943];
+	8576 -> 17152	[color=blue,
+		pos="e,4237.5,1260.1 4435.5,1218.7 4376.9,1230.9 4306.1,1245.7 4247.5,1258"];
+	17153	[height=0.74639,
+		label="[17153] Karin Andersdotter Grubb
+, född 1510 i Grubbe, Umeå sn.",
+		pos="4624.3,1283.2",
+		width=5.1854];
+	8576 -> 17153	[color=pink,
+		pos="e,4602.7,1256.3 4572.8,1220.3 4580.1,1229.1 4588.4,1239 4596.1,1248.3"];
+	34304	[height=0.74639,
+		label="[34304] Mårten Larsson
+. Krigsöverste o ståthållare i Gävle.",
+		pos="3770.3,1373",
+		width=5.3033];
+	17152 -> 34304	[color=blue,
+		pos="e,3863,1349.5 4036.5,1307.3 3986.1,1319.5 3924.2,1334.6 3872.8,1347.1"];
+	34305	[height=0.74639,
+		label="[34305] Ingrid Olofsdotter
+, född i Baggböle, Umeå lfs.",
+		pos="4131.3,1373",
+		width=4.223];
+	17152 -> 34305	[color=pink,
+		pos="e,4131.3,1346 4131.3,1310.6 4131.3,1318.5 4131.3,1327.4 4131.3,1335.9"];
+	68610	[height=0.74639,
+		label="[68610] Olof Clementsson
+. Bonde o tolvman i Baggböle, Umeå lfs.",
+		pos="3803.3,1462.7",
+		width=5.9515];
+	34305 -> 68610	[color=blue,
+		pos="e,3891.3,1438.2 4049.8,1395.8 4004.7,1407.8 3948.4,1422.9 3901,1435.6"];
+	68611	[height=0.74639,
+		label="[68611] Brita Andersdotter
+, född 1490 i Röbäck, Umeå sn.",
+		pos="4204.3,1462.7",
+		width=4.6944];
+	34305 -> 68611	[color=pink,
+		pos="e,4183,1436 4152.8,1399.8 4160.3,1408.7 4168.7,1418.9 4176.5,1428.3"];
+	137222	[height=0.74639,
+		label="[137222] Anders Andersson
+, född 1460 i Bureå, Skellefteå sn. Bonde i Röbäck,    Umeå sn.",
+		pos="4204.3,1552.5",
+		width=9.1138];
+	68611 -> 137222	[color=blue,
+		pos="e,4204.3,1525.4 4204.3,1490 4204.3,1498 4204.3,1506.9 4204.3,1515.4"];
+	34306	[height=0.74639,
+		label="[34306] Anders Persson
+. Landsköpman i Grubbe, Umeå lfs.   levde 1526, d före 1543.",
+		pos="4624.3,1373",
+		width=8.9763];
+	17153 -> 34306	[color=blue,
+		pos="e,4624.3,1346 4624.3,1310.6 4624.3,1318.5 4624.3,1327.4 4624.3,1335.9"];
+	34307	[height=0.74639,
+		label="[34307] Maria Jakobsdotter
+, född 1480 i Bureå, Skellefteå sn.",
+		pos="5149.3,1373",
+		width=5.1069];
+	17153 -> 34307	[color=pink,
+		pos="e,5031.3,1352.2 4742.8,1304 4825.7,1317.9 4936.4,1336.4 5021.3,1350.6"];
+	68614	[height=0.74639,
+		label="[68614] Jakob Andersson
+, född 1450 i Bureå, Skellefteå sn. Underlagman i Bureå,   Skellefteå sn.",
+		pos="5076.3,1462.7",
+		width=10.469];
+	34307 -> 68614	[color=blue,
+		pos="e,5097.9,1435.7 5127.8,1399.8 5120.5,1408.6 5112.3,1418.5 5104.6,1427.8"];
+	68615	[height=0.74639,
+		label="[68615] Kjellög NN
+.",
+		pos="5580.3,1462.7",
+		width=3.0445];
+	34307 -> 68615	[color=pink,
+		pos="e,5501,1444.1 5257.4,1394.8 5317.7,1406.5 5394.3,1421.7 5462.3,1435.8 5471.6,1437.8 5481.3,1439.8 5491,1441.9"];
+	137228	[height=0.74639,
+		label="[137228] Anders Olofsson
+, född 1425 i Bureå, Skellefteå sn. Underlagman    i Bureå, Skellefteå sn.",
+		pos="5076.3,1552.5",
+		width=10.548];
+	68614 -> 137228	[color=blue,
+		pos="e,5076.3,1525.4 5076.3,1490 5076.3,1498 5076.3,1506.9 5076.3,1515.4"];
+	17154	[height=0.74639,
+		label="[17154] Nils Björnsson
+. Borgmästare.",
+		pos="5029.3,1283.2",
+		width=3.5552];
+	8577 -> 17154	[color=blue,
+		pos="e,5029.3,1256.2 5029.3,1220.8 5029.3,1228.8 5029.3,1237.7 5029.3,1246.2"];
+	4290	[height=0.74639,
+		label="[4290] Wilhelm Marci Biörkman
+, född 1583-05-10 i Bollnäs sn, död 1659-06-12   i Ljusdals sn. Kyrkoherde i Ljusdal, ärkestiftet.",
+		pos="5846.3,1103.8",
+		width=13.71];
+	2145 -> 4290	[color=blue,
+		pos="e,5846.3,1076.7 5846.3,1041.3 5846.3,1049.3 5846.3,1058.2 5846.3,1066.7"];
+	4291	[height=0.74639,
+		label="[4291] Brita Matsdotter
+, född 1593 i Hageby sn, Uppland.",
+		pos="6542.3,1103.8",
+		width=5.1265];
+	2145 -> 4291	[color=pink,
+		pos="e,6410.5,1084.9 5993.6,1032.7 6093.9,1044.8 6229.7,1061.5 6349.3,1076.9 6365.9,1079 6383.2,1081.3 6400.4,1083.5"];
+	8580	[height=0.74639,
+		label="[8580] Marcus Nicolai (Bullernaesius)
+, född i Bollnäs sn, död 1608   i Bollnäs sn. Kyrkoherde i Bollnäs, ärkestiftet.",
+		pos="5794.3,1193.5",
+		width=11.039];
+	4290 -> 8580	[color=blue,
+		pos="e,5809.7,1166.5 5830.7,1131.1 5825.7,1139.5 5820.2,1148.9 5814.9,1157.8"];
+	8581	[height=0.74639,
+		label="[8581] Anna Persdotter Grubb
+.",
+		pos="6374.3,1193.5",
+		width=4.5766];
+	4290 -> 8581	[color=pink,
+		pos="e,6261.7,1173.8 5994.8,1129.4 6075.8,1142.9 6174.9,1159.4 6251.5,1172.1"];
+	17160	[height=0.74639,
+		label="[17160] Nicolaus Laurentii
+. Kyrkoherde i Bollnäs, ärkestiftet.",
+		pos="5468.3,1283.2",
+		width=5.1658];
+	8580 -> 17160	[color=blue,
+		pos="e,5553.4,1259.3 5700.9,1219.6 5657.7,1231.3 5606.5,1245.1 5563.1,1256.7"];
+	17161	[height=0.74639,
+		label="[17161] Karin Andersdotter
+, född i Sjögrå.",
+		pos="5824.3,1283.2",
+		width=4.223];
+	8580 -> 17161	[color=pink,
+		pos="e,5815.4,1256.2 5803.3,1220.8 5806.1,1229 5809.2,1238.1 5812.2,1246.7"];
+	34322	[height=0.74639,
+		label="[34322] Anders NN
+. Bonde i Sjögrå.",
+		pos="5736.3,1373",
+		width=3.0445];
+	17161 -> 34322	[color=blue,
+		pos="e,5761.8,1346.6 5798.4,1310.1 5789.2,1319.3 5778.7,1329.7 5769,1339.4"];
+	34323	[height=0.74639,
+		label="[34323] Kerstin Olofsdotter
+, född i Växsjö, Bollnäs sn.",
+		pos="6015.3,1373",
+		width=4.2034];
+	17161 -> 34323	[color=pink,
+		pos="e,5962.5,1347.7 5877,1308.4 5900.6,1319.3 5928.6,1332.1 5953.2,1343.4"];
+	68646	[height=0.74639,
+		label="[68646] Olof Jonsson
+, född i Tomta, Bollnäs sn. Bonde i Växsjö, Bollnäs sn.",
+		pos="6015.3,1462.7",
+		width=7.8175];
+	34323 -> 68646	[color=blue,
+		pos="e,6015.3,1435.7 6015.3,1400.3 6015.3,1408.3 6015.3,1417.2 6015.3,1425.6"];
+	137292	[height=0.74639,
+		label="[137292] Jon Bengtsson
+. Bonde i Tomta, Bollnäs sn.",
+		pos="5749.3,1552.5",
+		width=4.223];
+	68646 -> 137292	[color=blue,
+		pos="e,5819.1,1528.4 5939.8,1488.6 5905.1,1500.1 5864,1513.6 5828.9,1525.2"];
+	137293	[height=0.74639,
+		label="[137293] Brita NN
+, född i Renshammar, Bollnäs sn.",
+		pos="6097.3,1552.5",
+		width=4.9301];
+	68646 -> 137293	[color=pink,
+		pos="e,6073.3,1525.8 6039.5,1489.6 6047.9,1498.6 6057.5,1508.8 6066.4,1518.3"];
+	17162	[height=0.74639,
+		label="[17162] Per Andersson
+, född 1500 i Grubbe, Umeå sn. Borgmästare i Gävle.   levde 1539.",
+		pos="6374.3,1283.2",
+		width=9.7031];
+	8581 -> 17162	[color=blue,
+		pos="e,6374.3,1256.2 6374.3,1220.8 6374.3,1228.8 6374.3,1237.7 6374.3,1246.2"];
+	34324	[height=0.74639,
+		label="[34324] Anders Persson
+= 258",
+		pos="6348.3,1373",
+		width=3.6927];
+	17162 -> 34324	[color=blue,
+		pos="e,6356,1346 6366.5,1310.6 6364.1,1318.6 6361.5,1327.6 6358.9,1336.2"];
+	34325	[height=0.74639,
+		label="[34325] Maria Jakobsdotter
+= 259",
+		pos="6650.3,1373",
+		width=4.2034];
+	17162 -> 34325	[color=pink,
+		pos="e,6578.5,1349.1 6453.8,1309.5 6489.9,1321 6532.6,1334.5 6568.9,1346.1"];
+	68650	[height=0.74639,
+		label="[68650] Jakob Andersson
+= 518",
+		pos="6568.3,1462.7",
+		width=3.8302];
+	34325 -> 68650	[color=blue,
+		pos="e,6592.3,1436 6626.2,1399.8 6617.7,1408.8 6608.2,1419.1 6599.3,1428.6"];
+	68651	[height=0.74639,
+		label="[68651] Kjellög NN
+= 519",
+		pos="6833.3,1462.7",
+		width=3.0445];
+	34325 -> 68651	[color=pink,
+		pos="e,6784.8,1438.5 6701.3,1398.4 6724.4,1409.5 6751.7,1422.6 6775.6,1434"];
+	137300	[height=0.74639,
+		label="[137300] Anders Olofsson
+= 1036",
+		pos="6568.3,1552.5",
+		width=3.9677];
+	68650 -> 137300	[color=blue,
+		pos="e,6568.3,1525.4 6568.3,1490 6568.3,1498 6568.3,1506.9 6568.3,1515.4"];
+	538	[height=0.74639,
+		label="[538] Per Olofsson
+. Bonde i Gärdet, Sollefteå sn.",
+		pos="6491.3,834.53",
+		width=4.5373];
+	269 -> 538	[color=blue,
+		pos="e,6491.3,807.53 6491.3,772.12 6491.3,780.08 6491.3,788.97 6491.3,797.46"];
+	270	[height=0.74639,
+		label="[270] Erik Eriksson Huller
+. Bonde i Ön, Eds sn.",
+		pos="7081.3,744.79",
+		width=4.0266];
+	135 -> 270	[color=blue,
+		pos="e,7116.3,718.43 7166.7,681.9 7153.5,691.45 7138.5,702.37 7124.7,712.35"];
+	271	[height=0.74639,
+		label="[271] NN NN
+.",
+		pos="7322.3,744.79",
+		width=2.1802];
+	135 -> 271	[color=pink,
+		pos="e,7290.1,720.22 7237.7,681.9 7251.6,692.04 7267.6,703.74 7281.9,714.21"];
+	34	[height=0.74639,
+		label="[34] Nils Persson
+, född 1788-04-17 i Österstrinne, Multrå sn.",
+		pos="8279.3,475.57",
+		width=6.4818];
+	17 -> 34	[color=blue,
+		pos="e,8332.7,449.4 8411.5,412.21 8389.7,422.48 8364.5,434.42 8341.9,445.08"];
+	35	[height=0.74639,
+		label="[35] Karin Persdotter
+, född 1790 i ?.",
+		pos="8650.3,475.57",
+		width=3.3195];
+	17 -> 35	[color=pink,
+		pos="e,8600.7,451.05 8518.8,412.21 8541.6,423.02 8568.3,435.67 8591.6,446.74"];
+	68	[height=0.74639,
+		label="[68] Nils Persson
+.",
+		pos="8156.3,565.31",
+		width=2.7302];
+	34 -> 68	[color=blue,
+		pos="e,8190.4,540.02 8243.4,502.18 8229.4,512.16 8213.3,523.68 8198.7,534.06"];
+	69	[height=0.74639,
+		label="[69] Dordie Olofsdotter
+, född 1760.",
+		pos="8402.3,565.31",
+		width=3.5945];
+	34 -> 69	[color=pink,
+		pos="e,8367.4,539.42 8315.2,502.18 8329,511.99 8344.8,523.29 8359.2,533.53"];
+	138	[height=0.74639,
+		label="[138] Olof Persson
+, född 1732. Bonde i Ingersta, Sollefteå an.",
+		pos="8211.3,655.05",
+		width=6.3443];
+	69 -> 138	[color=blue,
+		pos="e,8266.1,628.91 8350.6,590.05 8327.4,600.72 8299.8,613.41 8275.3,624.67"];
+	139	[height=0.74639,
+		label="[139] Brita Israelsdotter
+, född 1732.",
+		pos="8592.3,655.05",
+		width=3.7516];
+	69 -> 139	[color=pink,
+		pos="e,8540.5,630.14 8453.7,590.05 8477.6,601.08 8506.2,614.27 8531.2,625.8"];
+	18	[height=0.74639,
+		label="[18] Elias Öberg
+, född 1826-01-05 i Björkäng, Sollefteå sn.",
+		pos="13450,385.83",
+		width=6.2461];
+	9 -> 18	[color=blue,
+		pos="e,13672,381.47 19033,300.21 18143,313.7 14623,367.05 13683,381.31"];
+	19	[height=0.74639,
+		label="[19] Stina Nilsdotter
+, född 1826-05-30 i Östertjäl, Sidensjö sn.",
+		pos="24179,385.83",
+		width=6.1675];
+	9 -> 19	[color=pink,
+		pos="e,23961,380.95 19443,300.73 20238,314.84 23116,365.95 23951,380.77"];
+	36	[height=0.74639,
+		label="[36] Mauritz Jansson
+, född 1792-08-18 i Örbäck, Långsele sn.",
+		pos="12117,475.57",
+		width=5.9908];
+	18 -> 36	[color=blue,
+		pos="e,12305,462.23 13257,399.57 13005,416.12 12568,444.89 12315,461.57"];
+	37	[height=0.74639,
+		label="[37] Maja Lisa Blå
+, född 1802-07-03 i Björkäng, Sollefteå sn.",
+		pos="13450,475.57",
+		width=6.2461];
+	18 -> 37	[color=pink,
+		pos="e,13450,448.57 13450,413.16 13450,421.12 13450,430.01 13450,438.5"];
+	72	[height=0.74639,
+		label="[72] Jan Mauritzsson
+.",
+		pos="10654,565.31",
+		width=3.2409];
+	36 -> 72	[color=blue,
+		pos="e,10766,557.6 11926,488.04 11621,506.37 11031,541.73 10776,557"];
+	73	[height=0.74639,
+		label="[73] Catharina Olofsdotter
+.",
+		pos="12117,565.31",
+		width=4.0462];
+	36 -> 73	[color=pink,
+		pos="e,12117,538.31 12117,502.9 12117,510.86 12117,519.75 12117,528.24"];
+	144	[height=0.74639,
+		label="[144] Mauritz Olofsson
+.",
+		pos="9208.3,655.05",
+		width=3.5552];
+	72 -> 144	[color=blue,
+		pos="e,9330,646.67 10542,573.1 10279,589.07 9622.2,628.94 9340.2,646.05"];
+	145	[height=0.74639,
+		label="[145] Märta Hansdotter
+.",
+		pos="10654,655.05",
+		width=3.6927];
+	72 -> 145	[color=pink,
+		pos="e,10654,628.05 10654,592.64 10654,600.6 10654,609.49 10654,617.98"];
+	288	[height=0.74639,
+		label="[288] Olof Mauritzson
+, född 1676 i Mo, Helgum sn, död 1754-09-01 i Örbäck,  Långsele sn. Bonde i Örbäck, Långsele sn.",
+		pos="8101.3,744.79",
+		width=14.142];
+	144 -> 288	[color=blue,
+		pos="e,8375,722.1 9090.1,665.42 8923.3,678.64 8613.6,703.19 8385.1,721.3"];
+	289	[height=0.74639,
+		label="[289] Ingrid Larsdotter
+, född 1678, död 1770-01-21 i Örbäck, Långsele sn.",
+		pos="9208.3,744.79",
+		width=7.4835];
+	144 -> 289	[color=pink,
+		pos="e,9208.3,717.79 9208.3,682.38 9208.3,690.34 9208.3,699.23 9208.3,707.72"];
+	576	[height=0.74639,
+		label="[576] Mauritz Johansson
+, född i Nässe, Långsele sn. Bonde  i Mo, Helgums sn o Hamre, Långsele sn.",
+		pos="7075.3,834.53",
+		width=10.999];
+	288 -> 576	[color=blue,
+		pos="e,7314.4,813.09 7842.4,767.93 7683.7,781.51 7481.6,798.79 7324.6,812.21"];
+	577	[height=0.74639,
+		label="[577] NN Olofsdotter
+, född i Mo, Helgums sn.",
+		pos="8101.3,834.53",
+		width=3.7516];
+	288 -> 577	[color=pink,
+		pos="e,8101.3,807.53 8101.3,772.12 8101.3,780.08 8101.3,788.97 8101.3,797.46"];
+	1152	[height=0.74639,
+		label="[1152] Johan Mauritzson
+, född i Nässe, Långsele sn. Bonde i Nässe,   Långsele sn.",
+		pos="6607.3,924.27",
+		width=8.3674];
+	576 -> 1152	[color=blue,
+		pos="e,6732.7,899.76 6945.3,859.91 6882.2,871.73 6806.6,885.92 6742.8,897.87"];
+	1153	[height=0.74639,
+		label="[1153] NN Månsdotter
+, född i Vojen, Graninge sn.",
+		pos="7075.3,924.27",
+		width=4.1248];
+	576 -> 1153	[color=pink,
+		pos="e,7075.3,897.27 7075.3,861.86 7075.3,869.82 7075.3,878.71 7075.3,887.2"];
+	2306	[height=0.74639,
+		label="[2306] Måns Mickelsson
+, född i Graninge, Långsele sn. Bonde, knekt   i Västergraninge, Långsele sn. finne, nämnd 1610-1627.",
+		pos="7075.3,1014",
+		width=14.653];
+	1153 -> 2306	[color=blue,
+		pos="e,7075.3,987.01 7075.3,951.6 7075.3,959.56 7075.3,968.45 7075.3,976.94"];
+	2307	[height=0.74639,
+		label="[2307] Margareta NN
+.",
+		pos="7742.3,1014",
+		width=3.3784];
+	1153 -> 2307	[color=pink,
+		pos="e,7657.2,994.79 7179.5,943.46 7197.1,946.24 7215.2,948.92 7232.3,951.14 7400.6,972.95 7444.5,962.55 7612.3,987.14 7623.7,988.81 \
+7635.6,990.81 7647.4,992.96"];
+	4612	[height=0.74639,
+		label="[4612] Mickel Henriksson
+, född i Graninge, Långsele sn. Bonde i Graninge,   Långsele sn. finne, nämnd 1600.",
+		pos="7179.3,1103.8",
+		width=12.06];
+	2306 -> 4612	[color=blue,
+		pos="e,7148.6,1076.8 7106,1040.9 7116.9,1050.1 7129.3,1060.5 7140.8,1070.2"];
+	9224	[height=0.74639,
+		label="[9224] Henrik Henriksson
+. Bonde i Graninge, Långsele sn. finne.",
+		pos="7179.3,1193.5",
+		width=5.7551];
+	4612 -> 9224	[color=blue,
+		pos="e,7179.3,1166.5 7179.3,1131.1 7179.3,1139 7179.3,1147.9 7179.3,1156.4"];
+	1154	[height=0.74639,
+		label="[1154] Olof Persson
+, född 1589, död 1646 i Mo, Helgums sn. Bonde i Mo,   Helgums sn.",
+		pos="7595.3,924.27",
+		width=9.8209];
+	577 -> 1154	[color=blue,
+		pos="e,7732.8,899.44 8002,852.76 7928.1,865.57 7826.2,883.24 7742.8,897.69"];
+	1155	[height=0.74639,
+		label="[1155] Malin Andersdotter
+, död 1667 i Mo, Helgums sn.   nämnd som änka 1646-1653.",
+		pos="8282.3,924.27",
+		width=8.7603];
+	577 -> 1155	[color=pink,
+		pos="e,8229.7,897.76 8151.3,859.74 8172.7,870.13 8198,882.37 8220.5,893.32"];
+	290	[height=0.74639,
+		label="[290] Hans Nilsson
+, född 1693-01-08 i Ärtrik, Helgums sn, död 1759-11-25  i Långsele, Långsele sn. Bonde i Långsele, Långsele \
+sn.",
+		pos="10216,744.79",
+		width=16.067];
+	145 -> 290	[color=blue,
+		pos="e,10342,718.55 10562,674.5 10501,686.69 10421,702.88 10352,716.55"];
+	291	[height=0.74639,
+		label="[291] Märta Andersdotter
+, född 1694, död 1767-03-08 i Långsele, Långsele sn.",
+		pos="11091,744.79",
+		width=7.7389];
+	145 -> 291	[color=pink,
+		pos="e,10975,720.35 10746,674.5 10810,687.22 10895,704.29 10964,718.31"];
+	580	[height=0.74639,
+		label="[580] Nils Jakobsson
+, född 1655 i Ärtrik, Helgums sn, död 1704 i Ärtrik,  Helgums sn. Bonde i Ärtrik, Helgums sn.",
+		pos="10058,834.53",
+		width=13.435];
+	290 -> 580	[color=blue,
+		pos="e,10105,807.71 10170,771.64 10152,781.42 10132,792.63 10114,802.81"];
+	581	[height=0.74639,
+		label="[581] Elisabet Hansdotter
+, född 1648 i Gagnet, Helgum sn, död 1710 i Ärtrik,  Helgum sn.",
+		pos="10941,834.53",
+		width=9.3495];
+	290 -> 581	[color=pink,
+		pos="e,10762,811.79 10417,770.06 10521,782.71 10649,798.1 10751,810.56"];
+	1160	[height=0.74639,
+		label="[1160] Jakob Persson
+, född 1628 i Gagnet, Helgums sn, död 1680 i Ärtrik,  Helgums sn. Bonde, nämndeman i Ärtrik, Helgums sn.",
+		pos="9175.3,924.27",
+		width=15.537];
+	580 -> 1160	[color=blue,
+		pos="e,9410.6,899.89 9829.8,858.24 9704.4,870.7 9548.9,886.15 9420.9,898.87"];
+	1161	[height=0.74639,
+		label="[1161] Anna Andersdotter
+, född i Ärtrik, Helgums sn, död 1685 i Ärtrik,  Helgum sn.",
+		pos="10058,924.27",
+		width=8.5049];
+	580 -> 1161	[color=pink,
+		pos="e,10058,897.27 10058,861.86 10058,869.82 10058,878.71 10058,887.2"];
+	2320	[height=0.74639,
+		label="[2320] Per Nilsson
+, född 1591 i Gagnet, Helgums sn, död 1655 i Gagnet,   Helgums sn. Bonde, nämndeman i Gagnet, Helgums sn.",
+		pos="8985.3,1014",
+		width=16.008];
+	1160 -> 2320	[color=blue,
+		pos="e,9041.2,987.19 9119.4,951.12 9097.7,961.12 9072.8,972.62 9050.4,982.98"];
+	4640	[height=0.74639,
+		label="[4640] Nils Jakobsson
+, född 1565 i Gagnet, Helgums sn, död 1630 i Gagnet,   Helgums sn. Bonde i Gagnet, Helgums sn.",
+		pos="8970.3,1103.8",
+		width=14.103];
+	2320 -> 4640	[color=blue,
+		pos="e,8974.8,1076.7 8980.8,1041.3 8979.5,1049.3 8977.9,1058.2 8976.5,1066.7"];
+	9280	[height=0.74639,
+		label="[9280] Jakob Persson
+= 40",
+		pos="8852.3,1193.5",
+		width=3.2802];
+	4640 -> 9280	[color=blue,
+		pos="e,8886,1167.4 8935.6,1130.6 8922.6,1140.2 8907.8,1151.3 8894.3,1161.3"];
+	9281	[height=0.74639,
+		label="[9281] Märta NN
+= 41",
+		pos="9087.3,1193.5",
+		width=2.7499];
+	4640 -> 9281	[color=pink,
+		pos="e,9054.7,1168 9004.8,1130.6 9017.9,1140.4 9032.9,1151.6 9046.5,1161.8"];
+	2322	[height=0.74639,
+		label="[2322] Anders Sjulsson
+, född 1573 i Ärtrik, Helgum sn. Bonde i Ärtrik,   Helgum sn.",
+		pos="9905.3,1014",
+		width=8.8192];
+	1161 -> 2322	[color=blue,
+		pos="e,9950.1,987.37 10014,950.89 9996.6,960.66 9977,971.91 9959.2,982.13"];
+	4644	[height=0.74639,
+		label="[4644] Sjul Eriksson
+, född 1545, död levde 1611. Bonde   i Ärtrik, Helgums sn, o Ramneå, Edsele sn.",
+		pos="9913.3,1103.8",
+		width=11.589];
+	2322 -> 4644	[color=blue,
+		pos="e,9911,1076.7 9907.7,1041.3 9908.5,1049.3 9909.3,1058.2 9910,1066.7"];
+	1162	[height=0.74639,
+		label="[1162] Hans Abrahamsson
+, född 1611 i Gagnet, Helgums sn, död 1685 i Gagnet,   Helgums sn. Bonde, kyrkvärd i Gagnet, Helgums \
+sn.",
+		pos="10941,924.27",
+		width=15.537];
+	581 -> 1162	[color=blue,
+		pos="e,10941,897.27 10941,861.86 10941,869.82 10941,878.71 10941,887.2"];
+	1163	[height=0.74639,
+		label="[1163] Sara Eriksdotter
+, född 1620, död 1705 i Gagnet, Helgum sn.",
+		pos="11904,924.27",
+		width=6.4622];
+	581 -> 1163	[color=pink,
+		pos="e,11726,907.01 11157,855.19 11325,870.48 11555,891.49 11716,906.1"];
+	2324	[height=0.74639,
+		label="[2324] Abraham Jakobsson
+, född 1567 i Gagnet, Helgums sn, död 1640 i Gagnet,   Helgums sn. Bonde i Gagnet, Helgums sn.",
+		pos="10748,1014",
+		width=14.103];
+	1162 -> 2324	[color=blue,
+		pos="e,10805,987.19 10884,951.12 10862,961.12 10837,972.62 10814,982.98"];
+	4648	[height=0.74639,
+		label="[4648] Jakob Persson
+, född 1530. Bonde i Gagnet, Helgums sn. nämnd 1557-1608.",
+		pos="10712,1103.8",
+		width=8.9174];
+	2324 -> 4648	[color=blue,
+		pos="e,10723,1076.7 10738,1041.3 10734,1049.5 10730,1058.6 10727,1067.2"];
+	4649	[height=0.74639,
+		label="[4649] Märta NN
+.",
+		pos="11150,1103.8",
+		width=2.7499];
+	2324 -> 4649	[color=pink,
+		pos="e,11078,1085.2 10872,1040.1 10924,1051.1 10986,1064.3 11042,1076.9 11051,1078.8 11060,1080.8 11068,1082.9"];
+	2326	[height=0.74639,
+		label="[2326] Erik Persson
+, född i Gagnet, Helgums sn, död i Gagnet, Helgums sn.   Bonde i Tannflo o Gagnet, Helgums sn. nämnd i Gagnet \
+1635-39.",
+		pos="11904,1014",
+		width=17.521];
+	1163 -> 2326	[color=blue,
+		pos="e,11904,987.01 11904,951.6 11904,959.56 11904,968.45 11904,976.94"];
+	2327	[height=0.74639,
+		label="[2327] NN Israelsdotter
+, född i Hårsta, Säbrå sn.",
+		pos="12691,1014",
+		width=3.8498];
+	1163 -> 2327	[color=pink,
+		pos="e,12594,994.82 12095,939.75 12222,950.42 12394,966.63 12544,987.14 12557,988.9 12571,990.96 12584,993.14"];
+	4654	[height=0.74639,
+		label="[4654] Israel Ragvaldsson
+, född i Sörtannflo, Resele sn. Bonde i Hårsta,   Säbrå sn.",
+		pos="12691,1103.8",
+		width=8.3281];
+	2327 -> 4654	[color=blue,
+		pos="e,12691,1076.7 12691,1041.3 12691,1049.3 12691,1058.2 12691,1066.7"];
+	9308	[height=0.74639,
+		label="[9308] Ragvald Knutsson
+, född i Holm, Resele sn, död i Sörtannflo, Resele sn.   Bonde, köpman i Sörtannflo, Resele sn. nämnd \
+1568-1606.",
+		pos="12342,1193.5",
+		width=16.165];
+	4654 -> 9308	[color=blue,
+		pos="e,12444,1167 12594,1129.2 12551,1140.2 12499,1153.1 12454,1164.5"];
+	9309	[height=0.74639,
+		label="[9309] Malin NN
+, född 1535.",
+		pos="13039,1193.5",
+		width=2.6909];
+	4654 -> 9309	[color=pink,
+		pos="e,12969,1174.9 12788,1129.2 12842,1142.8 12908,1159.5 12959,1172.3"];
+	18616	[height=0.74639,
+		label="[18616] Knut Ragvaldsson
+, död 1570 i Holme, Resele sn.   Bonde, nämndeman, landsköpman i Holme, Resele sn. nämnd 1542-1570.",
+		pos="12003,1283.2",
+		width=15.183];
+	9308 -> 18616	[color=blue,
+		pos="e,12102,1256.7 12244,1220 12202,1230.7 12154,1243.2 12112,1254.2"];
+	18617	[height=0.74639,
+		label="[18617] Dordi NN
+. nämnd 1569-1571.",
+		pos="12681,1283.2",
+		width=3.1427];
+	9308 -> 18617	[color=pink,
+		pos="e,12607,1263 12441,1220 12490,1232.8 12550,1248.1 12597,1260.4"];
+	146	[height=0.74639,
+		label="[146] Olof Johansson
+.",
+		pos="11989,655.05",
+		width=3.2213];
+	73 -> 146	[color=blue,
+		pos="e,12026,629.21 12081,591.45 12066,601.45 12049,613.05 12034,623.52"];
+	147	[height=0.74639,
+		label="[147] Lisa Olofsdotter
+.",
+		pos="12245,655.05",
+		width=3.398];
+	73 -> 147	[color=pink,
+		pos="e,12209,629.21 12154,591.45 12169,601.45 12186,613.05 12201,623.52"];
+	292	[height=0.74639,
+		label="[292] Johan Olofsson
+, född 1701 i Hjälta, Långsele sn, död 1754-01-06 i Hjälta,  Långsele sn. Bonde i Hjälta, Långsele \
+sn.",
+		pos="11989,744.79",
+		width=14.417];
+	146 -> 292	[color=blue,
+		pos="e,11989,717.79 11989,682.38 11989,690.34 11989,699.23 11989,707.72"];
+	584	[height=0.74639,
+		label="[584] Olof Jönsson
+, född i Hjälta, Långsele sn. Bonde i Hjälta, Långsele sn.",
+		pos="12262,834.53",
+		width=8.1907];
+	292 -> 584	[color=blue,
+		pos="e,12184,808.49 12069,771.4 12102,782.04 12141,794.42 12175,805.31"];
+	1168	[height=0.74639,
+		label="[1168] Jöns Larsson
+, född i Hjälta, Långsele sn. Bonde i Hjälta, Långsele sn.",
+		pos="12535,924.27",
+		width=8.1907];
+	584 -> 1168	[color=blue,
+		pos="e,12457,898.21 12340,860.56 12374,871.34 12413,884.01 12448,895.12"];
+	2336	[height=0.74639,
+		label="[2336] Lars Olofsson
+. Bonde i Hjälta, Långsele sn.",
+		pos="13007,1014",
+		width=4.4391];
+	1168 -> 2336	[color=blue,
+		pos="e,12903,993.58 12661,948.61 12733,961.99 12823,978.66 12893,991.69"];
+	74	[height=0.74639,
+		label="[74] Elias Blå
+, född 1780 i Säbrå sn.",
+		pos="13167,565.31",
+		width=3.5159];
+	37 -> 74	[color=blue,
+		pos="e,13237,542.73 13372,500.78 13333,512.89 13286,527.52 13247,539.69"];
+	75	[height=0.74639,
+		label="[75] Maria Nilsdotter
+, född 1778-01-15 i Västergranvåg, Sollefteå sn.",
+		pos="13649,565.31",
+		width=7.0318];
+	37 -> 75	[color=pink,
+		pos="e,13592,539.1 13507,501.6 13531,512.02 13558,524.19 13583,535.02"];
+	149	[height=0.74639,
+		label="[149] Ingrid Pärsdotter
+.",
+		pos="13083,655.05",
+		width=3.5748];
+	74 -> 149	[color=pink,
+		pos="e,13108,628.43 13143,591.69 13134,600.88 13124,611.41 13115,621.16"];
+	150	[height=0.74639,
+		label="[150] Nils Persson
+, född 1744-07-30 i Gullböle, Sollefteå sn. Torpare  i Västergranvåg, Sollefteå sn.",
+		pos="13649,655.05",
+		width=11.648];
+	75 -> 150	[color=blue,
+		pos="e,13649,628.05 13649,592.64 13649,600.6 13649,609.49 13649,617.98"];
+	151	[height=0.74639,
+		label="[151] Gunilla Persdotter
+, född 1751-06-28 i Sollefteå bruk, Sollefteå sn,  död 1813-06-03 i Västergranvåg, Sollefteå sn.",
+		pos="14574,655.05",
+		width=13.553];
+	75 -> 151	[color=pink,
+		pos="e,14337,631.53 13833,583.78 13975,597.19 14172,615.85 14327,630.57"];
+	300	[height=0.74639,
+		label="[300] Per Persson
+, född 1706, död 1748-11-27 i Gullböle, Sollefteå sn. Torpare  i Gullböle, Sollefteå sn.",
+		pos="12967,744.79",
+		width=12.237];
+	150 -> 300	[color=blue,
+		pos="e,13150,720.32 13468,679.33 13373,691.57 13257,706.56 13160,719.01"];
+	301	[height=0.74639,
+		label="[301] Brita Nilsdotter
+, född 1700, död 1778-11-15 i Gullböle, Sollefteå sn.",
+		pos="13701,744.79",
+		width=7.6407];
+	150 -> 301	[color=pink,
+		pos="e,13686,717.79 13665,682.38 13670,690.78 13676,700.21 13681,709.12"];
+	302	[height=0.74639,
+		label="[302] Per Ersson
+, född 1707, död 1789-02-11 i Sollefteå bruk, Sollefteå sn.  Dagverkskarl i Sollefteå bruk, Sollefteå sn.",
+		pos="14522,744.79",
+		width=14.653];
+	151 -> 302	[color=blue,
+		pos="e,14538,717.79 14559,682.38 14554,690.78 14548,700.21 14543,709.12"];
+	303	[height=0.74639,
+		label="[303] Maria Andersdotter
+, född 1711-01-05 i Golva, Boteå sn, död 1777-01-26  i Sollefteå bruk, Sollefteå sn.",
+		pos="15495,744.79",
+		width=11.883];
+	151 -> 303	[color=pink,
+		pos="e,15267,722.03 14811,678.56 14947,691.6 15119,707.97 15257,721.05"];
+	38	[height=0.74639,
+		label="[38] Nils Christophersson
+, född 1802-07-04 i Hämra, Sidensjö sn.",
+		pos="24179,475.57",
+		width=5.8926];
+	19 -> 38	[color=blue,
+		pos="e,24179,448.57 24179,413.16 24179,421.12 24179,430.01 24179,438.5"];
+	39	[height=0.74639,
+		label="[39] Stina Olofsdotter
+, född 1794-04-08 i Hållen, Sidensjö sn.",
+		pos="43610,475.57",
+		width=5.8533];
+	19 -> 39	[color=pink,
+		pos="e,43400,473.62 24401,387.83 26406,396.88 41388,464.54 43390,473.57"];
+	76	[height=0.74639,
+		label="[76] Christopher Hansson
+.",
+		pos="22021,565.31",
+		width=3.948];
+	38 -> 76	[color=blue,
+		pos="e,22159,558.7 23980,484.69 23550,502.14 22548,542.9 22169,558.29"];
+	77	[height=0.74639,
+		label="[77] Stina Jöransdotter
+.",
+		pos="28315,565.31",
+		width=3.5552];
+	38 -> 77	[color=pink,
+		pos="e,28188,561.62 24387,480.98 25120,496.53 27571,548.52 28178,561.4"];
+	152	[height=0.74639,
+		label="[152] Hans Nilsson
+.",
+		pos="17349,655.05",
+		width=3.0052];
+	76 -> 152	[color=blue,
+		pos="e,17457,652.03 21880,568.96 21182,582.06 18109,639.79 17467,651.84"];
+	153	[height=0.74639,
+		label="[153] Marget Christoffersdotter
+, född 1735 i Västerby, Sidensjö sn, död 1802  i Västerby, Sidensjö sn.",
+		pos="22021,655.05",
+		width=10.057];
+	76 -> 153	[color=pink,
+		pos="e,22021,628.05 22021,592.64 22021,600.6 22021,609.49 22021,617.98"];
+	304	[height=0.74639,
+		label="[304] Nils Andersson
+, född 1700-03-20 i Å, Sidensjö sn, död 1789-07-01 i Å,  Sidensjö sn. Bonde i Å, Sidensjö sn.",
+		pos="16413,744.79",
+		width=13.121];
+	152 -> 304	[color=blue,
+		pos="e,16651,721.53 17249,665.44 17110,678.5 16853,702.56 16661,720.59"];
+	305	[height=0.74639,
+		label="[305] Margareta Jonsdotter
+, född 1699-12-28 i Ås, Sidensjö sn, död 1755-05-04  i Å, Sidensjö sn.",
+		pos="17349,744.79",
+		width=9.9781];
+	152 -> 305	[color=pink,
+		pos="e,17349,717.79 17349,682.38 17349,690.34 17349,699.23 17349,707.72"];
+	608	[height=0.74639,
+		label="[608] Anders Nilsson
+, född 1664 i Anundsböle, Sidensjö sn, död 1730 i Å,  Sidensjö sn. Bonde i Å, Sidensjö sn.",
+		pos="14212,834.53",
+		width=12.806];
+	304 -> 608	[color=blue,
+		pos="e,14559,816.81 16088,764.29 16036,766.96 15983,769.52 15932,771.66 15419,793.47 15290,787.88 14776,807.66 14709,810.24 14638,813.28 \
+14570,816.35"];
+	609	[height=0.74639,
+		label="[609] Sara Nilsdotter
+, född 1678 i Nordanås, Själevads sn, död 1749 i Å,  Sidensjö sn.",
+		pos="15122,834.53",
+		width=9.3692];
+	304 -> 609	[color=pink,
+		pos="e,15373,816.52 16119,765.81 15897,780.88 15596,801.35 15383,815.83"];
+	1216	[height=0.74639,
+		label="[1216] Nils Olofsson
+, född i Överå, Sidensjö sn, död 1713 i Mosjö,   Sidensjö sn. Bonde i Grätnäs o Mosjö, Sidensjö \
+sn.",
+		pos="13372,924.27",
+		width=14.064];
+	608 -> 1216	[color=blue,
+		pos="e,13594,900.08 13995,858.24 13875,870.75 13727,886.27 13605,899.02"];
+	1217	[height=0.74639,
+		label="[1217] Anna Larsdotter
+, född i Hämra, Sidensjö sn, död 1718 i Mosjö,   Sidensjö sn.",
+		pos="14212,924.27",
+		width=8.7603];
+	608 -> 1217	[color=pink,
+		pos="e,14212,897.27 14212,861.86 14212,869.82 14212,878.71 14212,887.2"];
+	2432	[height=0.74639,
+		label="[2432] Olof Andersson
+. Bonde i Överå, Sidensjö sn. nämnd 1638-1644.",
+		pos="13440,1014",
+		width=7.0907];
+	1216 -> 2432	[color=blue,
+		pos="e,13420,987.04 13392,951.12 13399,959.88 13407,969.8 13414,979.09"];
+	2434	[height=0.74639,
+		label="[2434] Lars Andersson
+, född 1598 i Hämra, Sidensjö sn. Bonde i Hämra,   Sidensjö sn. nämnd 1631-1663.",
+		pos="14212,1014",
+		width=11.982];
+	1217 -> 2434	[color=blue,
+		pos="e,14212,987.01 14212,951.6 14212,959.56 14212,968.45 14212,976.94"];
+	4868	[height=0.74639,
+		label="[4868] Anders Gabrielsson
+. Bonde i Hämra, Sidensjö sn. nämnd 1604-1629.",
+		pos="14212,1103.8",
+		width=7.2086];
+	2434 -> 4868	[color=blue,
+		pos="e,14212,1076.7 14212,1041.3 14212,1049.3 14212,1058.2 14212,1066.7"];
+	1218	[height=0.74639,
+		label="[1218] Nils Olsson
+. Bonde i Nordanås, Själevads sn.",
+		pos="14726,924.27",
+		width=5.0283];
+	609 -> 1218	[color=blue,
+		pos="e,14824,901.58 15012,859.97 14956,872.29 14889,887.17 14834,899.4"];
+	1219	[height=0.74639,
+		label="[1219] NN NN
+, död 1708 i Nordanås, Själevads sn.",
+		pos="15122,924.27",
+		width=5.4604];
+	609 -> 1219	[color=pink,
+		pos="e,15122,897.27 15122,861.86 15122,869.82 15122,878.71 15122,887.2"];
+	610	[height=0.74639,
+		label="[610] Jon Hansson
+, född i Nyland, Sidensjö sn, död 1711-12-04 i Ås,   Sidensjö sn. Bonde i Ås, Sidensjö sn.",
+		pos="16613,834.53",
+		width=12.649];
+	305 -> 610	[color=blue,
+		pos="e,16809,810.22 17164,767.87 17059,780.4 16927,796.11 16819,809.02"];
+	611	[height=0.74639,
+		label="[611] Elisabet Jonsdotter
+, född 1666 i Teg, Sidensjö sn, död 1735-01-12 i Ås,   Sidensjö sn.",
+		pos="17428,834.53",
+		width=9.487];
+	305 -> 611	[color=pink,
+		pos="e,17405,807.56 17373,771.64 17381,780.49 17390,790.52 17398,799.89"];
+	1220	[height=0.74639,
+		label="[1220] Hans Andersson
+, född i Nyland, Sidensjö sn, död 1668 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="15808,924.27",
+		width=13.081];
+	610 -> 1220	[color=blue,
+		pos="e,16020,900.25 16403,858.41 16289,870.93 16146,886.43 16030,899.14"];
+	1221	[height=0.74639,
+		label="[1221] Karin Johansdotter
+, född i Nyland, Sidensjö sn, död 1686 i Nyland,   Sidensjö sn.",
+		pos="16620,924.27",
+		width=8.9763];
+	610 -> 1221	[color=pink,
+		pos="e,16618,897.27 16615,861.86 16616,869.82 16617,878.71 16617,887.2"];
+	2440	[height=0.74639,
+		label="[2440] Anders Olofsson
+, född 1575. Bonde i Nyland, Sidensjö sn.",
+		pos="15151,1014",
+		width=6.1086];
+	1220 -> 2440	[color=blue,
+		pos="e,15296,993.72 15629,949.19 15528,962.7 15403,979.43 15306,992.36"];
+	2442	[height=0.74639,
+		label="[2442] Johan Persson
+, född 1596 i Nyland, Sidensjö sn, död 1670 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="15889,1014",
+		width=13.887];
+	1221 -> 2442	[color=blue,
+		pos="e,16087,989.31 16442,946.68 16338,959.19 16206,975.03 16097,988.1"];
+	2443	[height=0.74639,
+		label="[2443] Brita Andersdotter
+, död 1675 i Nyland, Sidensjö sn.",
+		pos="16585,1014",
+		width=4.9497];
+	1221 -> 2443	[color=pink,
+		pos="e,16596,987.01 16610,951.6 16607,959.74 16603,968.85 16599,977.5"];
+	4884	[height=0.74639,
+		label="[4884] Per Persson
+, född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1609-1633.",
+		pos="15889,1103.8",
+		width=11.274];
+	2442 -> 4884	[color=blue,
+		pos="e,15889,1076.7 15889,1041.3 15889,1049.3 15889,1058.2 15889,1066.7"];
+	9768	[height=0.74639,
+		label="[9768] Per Olofsson
+, född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1571-1608.",
+		pos="15579,1193.5",
+		width=11.274];
+	4884 -> 9768	[color=blue,
+		pos="e,15668,1167.3 15800,1130 15762,1140.8 15717,1153.4 15678,1164.5"];
+	9769	[height=0.74639,
+		label="[9769] NN Tomasdotter
+, född i Nolås, Sidensjö sn.",
+		pos="16174,1193.5",
+		width=4.0462];
+	4884 -> 9769	[color=pink,
+		pos="e,16102,1170.2 15972,1130.1 16009,1141.7 16054,1155.5 16092,1167.1"];
+	19536	[height=0.74639,
+		label="[19536] Olof Olofsson
+. Bonde i Nyland, Sidensjö sn. nämnd 1549-1570.",
+		pos="15529,1283.2",
+		width=7.2478];
+	9768 -> 19536	[color=blue,
+		pos="e,15544,1256.2 15564,1220.8 15560,1229.1 15554,1238.5 15549,1247.3"];
+	19538	[height=0.74639,
+		label="[19538] Tomas Jonsson
+, född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1571-1621.",
+		pos="16199,1283.2",
+		width=10.862];
+	9769 -> 19538	[color=blue,
+		pos="e,16192,1256.3 16182,1220.3 16184,1228.6 16187,1237.8 16189,1246.6"];
+	39076	[height=0.74639,
+		label="[39076] Jon Jakobsson
+, född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1555-1570.",
+		pos="16199,1373",
+		width=10.862];
+	19538 -> 39076	[color=blue,
+		pos="e,16199,1346 16199,1310.6 16199,1318.5 16199,1327.4 16199,1335.9"];
+	78152	[height=0.74639,
+		label="[78152] Jakob Olofsson
+. Bonde i Nolås, Sidensjö sn. nämnd 1535-1549.",
+		pos="16199,1462.7",
+		width=7.0514];
+	39076 -> 78152	[color=blue,
+		pos="e,16199,1435.7 16199,1400.3 16199,1408.3 16199,1417.2 16199,1425.6"];
+	1222	[height=0.74639,
+		label="[1222] Jon Eriksson
+, född 1630 i Teg, Sidensjö sn, död 1703 i Teg,   Sidensjö sn. Bonde i Teg, Sidensjö sn.",
+		pos="17421,924.27",
+		width=12.374];
+	611 -> 1222	[color=blue,
+		pos="e,17423,897.27 17426,861.86 17426,869.82 17425,878.71 17424,887.2"];
+	1223	[height=0.74639,
+		label="[1223] NN NN
+, död 1676 i Teg, Sidensjö sn.",
+		pos="18045,924.27",
+		width=4.4587];
+	611 -> 1223	[color=pink,
+		pos="e,17930,905.53 17595,858.03 17679,869.54 17783,883.93 17875,897.4 17890,899.51 17905,901.77 17920,904.04"];
+	2444	[height=0.74639,
+		label="[2444] Erik Jonsson
+, född 1585 i Teg, Sidensjö sn. Bonde i Teg, Sidensjö sn.",
+		pos="17075,1014",
+		width=8.171];
+	1222 -> 2444	[color=blue,
+		pos="e,17172,988.61 17322,950.53 17278,961.69 17226,974.81 17181,986.14"];
+	2445	[height=0.74639,
+		label="[2445] NN NN
+, död 1676 i Teg, Sidensjö sn.",
+		pos="17548,1014",
+		width=4.4587];
+	1222 -> 2445	[color=pink,
+		pos="e,17512,987.65 17459,951.12 17473,960.76 17489,971.79 17503,981.85"];
+	306	[height=0.74639,
+		label="[306] Christoffer Nilsson
+, född 1703 i Västerby, Sidensjö sn, död 1755  i Västerby, Sidensjö sn. Bonde i Västerby, Sidensjö \
+sn.",
+		pos="21169,744.79",
+		width=14.358];
+	153 -> 306	[color=blue,
+		pos="e,21395,720.59 21816,677.21 21692,689.97 21534,706.28 21405,719.56"];
+	307	[height=0.74639,
+		label="[307] Göle Johansdotter
+, född 1704 i Hämra, Sidensjö sn, död 1772 i Västerby,  Sidensjö sn.",
+		pos="22815,744.79",
+		width=9.8209];
+	153 -> 307	[color=pink,
+		pos="e,22621,722.33 22217,677.68 22337,690.91 22490,707.8 22611,721.2"];
+	612	[height=0.74639,
+		label="[612] Nils Christoffersson
+, född 1657 i Nyland, Sidensjö sn, död 1736  i Västerby, Sidensjö sn. Bonde i Västerby, Sidensjö \
+sn.",
+		pos="19609,834.53",
+		width=14.181];
+	306 -> 612	[color=blue,
+		pos="e,19949,814.45 20828,764.99 20570,779.47 20218,799.27 19959,813.87"];
+	613	[height=0.74639,
+		label="[613] Margareta Johansdotter
+, född 1669 i Näs, Sidensjö sn, död 1733  i Västerby, Sidensjö sn.",
+		pos="21169,834.53",
+		width=9.4084];
+	306 -> 613	[color=pink,
+		pos="e,21169,807.53 21169,772.12 21169,780.08 21169,788.97 21169,797.46"];
+	1224	[height=0.74639,
+		label="[1224] Christoffer Andersson
+, född i Djupsjö, Sidensjö sn, död 1699 i Nyland,  Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="18730,924.27",
+		width=13.062];
+	612 -> 1224	[color=blue,
+		pos="e,18957,900.69 19379,858.53 19252,871.19 19095,886.89 18967,899.65"];
+	1225	[height=0.74639,
+		label="[1225] Anna Andersdotter
+, född i Nyland, Sidensjö sn, död 1694 i Nyland,  Sidensjö sn.",
+		pos="19609,924.27",
+		width=8.8781];
+	612 -> 1225	[color=pink,
+		pos="e,19609,897.27 19609,861.86 19609,869.82 19609,878.71 19609,887.2"];
+	2448	[height=0.74639,
+		label="[2448] Anders Olofsson
+, född i Djupsjö, Sidensjö sn. Bonde i Djupsjö,   Sidensjö sn. nämnd 1624-1631.",
+		pos="18137,1014",
+		width=11.392];
+	1224 -> 2448	[color=blue,
+		pos="e,18298,989.26 18567,949.48 18486,961.37 18390,975.7 18308,987.73"];
+	4896	[height=0.74639,
+		label="[4896] Olof Olofsson
+. Bonde i Djupsjö, Sidensjö sn.",
+		pos="17971,1103.8",
+		width=4.5766];
+	2448 -> 4896	[color=blue,
+		pos="e,18018,1078 18088,1040.9 18069,1051 18047,1062.8 18027,1073.3"];
+	4897	[height=0.74639,
+		label="[4897] Kerstin Svensdotter
+.",
+		pos="18303,1103.8",
+		width=4.1444];
+	2448 -> 4897	[color=pink,
+		pos="e,18257,1078.1 18186,1040.9 18206,1051.1 18228,1062.9 18248,1073.4"];
+	2450	[height=0.74639,
+		label="[2450] Anders Jonsson
+, född 1595 i Nyland, Sidensjö sn, död 1681 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="19065,1014",
+		width=13.887];
+	1225 -> 2450	[color=blue,
+		pos="e,19218,988.35 19466,948.32 19393,960.11 19304,974.5 19228,986.71"];
+	2451	[height=0.74639,
+		label="[2451] Brita Nilsdotter
+, född i Skalmsjö, Anundsjö sn.",
+		pos="19750,1014",
+		width=4.6355];
+	1225 -> 2451	[color=pink,
+		pos="e,19710,987.65 19651,951.12 19667,960.85 19684,972 19701,982.14"];
+	4900	[height=0.74639,
+		label="[4900] Jon Andersson
+. Bonde i Nyland, Sidensjö sn. nämnd 1597-1622.",
+		pos="19013,1103.8",
+		width=7.2478];
+	2450 -> 4900	[color=blue,
+		pos="e,19029,1076.7 19050,1041.3 19045,1049.7 19039,1059.2 19034,1068.1"];
+	4902	[height=0.74639,
+		label="[4902] Nils Hansson
+, född 1572 i Bredbyn, Anundsjö sn. Bonde i Skalmsjö,   Anundsjö sn. nämnd 1620-1652.",
+		pos="19750,1103.8",
+		width=12.728];
+	2451 -> 4902	[color=blue,
+		pos="e,19750,1076.7 19750,1041.3 19750,1049.3 19750,1058.2 19750,1066.7"];
+	4903	[height=0.74639,
+		label="[4903] Karin NN
+.",
+		pos="20322,1103.8",
+		width=2.6517];
+	2451 -> 4903	[color=pink,
+		pos="e,20255,1084.8 19870,1032.9 19889,1035.7 19908,1038.4 19926,1040.9 20055,1058.4 20089,1053.3 20217,1076.9 20226,1078.5 20235,1080.5 \
+20245,1082.5"];
+	9804	[height=0.74639,
+		label="[9804] Hans Björnsson
+, född i Skalmsjö, Anundsjö sn. Byggmästare och bonde   i Bredbyn o Skalmsjö, Anundsjö sn. nämnd 1575-1620.",
+		pos="19368,1193.5",
+		width=16.047];
+	4902 -> 9804	[color=blue,
+		pos="e,19479,1167.1 19641,1129.9 19593,1140.8 19537,1153.6 19489,1164.8"];
+	9805	[height=0.74639,
+		label="[9805] Anna NN
+, född i Sörflärke, Anundsjö sn.",
+		pos="20131,1193.5",
+		width=4.6355];
+	4902 -> 9805	[color=pink,
+		pos="e,20039,1171.1 19860,1129.9 19913,1142.1 19976,1156.8 20029,1168.8"];
+	19608	[height=0.74639,
+		label="[19608] Björn Olofsson
+, född i Skalmsjö, Anundsjö sn. Bonde i Skalmsjö,   Anundsjö sn. nämnd 1541-1576.",
+		pos="19080,1283.2",
+		width=12.001];
+	9804 -> 19608	[color=blue,
+		pos="e,19164,1256.7 19284,1220.1 19250,1230.6 19209,1242.9 19174,1253.7"];
+	19609	[height=0.74639,
+		label="[19609] NN Nilsdotter
+.",
+		pos="19656,1283.2",
+		width=3.4963];
+	9804 -> 19609	[color=pink,
+		pos="e,19586,1260.9 19452,1220.1 19492,1232 19538,1246.2 19577,1257.9"];
+	39216	[height=0.74639,
+		label="[39216] Olof NN
+. Bonde i Skalmsjö, Anundsjö sn. nämnd 1535.",
+		pos="18885,1373",
+		width=6.8157];
+	19608 -> 39216	[color=blue,
+		pos="e,18942,1346.7 19023,1310 19000,1320.2 18974,1332 18951,1342.6"];
+	39217	[height=0.74639,
+		label="[39217] NN Jonsdotter
+.",
+		pos="19275,1373",
+		width=3.5159];
+	19608 -> 39217	[color=pink,
+		pos="e,19223,1348.5 19138,1310 19162,1320.8 19190,1333.4 19214,1344.4"];
+	1226	[height=0.74639,
+		label="[1226] Johan Eskilsson
+, född 1620 i Näs, Sidensjö sn, död 1693 i Näs,   Sidensjö sn. Sockenskrivare i Näs, Sidensjö sn. \
+Riksdagsman.",
+		pos="20761,924.27",
+		width=15.831];
+	613 -> 1226	[color=blue,
+		pos="e,20879,897.94 21056,859.91 21004,871.06 20942,884.31 20889,895.81"];
+	1227	[height=0.74639,
+		label="[1227] Lisbet Larsdotter
+, född i Hämra, Sidensjö, död 1717 i Näs, Sidensjö sn.",
+		pos="21632,924.27",
+		width=7.8764];
+	613 -> 1227	[color=pink,
+		pos="e,21510,900.01 21296,859.51 21359,871.47 21435,885.95 21499,898.08"];
+	2452	[height=0.74639,
+		label="[2452] Eskil Olofsson
+, född 1587, död 1678 i Näs, Sidensjö sn. Bonde i Näs,   Sidensjö sn.",
+		pos="20292,1014",
+		width=9.9191];
+	1226 -> 2452	[color=blue,
+		pos="e,20421,988.92 20627,950.41 20566,961.9 20493,975.5 20431,987.08"];
+	2453	[height=0.74639,
+		label="[2453] NN Nilsdotter
+, född i Sidensjö sn, död 1669 i Näs, Sidensjö sn.",
+		pos="20925,1014",
+		width=7.1693];
+	1226 -> 2453	[color=pink,
+		pos="e,20878,987.5 20810,951.12 20828,961.03 20849,972.42 20869,982.7"];
+	4906	[height=0.74639,
+		label="[4906] Nicolaus Laurentii
+, död 1630 i Sidensjö sn. Kyrkoherde i Sidensjö.",
+		pos="20732,1103.8",
+		width=7.0318];
+	2453 -> 4906	[color=blue,
+		pos="e,20788,1077.5 20870,1040.3 20847,1050.6 20821,1062.6 20797,1073.3"];
+	4907	[height=0.74639,
+		label="[4907] Catharina Persdotter
+.",
+		pos="21157,1103.8",
+		width=4.2819];
+	2453 -> 4907	[color=pink,
+		pos="e,21095,1079.1 20992,1040 21021,1051.1 21055,1064.1 21085,1075.4"];
+	2454	[height=0.74639,
+		label="[2454] Lars Andersson
+, född 1598 i Hämra, Sidensjö sn. Bonde i Hämra,   Sidensjö sn. nämnd 1631-1663.",
+		pos="21632,1014",
+		width=11.982];
+	1227 -> 2454	[color=blue,
+		pos="e,21632,987.01 21632,951.6 21632,959.56 21632,968.45 21632,976.94"];
+	4908	[height=0.74639,
+		label="[4908] Anders Gabrielsson
+. Bonde i Hämra, Sidensjö sn. nämnd 1604-1629.",
+		pos="21632,1103.8",
+		width=7.2086];
+	2454 -> 4908	[color=blue,
+		pos="e,21632,1076.7 21632,1041.3 21632,1049.3 21632,1058.2 21632,1066.7"];
+	614	[height=0.74639,
+		label="[614] Johan Andersson
+, född 1670 i Hämra, Sidensjö sn, död 1741 i Hämra,  Sidensjö sn. Bonde i Hämra, Sidensjö sn.",
+		pos="22815,834.53",
+		width=13.651];
+	307 -> 614	[color=blue,
+		pos="e,22815,807.53 22815,772.12 22815,780.08 22815,788.97 22815,797.46"];
+	615	[height=0.74639,
+		label="[615] Margareta Olofsdotter
+, född 1681 i Överbilla, Själevads sn, död 1764  i Hämra, Sidensjö sn.",
+		pos="24036,834.53",
+		width=10.057];
+	307 -> 615	[color=pink,
+		pos="e,23783,815.32 23066,763.78 23272,778.59 23563,799.52 23773,814.58"];
+	1228	[height=0.74639,
+		label="[1228] Anders Johansson
+, född i Hämra, Sidensjö, död 1719 i Hämra,   Sidensjö sn. Bonde i Hämra, Sidensjö sn.",
+		pos="22466,924.27",
+		width=12.532];
+	614 -> 1228	[color=blue,
+		pos="e,22567,898.03 22714,860.91 22671,871.75 22621,884.45 22577,895.54"];
+	1229	[height=0.74639,
+		label="[1229] Karin Johansdotter
+, född i Näs, Sidensjö, död 1698 i Hämra,   Sidensjö sn.",
+		pos="23225,924.27",
+		width=8.0532];
+	614 -> 1229	[color=pink,
+		pos="e,23114,899.41 22933,860.67 22986,872.14 23050,885.7 23104,897.27"];
+	2456	[height=0.74639,
+		label="[2456] Johan Andersson
+, född i Hämra, Sidensjö sn, död 1681 i Hämra,   Sidensjö sn. Bonde i Hämra, Sidensjö sn.",
+		pos="22547,1014",
+		width=12.944];
+	1228 -> 2456	[color=blue,
+		pos="e,22523,987.04 22490,951.12 22498,960.06 22508,970.2 22517,979.65"];
+	2457	[height=0.74639,
+		label="[2457] Sara NN
+.",
+		pos="23122,1014",
+		width=2.5338];
+	1228 -> 2457	[color=pink,
+		pos="e,23058,994.89 22725,946.32 22819,956.01 22926,969.39 23022,987.14 23031,988.67 23039,990.51 23048,992.5"];
+	4912	[height=0.74639,
+		label="[4912] Anders Gabrielsson
+= 44",
+		pos="22547,1103.8",
+		width=4.0659];
+	2456 -> 4912	[color=blue,
+		pos="e,22547,1076.7 22547,1041.3 22547,1049.3 22547,1058.2 22547,1066.7"];
+	2458	[height=0.74639,
+		label="[2458] Johan Eskilsson
+= 10",
+		pos="23358,1014",
+		width=3.5159];
+	1229 -> 2458	[color=blue,
+		pos="e,23321,988.25 23265,951.12 23280,961.02 23297,972.39 23312,982.67"];
+	2459	[height=0.74639,
+		label="[2459] Sara Björnsdotter
+, född i Näs, Sidensjö sn, död 1667 i Näs,   Sidensjö sn.",
+		pos="23819,1014",
+		width=8.0532];
+	1229 -> 2459	[color=pink,
+		pos="e,23670,990.96 23375,947.36 23462,960.2 23571,976.38 23660,989.47"];
+	4916	[height=0.74639,
+		label="[4916] Eskil Olofsson
+= 20",
+		pos="23101,1103.8",
+		width=3.3195];
+	2458 -> 4916	[color=blue,
+		pos="e,23165,1080.9 23293,1037.2 23257,1049.5 23212,1064.8 23175,1077.6"];
+	4917	[height=0.74639,
+		label="[4917] NN Nilsdotter
+= 21",
+		pos="23358,1103.8",
+		width=3.3195];
+	2458 -> 4917	[color=pink,
+		pos="e,23358,1076.7 23358,1041.3 23358,1049.3 23358,1058.2 23358,1066.7"];
+	9834	[height=0.74639,
+		label="[9834] Nicolaus Laurentii
+= 42",
+		pos="23122,1193.5",
+		width=3.9087];
+	4917 -> 9834	[color=blue,
+		pos="e,23185,1169.2 23298,1127.1 23267,1138.9 23228,1153.3 23195,1165.7"];
+	9835	[height=0.74639,
+		label="[9835] Catharina Persdotter
+= 43",
+		pos="23435,1193.5",
+		width=4.2819];
+	4917 -> 9835	[color=pink,
+		pos="e,23413,1166.8 23381,1130.6 23389,1139.5 23398,1149.7 23406,1159.1"];
+	4918	[height=0.74639,
+		label="[4918] Björn Olofsson
+, född i Näs, Sidensjö sn. Bonde o nämndeman i Näs,   Sidensjö sn.",
+		pos="23845,1103.8",
+		width=9.7031];
+	2459 -> 4918	[color=blue,
+		pos="e,23838,1076.7 23827,1041.3 23830,1049.4 23832,1058.4 23835,1067"];
+	9836	[height=0.74639,
+		label="[9836] Olof Kjellsson
+. Länsman i Näs, Sidensjö sn.",
+		pos="23845,1193.5",
+		width=4.4587];
+	4918 -> 9836	[color=blue,
+		pos="e,23845,1166.5 23845,1131.1 23845,1139 23845,1147.9 23845,1156.4"];
+	1230	[height=0.74639,
+		label="[1230] Olof Andersson
+, född i Billsta, Själevads sn, död 1688 i Överbilla,   Själevads sn. Bonde i Överbilla, Själevads \
+sn.",
+		pos="24036,924.27",
+		width=13.985];
+	615 -> 1230	[color=blue,
+		pos="e,24036,897.27 24036,861.86 24036,869.82 24036,878.71 24036,887.2"];
+	1231	[height=0.74639,
+		label="[1231] Göle Olofsdotter
+, född i Överbilla, Själevads sn, död 1718 i Överbilla,   Själevads sn.",
+		pos="24911,924.27",
+		width=9.8209];
+	615 -> 1231	[color=pink,
+		pos="e,24704,902.48 24245,856.49 24381,870.07 24557,887.71 24694,901.45"];
+	154	[height=0.74639,
+		label="[154] Jöran Johansson
+.",
+		pos="28315,655.05",
+		width=3.398];
+	77 -> 154	[color=blue,
+		pos="e,28315,628.05 28315,592.64 28315,600.6 28315,609.49 28315,617.98"];
+	155	[height=0.74639,
+		label="[155] Kerstin Marcusdotter
+.",
+		pos="33278,655.05",
+		width=4.1641];
+	77 -> 155	[color=pink,
+		pos="e,33130,651.42 28443,568.56 29127,580.66 32362,637.86 33120,651.24"];
+	308	[height=0.74639,
+		label="[308] Johan Johansson
+, född 1687 i Hämra, Sidensjö sn, död 1754 i Hämra,  Sidensjö sn. Bonde i Hämra, Sidensjö sn.",
+		pos="27384,744.79",
+		width=13.651];
+	154 -> 308	[color=blue,
+		pos="e,27623,721.27 28204,666.5 28064,679.7 27819,702.79 27634,720.31"];
+	309	[height=0.74639,
+		label="[309] Gertrud Göransdotter
+, född 1704 i Näs, Sidensjö sn, död 1749 i Hämra,  Sidensjö sn.",
+		pos="28991,744.79",
+		width=9.1727];
+	154 -> 309	[color=pink,
+		pos="e,28821,721.71 28419,669.47 28523,682.99 28686,704.12 28811,720.4"];
+	616	[height=0.74639,
+		label="[616] Johan Johansson
+, född 1651 i Hämra, Sidensjö sn, död 1735 i Hämra,  Sidensjö sn. Bonde i Hämra, Sidensjö sn.",
+		pos="26318,834.53",
+		width=13.651];
+	308 -> 616	[color=blue,
+		pos="e,26582,811.83 27121,767.48 26960,780.71 26755,797.6 26592,810.99"];
+	617	[height=0.74639,
+		label="[617] Kerstin Jonsdotter
+, född i Teg, Sidensjö sn, död 1698 i Hämra,  Sidensjö sn.",
+		pos="27384,834.53",
+		width=8.3478];
+	308 -> 617	[color=pink,
+		pos="e,27384,807.53 27384,772.12 27384,780.08 27384,788.97 27384,797.46"];
+	1232	[height=0.74639,
+		label="[1232] Johan Andersson
+, född i Hämra, Sidensjö sn, död 1681 i Hämra,  Sidensjö sn. Bonde i Hämra, Sidensjö sn.",
+		pos="25746,924.27",
+		width=12.865];
+	616 -> 1232	[color=blue,
+		pos="e,25905,898.96 26159,859.97 26083,871.62 25992,885.55 25915,897.38"];
+	1233	[height=0.74639,
+		label="[1233] Sara NN
+.",
+		pos="26318,924.27",
+		width=2.5338];
+	616 -> 1233	[color=pink,
+		pos="e,26318,897.27 26318,861.86 26318,869.82 26318,878.71 26318,887.2"];
+	2464	[height=0.74639,
+		label="[2464] Anders Gabrielsson
+. Bonde i Hämra, Sidensjö sn. nämnd 1604-1629.",
+		pos="25541,1014",
+		width=7.2086];
+	1232 -> 2464	[color=blue,
+		pos="e,25600,987.73 25686,951 25662,961.27 25634,973.15 25610,983.74"];
+	1234	[height=0.74639,
+		label="[1234] Jon Olofsson liten
+, född i Grätnäs, Sidensjö sn, död 1710 i Teg,   Sidensjö sn. Bonde i Teg, Sidensjö sn.",
+		pos="26866,924.27",
+		width=12.198];
+	617 -> 1234	[color=blue,
+		pos="e,27010,898.88 27249,858.53 27179,870.38 27093,884.89 27020,897.17"];
+	1235	[height=0.74639,
+		label="[1235] Margareta Jonsdotter
+, född i Västerkäl, Sidensjö sn, död 1705 i Teg,   Sidensjö sn.",
+		pos="27639,924.27",
+		width=8.7799];
+	617 -> 1235	[color=pink,
+		pos="e,27566,898.12 27457,860.67 27488,871.32 27525,883.78 27556,894.77"];
+	2468	[height=0.74639,
+		label="[2468] Olof Eriksson
+, född i Grätnäs, Sidensjö sn. Bonde i Grätnäs,   Sidensjö sn. nämnd 1629-1637.",
+		pos="26233,1014",
+		width=11.51];
+	1234 -> 2468	[color=blue,
+		pos="e,26403,989.48 26695,949.01 26608,961.11 26502,975.81 26413,988.07"];
+	2469	[height=0.74639,
+		label="[2469] Gölug Jonsdotter
+.",
+		pos="26798,1014",
+		width=3.6927];
+	1234 -> 2469	[color=pink,
+		pos="e,26818,987.35 26846,951.12 26839,959.96 26832,969.97 26824,979.33"];
+	4936	[height=0.74639,
+		label="[4936] Erik Olofsson
+, född i Grätnäs, Sidensjö sn. Bonde i Grätnäs,   Sidensjö sn. nämnd 1604-1627.",
+		pos="26233,1103.8",
+		width=11.51];
+	2468 -> 4936	[color=blue,
+		pos="e,26233,1076.7 26233,1041.3 26233,1049.3 26233,1058.2 26233,1066.7"];
+	9872	[height=0.74639,
+		label="[9872] Olof Clemetsson
+, född i Grätnäs, Sidensjö sn. Bonde i Grätnäs,   Sidensjö sn. nämnd 1557-1574.",
+		pos="26233,1193.5",
+		width=11.51];
+	4936 -> 9872	[color=blue,
+		pos="e,26233,1166.5 26233,1131.1 26233,1139 26233,1147.9 26233,1156.4"];
+	19744	[height=0.74639,
+		label="[19744] Clemet Olofsson
+. Bonde i Grätnäs, Sidensjö sn. nämnd 1535-1555.",
+		pos="26233,1283.2",
+		width=7.3657];
+	9872 -> 19744	[color=blue,
+		pos="e,26233,1256.2 26233,1220.8 26233,1228.8 26233,1237.7 26233,1246.2"];
+	2470	[height=0.74639,
+		label="[2470] Jon Tomasson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1629-1663.",
+		pos="27377,1014",
+		width=11.883];
+	1235 -> 2470	[color=blue,
+		pos="e,27453,987.56 27564,950.41 27533,961.01 27496,973.41 27463,984.36"];
+	4940	[height=0.74639,
+		label="[4940] Tomas Clemetsson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1592-1627.",
+		pos="27377,1103.8",
+		width=11.883];
+	2470 -> 4940	[color=blue,
+		pos="e,27377,1076.7 27377,1041.3 27377,1049.3 27377,1058.2 27377,1066.7"];
+	9880	[height=0.74639,
+		label="[9880] Clemet Ersson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1567-1591.",
+		pos="27377,1193.5",
+		width=11.883];
+	4940 -> 9880	[color=blue,
+		pos="e,27377,1166.5 27377,1131.1 27377,1139 27377,1147.9 27377,1156.4"];
+	19760	[height=0.74639,
+		label="[19760] Erik Jonsson
+. Bonde i Västerkäl, Sidensjö sn. nämnd 1535-1566.",
+		pos="27377,1283.2",
+		width=7.5621];
+	9880 -> 19760	[color=blue,
+		pos="e,27377,1256.2 27377,1220.8 27377,1228.8 27377,1237.7 27377,1246.2"];
+	618	[height=0.74639,
+		label="[618] Göran Olofsson
+, född i Näs, Sidensjö sn, död 1728 i Näs, Sidensjö sn.  Bonde i Näs, Sidensjö sn.",
+		pos="28991,834.53",
+		width=11.628];
+	309 -> 618	[color=blue,
+		pos="e,28991,807.53 28991,772.12 28991,780.08 28991,788.97 28991,797.46"];
+	619	[height=0.74639,
+		label="[619] Elisabet Johansdotter
+, född 1673 i Drömme, Sidensjö sn, död 1735 i Näs,  Sidensjö sn.",
+		pos="30311,834.53",
+		width=9.4281];
+	309 -> 619	[color=pink,
+		pos="e,30057,816.66 29241,762.4 29472,777.72 29813,800.38 30047,815.99"];
+	1236	[height=0.74639,
+		label="[1236] Olof Göransson
+, född i Djupsjö, Sidensjö sn, död 1725 i Å, Sidensjö sn.   Bonde i Å, Sidensjö sn.",
+		pos="28456,924.27",
+		width=11.53];
+	618 -> 1236	[color=blue,
+		pos="e,28603,899.14 28844,859.74 28772,871.46 28686,885.55 28614,897.47"];
+	1237	[height=0.74639,
+		label="[1237] Marget Andersdotter
+, född i Brynge, Sidensjö sn, död 1705 i Å,   Sidensjö sn.",
+		pos="29309,924.27",
+		width=8.171];
+	618 -> 1237	[color=pink,
+		pos="e,29220,898.64 29083,860.79 29123,871.81 29170,884.74 29210,895.98"];
+	2472	[height=0.74639,
+		label="[2472] Göran Eriksson
+, född 1611 i Djupsjö, Sidensjö sn, död 1693 i Djupsjö,   Sidensjö sn. Bonde i Djupsjö, Sidensjö \
+sn.",
+		pos="28329,1014",
+		width=14.064];
+	1236 -> 2472	[color=blue,
+		pos="e,28367,987.04 28419,951.12 28405,960.59 28390,971.41 28375,981.32"];
+	4944	[height=0.74639,
+		label="[4944] Erik Andersson
+, född i Djupsjö, Sidensjö sn. Bonde i Djupsjö,   Sidensjö sn. nämnd 1621-1631.",
+		pos="28329,1103.8",
+		width=11.392];
+	2472 -> 4944	[color=blue,
+		pos="e,28329,1076.7 28329,1041.3 28329,1049.3 28329,1058.2 28329,1066.7"];
+	9888	[height=0.74639,
+		label="[9888] Anders Jonsson
+. Bonde i Djupsjö, Sidensjö sn. nämnd 1560-1608.",
+		pos="28329,1193.5",
+		width=7.3068];
+	4944 -> 9888	[color=blue,
+		pos="e,28329,1166.5 28329,1131.1 28329,1139 28329,1147.9 28329,1156.4"];
+	2474	[height=0.74639,
+		label="[2474] Anders Jonsson
+, född 1602 i Brynge, Sidensjö sn, död 1670 i Härnösand.   Bonde i Brynge, Sidensjö sn.",
+		pos="29309,1014",
+		width=12.649];
+	1237 -> 2474	[color=blue,
+		pos="e,29309,987.01 29309,951.6 29309,959.56 29309,968.45 29309,976.94"];
+	2475	[height=0.74639,
+		label="[2475] Kerstin Andersdotter
+, född i Hämra, Sidensjö sn.",
+		pos="29937,1014",
+		width=4.2819];
+	1237 -> 2475	[color=pink,
+		pos="e,29827,995.19 29476,946.47 29564,957.99 29675,972.79 29773,987.14 29787,989.18 29802,991.39 29817,993.63"];
+	4948	[height=0.74639,
+		label="[4948] Jon Jonsson
+, född 1560, död 1615 ca i Brynge, Sidensjö sn. Bonde   i Brynge, Sidensjö sn.",
+		pos="29162,1103.8",
+		width=11.255];
+	2474 -> 4948	[color=blue,
+		pos="e,29206,1076.9 29266,1040.9 29250,1050.5 29231,1061.7 29214,1071.8"];
+	4949	[height=0.74639,
+		label="[4949] Brita NN
+.",
+		pos="29679,1103.8",
+		width=2.5927];
+	2474 -> 4949	[color=pink,
+		pos="e,29611,1085.4 29420,1040.1 29468,1051.2 29525,1064.5 29576,1076.9 29584,1078.8 29593,1080.9 29601,1083"];
+	4950	[height=0.74639,
+		label="[4950] Anders Gabrielsson
+= 16",
+		pos="29937,1103.8",
+		width=4.0659];
+	2475 -> 4950	[color=blue,
+		pos="e,29937,1076.7 29937,1041.3 29937,1049.3 29937,1058.2 29937,1066.7"];
+	1238	[height=0.74639,
+		label="[1238] Johan Joensson
+, född i Överå, Sidensjö sn, död 1687 i Drömme,   Sidensjö sn. Bonde i Drömme, Sidensjö sn.",
+		pos="30311,924.27",
+		width=13.337];
+	619 -> 1238	[color=blue,
+		pos="e,30311,897.27 30311,861.86 30311,869.82 30311,878.71 30311,887.2"];
+	1239	[height=0.74639,
+		label="[1239] NN Larsdotter
+, född i Hämra, Sidensjö sn, död 1682 i Drömme,   Sidensjö sn.",
+		pos="31138,924.27",
+		width=9.1335];
+	619 -> 1239	[color=pink,
+		pos="e,30944,902.6 30508,856.44 30637,870.05 30804,887.76 30933,901.53"];
+	2476	[height=0.74639,
+		label="[2476] Jon Phålesson
+, född i Överå, Sidensjö sn. Bonde i Överå, Sidensjö sn.",
+		pos="30399,1014",
+		width=8.0532];
+	1238 -> 2476	[color=blue,
+		pos="e,30373,987.04 30337,951.12 30346,960.14 30357,970.4 30366,979.93"];
+	4952	[height=0.74639,
+		label="[4952] Phåle Grelsson
+. Bonde i Överå, Sidensjö sn. nämnd 1588-1619.",
+		pos="30399,1103.8",
+		width=7.0907];
+	2476 -> 4952	[color=blue,
+		pos="e,30399,1076.7 30399,1041.3 30399,1049.3 30399,1058.2 30399,1066.7"];
+	2478	[height=0.74639,
+		label="[2478] Lars Andersson
+, född 1598 i Hämra, Sidensjö sn. Bonde i Hämra,   Sidensjö sn. nämnd 1631-1663.",
+		pos="31138,1014",
+		width=11.982];
+	1239 -> 2478	[color=blue,
+		pos="e,31138,987.01 31138,951.6 31138,959.56 31138,968.45 31138,976.94"];
+	4956	[height=0.74639,
+		label="[4956] Anders Gabrielsson
+= 16",
+		pos="31138,1103.8",
+		width=4.0659];
+	2478 -> 4956	[color=blue,
+		pos="e,31138,1076.7 31138,1041.3 31138,1049.3 31138,1058.2 31138,1066.7"];
+	310	[height=0.74639,
+		label="[310] Markus Jonsson
+, född 1700 i Överå, Sidensjö sn, död 1784 i Överå,  Sidensjö sn. Bonde i Överå, Sidensjö sn.",
+		pos="33278,744.79",
+		width=13.298];
+	155 -> 310	[color=blue,
+		pos="e,33278,717.79 33278,682.38 33278,690.34 33278,699.23 33278,707.72"];
+	311	[height=0.74639,
+		label="[311] Kerstin Jonsdotter
+, född 1712 i Drömme, Sidensjö sn, död 1793 i Överå,  Sidensjö sn. Bonde i Överå, Sidensjö sn.",
+		pos="36197,744.79",
+		width=13.671];
+	155 -> 311	[color=pink,
+		pos="e,35774,731.07 33425,660.47 33851,673.26 35097,710.71 35764,730.76"];
+	620	[height=0.74639,
+		label="[620] Jon Markusson
+, född i Överå, Sidensjö sn, död 1726 i Överå, Sidensjö sn.  Bonde i Överå, Sidensjö sn.",
+		pos="32844,834.53",
+		width=12.512];
+	310 -> 620	[color=blue,
+		pos="e,32967,808.67 33155,770.76 33099,781.96 33034,795.21 32977,806.63"];
+	621	[height=0.74639,
+		label="[621] Beata Jonsdotter
+, född i Västerkäl, Sidensjö sn, död 1721 i Överå,  Sidensjö sn.",
+		pos="33711,834.53",
+		width=9.0353];
+	310 -> 621	[color=pink,
+		pos="e,33593,809.5 33402,770.76 33458,782.25 33526,795.88 33583,807.5"];
+	1240	[height=0.74639,
+		label="[1240] Markus Abrahamsson
+, född i By, Sidensjö sn, död 1700 i Överå,  Sidensjö sn. Bonde i Överå, Sidensjö sn.",
+		pos="32078,924.27",
+		width=12.001];
+	620 -> 1240	[color=blue,
+		pos="e,32278,900.41 32643,858.58 32534,871.11 32399,886.6 32288,899.27"];
+	1241	[height=0.74639,
+		label="[1241] Brita Olofsdotter
+, född i Djupsjö, Sidensjö sn, död 1673 i Överå,  Sidensjö sn.",
+		pos="32844,924.27",
+		width=8.7799];
+	620 -> 1241	[color=pink,
+		pos="e,32844,897.27 32844,861.86 32844,869.82 32844,878.71 32844,887.2"];
+	2480	[height=0.74639,
+		label="[2480] Abraham Andersson
+, född 1589 i By, Sidensjö sn. Bonde i By,   Sidensjö sn. nämnd 1623-1639.",
+		pos="31973,1014",
+		width=10.705];
+	1240 -> 2480	[color=blue,
+		pos="e,32004,987.04 32047,951.12 32036,960.32 32024,970.8 32012,980.49"];
+	2481	[height=0.74639,
+		label="[2481] Sara Jonsdotter
+.",
+		pos="32503,1014",
+		width=3.5159];
+	1240 -> 2481	[color=pink,
+		pos="e,32415,994.71 32199,950.12 32264,963.56 32343,979.95 32405,992.63"];
+	4960	[height=0.74639,
+		label="[4960] Anders Nikodemusson
+, född i By, Sidensjö sn. Bonde i By, Sidensjö sn.   nämnd 1606-1622.",
+		pos="31973,1103.8",
+		width=9.9191];
+	2480 -> 4960	[color=blue,
+		pos="e,31973,1076.7 31973,1041.3 31973,1049.3 31973,1058.2 31973,1066.7"];
+	9920	[height=0.74639,
+		label="[9920] Nikodemus Andersson
+, född i By, Sidensjö sn. Bonde i By, Sidensjö sn.   nämnd 1565-1603.",
+		pos="31973,1193.5",
+		width=9.9191];
+	4960 -> 9920	[color=blue,
+		pos="e,31973,1166.5 31973,1131.1 31973,1139 31973,1147.9 31973,1156.4"];
+	19840	[height=0.74639,
+		label="[19840] Anders Alfsson
+. Bonde i By, Sidensjö sn. nämnd 1535-1564.",
+		pos="31973,1283.2",
+		width=6.58];
+	9920 -> 19840	[color=blue,
+		pos="e,31973,1256.2 31973,1220.8 31973,1228.8 31973,1237.7 31973,1246.2"];
+	2482	[height=0.74639,
+		label="[2482] Olof Jonsson
+. Bonde i Djupsjö, Sidensjö sn. nämnd 1629-1654.",
+		pos="32911,1014",
+		width=7.3068];
+	1241 -> 2482	[color=blue,
+		pos="e,32892,987.04 32864,951.12 32871,959.88 32878,969.8 32885,979.09"];
+	1242	[height=0.74639,
+		label="[1242] Jon Jonsson
+, född 1640 i Västerkäl, Sidensjö sn, död 1697 i Västerkäl,   Sidensjö sn. Bonde i Västerkäl, Sidensjö \
+sn.",
+		pos="33711,924.27",
+		width=14.81];
+	621 -> 1242	[color=blue,
+		pos="e,33711,897.27 33711,861.86 33711,869.82 33711,878.71 33711,887.2"];
+	1243	[height=0.74639,
+		label="[1243] Sara Andersdotter
+, född 1650 i Nybyn, Sidensjö sn, död 1725 i Västerkäl,   Sidensjö sn.",
+		pos="34622,924.27",
+		width=9.9977];
+	621 -> 1243	[color=pink,
+		pos="e,34408,902.64 33917,855.36 34060,869.14 34251,887.51 34398,901.67"];
+	2484	[height=0.74639,
+		label="[2484] Jon Tomasson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1629-1663.",
+		pos="33620,1014",
+		width=11.883];
+	1242 -> 2484	[color=blue,
+		pos="e,33647,987.04 33685,951.12 33675,960.14 33665,970.4 33655,979.93"];
+	4968	[height=0.74639,
+		label="[4968] Tomas Clemetsson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1592-1627.",
+		pos="33620,1103.8",
+		width=11.883];
+	2484 -> 4968	[color=blue,
+		pos="e,33620,1076.7 33620,1041.3 33620,1049.3 33620,1058.2 33620,1066.7"];
+	9936	[height=0.74639,
+		label="[9936] Clemet Ersson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1567-1591.",
+		pos="33620,1193.5",
+		width=11.883];
+	4968 -> 9936	[color=blue,
+		pos="e,33620,1166.5 33620,1131.1 33620,1139 33620,1147.9 33620,1156.4"];
+	19872	[height=0.74639,
+		label="[19872] Erik Jonsson
+. Bonde i Västerkäl, Sidensjö sn. nämnd 1535-1566.",
+		pos="33620,1283.2",
+		width=7.5621];
+	9936 -> 19872	[color=blue,
+		pos="e,33620,1256.2 33620,1220.8 33620,1228.8 33620,1237.7 33620,1246.2"];
+	2486	[height=0.74639,
+		label="[2486] Anders Kjellsson
+, född 1600 i Nybyn, Sidensjö sn, död 1685 i Nybyn,   Sidensjö sn. Bonde i Nybyn, Sidensjö sn.",
+		pos="34556,1014",
+		width=13.612];
+	1243 -> 2486	[color=blue,
+		pos="e,34576,987.04 34603,951.12 34596,959.79 34589,969.6 34582,978.8"];
+	2487	[height=0.74639,
+		label="[2487] NN Andersdotter
+, född 1600 i Hämra, Sidensjö sn, död 1682 i Nybyn,   Sidensjö sn.",
+		pos="35411,1014",
+		width=9.6442];
+	1243 -> 2487	[color=pink,
+		pos="e,35219,991.62 34817,946.9 34936,960.16 35088,977.09 35209,990.5"];
+	4972	[height=0.74639,
+		label="[4972] Kjell Håkansson
+. Bonde i Nybyn, Sidensjö sn. nämnd 1607-1627.",
+		pos="34556,1103.8",
+		width=7.1693];
+	2486 -> 4972	[color=blue,
+		pos="e,34556,1076.7 34556,1041.3 34556,1049.3 34556,1058.2 34556,1066.7"];
+	4974	[height=0.74639,
+		label="[4974] Anders Gabrielsson
+. Bonde i Hämra, Sidensjö sn. nämnd 1604-1629.",
+		pos="35411,1103.8",
+		width=7.2086];
+	2487 -> 4974	[color=blue,
+		pos="e,35411,1076.7 35411,1041.3 35411,1049.3 35411,1058.2 35411,1066.7"];
+	622	[height=0.74639,
+		label="[622] Jon Persson
+, född 1684 i Drömme, Sidensjö sn, död 1766 i Drömme,  Sidensjö sn. Bonde i Drömme, Sidensjö sn.",
+		pos="36197,834.53",
+		width=14.417];
+	311 -> 622	[color=blue,
+		pos="e,36197,807.53 36197,772.12 36197,780.08 36197,788.97 36197,797.46"];
+	623	[height=0.74639,
+		label="[623] Märet Jonsdotter
+, född 1677, död 1755 i Drömme, Sidensjö sn.",
+		pos="36977,834.53",
+		width=6.7568];
+	311 -> 623	[color=pink,
+		pos="e,36811,814.86 36405,769.16 36529,783.06 36684,800.5 36801,813.72"];
+	1244	[height=0.74639,
+		label="[1244] Per Jonsson
+, född i Drömme, Sidensjö sn, död 1706 i Drömme,   Sidensjö sn. Bonde i Drömme, Sidensjö sn.",
+		pos="36197,924.27",
+		width=13.71];
+	622 -> 1244	[color=blue,
+		pos="e,36197,897.27 36197,861.86 36197,869.82 36197,878.71 36197,887.2"];
+	1245	[height=0.74639,
+		label="[1245] Kerstin Olofsdotter
+, född i Drömme, Sidensjö sn, död 1717 i Drömme,   Sidensjö sn.",
+		pos="37129,924.27",
+		width=9.3888];
+	622 -> 1245	[color=pink,
+		pos="e,36917,903.31 36439,858.33 36584,871.94 36766,889.1 36907,902.36"];
+	2488	[height=0.74639,
+		label="[2488] Jon Eriksson
+, född i Drömme, Sidensjö sn. Bonde i Drömme, Sidensjö sn.   nämnd 1650-1659.",
+		pos="36197,1014",
+		width=11.687];
+	1244 -> 2488	[color=blue,
+		pos="e,36197,987.01 36197,951.6 36197,959.56 36197,968.45 36197,976.94"];
+	4976	[height=0.74639,
+		label="[4976] Erik Larsson
+, född 1587. Bonde i Drömme, Sidensjö sn. nämnd 1607-1649.",
+		pos="36197,1103.8",
+		width=9.0549];
+	2488 -> 4976	[color=blue,
+		pos="e,36197,1076.7 36197,1041.3 36197,1049.3 36197,1058.2 36197,1066.7"];
+	2490	[height=0.74639,
+		label="[2490] Olof Sjulsson
+, född i Drömme, Sidensjö sn, död 1655 i Drömme,   Sidensjö sn. Bonde i Drömme, Sidensjö sn.",
+		pos="37129,1014",
+		width=13.71];
+	1245 -> 2490	[color=blue,
+		pos="e,37129,987.01 37129,951.6 37129,959.56 37129,968.45 37129,976.94"];
+	2491	[height=0.74639,
+		label="[2491] NN NN
+, död 1684 i Drömme, Sidensjö sn.",
+		pos="37827,1014",
+		width=5.1658];
+	1245 -> 2491	[color=pink,
+		pos="e,37694,995.2 37310,947.01 37405,958.69 37525,973.46 37632,987.14 37649,989.29 37667,991.57 37684,993.86"];
+	4980	[height=0.74639,
+		label="[4980] Sjul Jonsson
+. Bonde i Drömme, Sidensjö sn. nämnd 1643-1644.",
+		pos="36970,1103.8",
+		width=7.4639];
+	2490 -> 4980	[color=blue,
+		pos="e,37017,1077.2 37082,1040.9 37065,1050.7 37044,1062.1 37026,1072.3"];
+	4981	[height=0.74639,
+		label="[4981] Brita Thomasdotter
+, född i Västerkäl, Sidensjö sn, död 1671 i Drömme,   Sidensjö sn.",
+		pos="37598,1103.8",
+		width=9.487];
+	2490 -> 4981	[color=pink,
+		pos="e,37470,1078.8 37262,1039.9 37324,1051.5 37398,1065.2 37460,1076.9"];
+	9962	[height=0.74639,
+		label="[9962] Tomas Clemetsson
+= 40",
+		pos="37598,1193.5",
+		width=3.948];
+	4981 -> 9962	[color=blue,
+		pos="e,37598,1166.5 37598,1131.1 37598,1139 37598,1147.9 37598,1156.4"];
+	19924	[height=0.74639,
+		label="[19924] Clemet Ersson
+= 80",
+		pos="37598,1283.2",
+		width=3.5748];
+	9962 -> 19924	[color=blue,
+		pos="e,37598,1256.2 37598,1220.8 37598,1228.8 37598,1237.7 37598,1246.2"];
+	39848	[height=0.74639,
+		label="[39848] Erik Jonsson
+= 160",
+		pos="37598,1373",
+		width=3.2605];
+	19924 -> 39848	[color=blue,
+		pos="e,37598,1346 37598,1310.6 37598,1318.5 37598,1327.4 37598,1335.9"];
+	78	[height=0.74639,
+		label="[78] Olof Persson
+.",
+		pos="43610,565.31",
+		width=2.7499];
+	39 -> 78	[color=blue,
+		pos="e,43610,538.31 43610,502.9 43610,510.86 43610,519.75 43610,528.24"];
+	79	[height=0.74639,
+		label="[79] Sara Andersdotter
+.",
+		pos="48550,565.31",
+		width=3.5748];
+	39 -> 79	[color=pink,
+		pos="e,48423,562.04 43818,480.26 44649,495.01 47723,549.61 48412,561.86"];
+	156	[height=0.74639,
+		label="[156] Per Hansson
+.",
+		pos="43002,655.05",
+		width=2.9266];
+	78 -> 156	[color=blue,
+		pos="e,43093,641.03 43524,578.74 43413,594.77 43220,622.61 43103,639.57"];
+	157	[height=0.74639,
+		label="[157] Helena Olofsdotter
+.",
+		pos="44545,655.05",
+		width=3.8105];
+	78 -> 157	[color=pink,
+		pos="e,44424,642.63 43703,575 43870,590.67 44221,623.66 44413,641.67"];
+	312	[height=0.74639,
+		label="[312] Hans Jonsson
+, född 1703-06-24 i Ås, Sidensjö sn, död 1754-08-24  i Bredåker, Sidensjö sn. Bonde o nämndeman i Bredåker, \
+Sidensjö sn.",
+		pos="40780,744.79",
+		width=17.481];
+	156 -> 312	[color=blue,
+		pos="e,41231,726.01 42899,660.15 42608,671.64 41771,704.66 41241,725.61"];
+	313	[height=0.74639,
+		label="[313] Märta Pålsdotter
+, född 1708-08-26 i Myre, Sidensjö sn, död 1793-08-28  i Bredåker, Sidensjö sn.",
+		pos="43002,744.79",
+		width=11.451];
+	156 -> 313	[color=pink,
+		pos="e,43002,717.79 43002,682.38 43002,690.34 43002,699.23 43002,707.72"];
+	624	[height=0.74639,
+		label="[624] Jon Hansson
+, född i Nyland, Sidensjö sn, död 1711-12-04 i Ås,   Sidensjö sn. Bonde i Ås, Sidensjö sn.",
+		pos="39530,834.53",
+		width=12.649];
+	312 -> 624	[color=blue,
+		pos="e,39815,813.55 40464,768.02 40267,781.79 40017,799.36 39825,812.83"];
+	625	[height=0.74639,
+		label="[625] Elisabet Jonsdotter
+, född 1666 i Teg, Sidensjö sn, död 1735-01-12 i Ås,   Sidensjö sn.",
+		pos="40780,834.53",
+		width=9.487];
+	312 -> 625	[color=pink,
+		pos="e,40780,807.53 40780,772.12 40780,780.08 40780,788.97 40780,797.46"];
+	1248	[height=0.74639,
+		label="[1248] Hans Andersson
+, född i Nyland, Sidensjö sn, död 1668 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="38562,924.27",
+		width=13.081];
+	624 -> 1248	[color=blue,
+		pos="e,38806,901.21 39289,857.36 39145,870.43 38962,887.04 38816,900.31"];
+	1249	[height=0.74639,
+		label="[1249] Karin Johansdotter
+, född i Nyland, Sidensjö sn, död 1686 i Nyland,   Sidensjö sn.",
+		pos="39530,924.27",
+		width=8.9763];
+	624 -> 1249	[color=pink,
+		pos="e,39530,897.27 39530,861.86 39530,869.82 39530,878.71 39530,887.2"];
+	2496	[height=0.74639,
+		label="[2496] Anders Olofsson
+, född 1575. Bonde i Nyland, Sidensjö sn.",
+		pos="38251,1014",
+		width=6.1086];
+	1248 -> 2496	[color=blue,
+		pos="e,38336,989.2 38472,950.65 38433,961.87 38386,975.07 38346,986.43"];
+	2498	[height=0.74639,
+		label="[2498] Johan Persson
+, född 1596 i Nyland, Sidensjö sn, död 1670 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="38989,1014",
+		width=13.887];
+	1249 -> 2498	[color=blue,
+		pos="e,39141,988.41 39387,948.44 39315,960.22 39226,974.59 39151,986.78"];
+	2499	[height=0.74639,
+		label="[2499] Brita Andersdotter
+, död 1675 i Nyland, Sidensjö sn.",
+		pos="39685,1014",
+		width=4.9497];
+	1249 -> 2499	[color=pink,
+		pos="e,39641,987.97 39576,950.89 39593,960.93 39614,972.52 39632,982.95"];
+	4996	[height=0.74639,
+		label="[4996] Per Persson
+, född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1609-1633.",
+		pos="38989,1103.8",
+		width=11.274];
+	2498 -> 4996	[color=blue,
+		pos="e,38989,1076.7 38989,1041.3 38989,1049.3 38989,1058.2 38989,1066.7"];
+	9992	[height=0.74639,
+		label="[9992] Per Olofsson
+, född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1571-1608.",
+		pos="38679,1193.5",
+		width=11.274];
+	4996 -> 9992	[color=blue,
+		pos="e,38768,1167.3 38900,1130 38862,1140.8 38817,1153.4 38778,1164.5"];
+	9993	[height=0.74639,
+		label="[9993] NN Tomasdotter
+, född i Nolås, Sidensjö sn.",
+		pos="39299,1193.5",
+		width=4.0462];
+	4996 -> 9993	[color=pink,
+		pos="e,39222,1170.7 39079,1130 39121,1141.9 39171,1156.1 39212,1167.9"];
+	19984	[height=0.74639,
+		label="[19984] Olof Olofsson
+. Bonde i Nyland, Sidensjö sn. nämnd 1549-1570.",
+		pos="38654,1283.2",
+		width=7.2478];
+	9992 -> 19984	[color=blue,
+		pos="e,38662,1256.2 38672,1220.8 38670,1228.9 38667,1237.9 38665,1246.4"];
+	19986	[height=0.74639,
+		label="[19986] Tomas Jonsson
+, född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1571-1621.",
+		pos="39324,1283.2",
+		width=10.862];
+	9993 -> 19986	[color=blue,
+		pos="e,39317,1256.3 39307,1220.3 39309,1228.6 39312,1237.8 39314,1246.6"];
+	39972	[height=0.74639,
+		label="[39972] Jon Jakobsson
+, född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.    nämnd 1555-1570.",
+		pos="39324,1373",
+		width=10.941];
+	19986 -> 39972	[color=blue,
+		pos="e,39324,1346 39324,1310.6 39324,1318.5 39324,1327.4 39324,1335.9"];
+	79944	[height=0.74639,
+		label="[79944] Jakob Olofsson
+. Bonde i Nolås, Sidensjö sn. nämnd 1535-1549.",
+		pos="39324,1462.7",
+		width=7.0514];
+	39972 -> 79944	[color=blue,
+		pos="e,39324,1435.7 39324,1400.3 39324,1408.3 39324,1417.2 39324,1425.6"];
+	1250	[height=0.74639,
+		label="[1250] Jon Eriksson
+, född 1630 i Teg, Sidensjö sn, död 1703 i Teg,   Sidensjö sn. Bonde i Teg, Sidensjö sn.",
+		pos="40468,924.27",
+		width=12.374];
+	625 -> 1250	[color=blue,
+		pos="e,40559,897.91 40691,860.56 40653,871.37 40608,884.06 40568,895.19"];
+	1251	[height=0.74639,
+		label="[1251] NN NN
+, död 1676 i Teg, Sidensjö sn.",
+		pos="41092,924.27",
+		width=4.4587];
+	625 -> 1251	[color=pink,
+		pos="e,41013,900.91 40869,860.56 40911,872.35 40961,886.39 41003,898.19"];
+	2500	[height=0.74639,
+		label="[2500] Erik Jonsson
+, född 1585 i Teg, Sidensjö sn. Bonde i Teg, Sidensjö sn.",
+		pos="40175,1014",
+		width=8.171];
+	1250 -> 2500	[color=blue,
+		pos="e,40258,988.21 40383,950.77 40347,961.59 40305,974.23 40268,985.29"];
+	2501	[height=0.74639,
+		label="[2501] NN NN
+, död 1676 i Teg, Sidensjö sn.",
+		pos="40648,1014",
+		width=4.4587];
+	1250 -> 2501	[color=pink,
+		pos="e,40598,988.4 40521,951.12 40543,961.43 40567,973.34 40589,983.94"];
+	626	[height=0.74639,
+		label="[626] Pål Johansson
+, född 1679 i Myre, Sidensjö sn, död 1748-02-28 i Myre,   Sidensjö sn. Bonde i Myre, Sidensjö sn.",
+		pos="42562,834.53",
+		width=13.965];
+	313 -> 626	[color=blue,
+		pos="e,42688,808.51 42879,770.46 42822,781.7 42755,795.03 42698,806.53"];
+	627	[height=0.74639,
+		label="[627] Beata Persdotter
+, född 1684 i Stig, Sidensjö sn, död 1758-04-16 i Myre,   Sidensjö sn.",
+		pos="43441,834.53",
+		width=9.9584];
+	313 -> 627	[color=pink,
+		pos="e,43320,809.19 43126,770.46 43183,781.92 43251,795.54 43310,807.19"];
+	1252	[height=0.74639,
+		label="[1252] Johan Pålsson
+, född i Bölen, Sidensjö sn, död 1704 i Myre, Sidensjö sn.   Bonde i Myre, Sidensjö sn.",
+		pos="41819,924.27",
+		width=12.355];
+	626 -> 1252	[color=blue,
+		pos="e,42015,900.12 42362,859.22 42258,871.52 42130,886.53 42025,898.93"];
+	1253	[height=0.74639,
+		label="[1253] Anna Olofsdotter
+, född i Nolås, Sidensjö sn, död 1712 i Myre,   Sidensjö sn.",
+		pos="42588,924.27",
+		width=8.5049];
+	626 -> 1253	[color=pink,
+		pos="e,42581,897.27 42570,861.86 42573,869.91 42575,878.91 42578,887.48"];
+	2504	[height=0.74639,
+		label="[2504] Pål Ersson
+, född i Bölen, Sidensjö sn. Bonde i Myre, Sidensjö sn.   nämnd 1667-1673.",
+		pos="41215,1014",
+		width=10.803];
+	1252 -> 2504	[color=blue,
+		pos="e,41377,989.56 41654,949.25 41571,961.3 41471,975.9 41387,988.08"];
+	2505	[height=0.74639,
+		label="[2505] Kerstin Davidsdotter
+, född i Myre, Sidensjö sn, död 1694 i Myre,   Sidensjö sn.",
+		pos="41926,1014",
+		width=8.446];
+	1252 -> 2505	[color=pink,
+		pos="e,41895,987.04 41851,951.12 41862,960.32 41875,970.8 41887,980.49"];
+	5008	[height=0.74639,
+		label="[5008] Erik Björnsson
+, född i Bölen, Sidensjö sn. Bonde i Bölen, Sidensjö sn.   nämnd 1609-1624.",
+		pos="41107,1103.8",
+		width=10.862];
+	2504 -> 5008	[color=blue,
+		pos="e,41139,1076.8 41184,1040.9 41172,1050.1 41159,1060.5 41147,1070.2"];
+	10016	[height=0.74639,
+		label="[10016] Björn Phålesson
+. Bonde i Bölen, Sidensjö sn. nämnd 1607.",
+		pos="41107,1193.5",
+		width=6.2461];
+	5008 -> 10016	[color=blue,
+		pos="e,41107,1166.5 41107,1131.1 41107,1139 41107,1147.9 41107,1156.4"];
+	5010	[height=0.74639,
+		label="[5010] David Persson
+, född 1591 i Myre, Sidensjö sn. Bonde i Myre,   Sidensjö sn. nämnd 1629-1654.",
+		pos="41931,1103.8",
+		width=11.53];
+	2505 -> 5010	[color=blue,
+		pos="e,41930,1076.7 41928,1041.3 41928,1049.3 41929,1058.2 41929,1066.7"];
+	10020	[height=0.74639,
+		label="[10020] Per Andersson
+, född i Myre, Sidensjö sn. Bonde i Myre, Sidensjö sn.   nämnd 1604-1627.",
+		pos="41931,1193.5",
+		width=10.744];
+	5010 -> 10020	[color=blue,
+		pos="e,41931,1166.5 41931,1131.1 41931,1139 41931,1147.9 41931,1156.4"];
+	20040	[height=0.74639,
+		label="[20040] Anders Persson
+. Bonde i Myre, Sidensjö sn. nämnd 1558-1602.",
+		pos="41931,1283.2",
+		width=6.9925];
+	10020 -> 20040	[color=blue,
+		pos="e,41931,1256.2 41931,1220.8 41931,1228.8 41931,1237.7 41931,1246.2"];
+	2506	[height=0.74639,
+		label="[2506] Olof Andersson
+, född i Lännäs, Sidensjö sn. Bonde i Nolås, Sidensjö sn.",
+		pos="42542,1014",
+		width=8.171];
+	1253 -> 2506	[color=blue,
+		pos="e,42556,987.04 42575,951.12 42570,959.53 42565,969 42561,977.96"];
+	2507	[height=0.74639,
+		label="[2507] Sara Persdotter
+.",
+		pos="42982,1014",
+		width=3.5552];
+	1253 -> 2507	[color=pink,
+		pos="e,42897,993.93 42697,949.42 42756,962.68 42829,978.97 42887,991.75"];
+	5012	[height=0.74639,
+		label="[5012] Anders Andersson
+. Bonde i Lännäs, Sidensjö sn.",
+		pos="42538,1103.8",
+		width=4.5176];
+	2506 -> 5012	[color=blue,
+		pos="e,42540,1076.7 42541,1041.3 42541,1049.3 42540,1058.2 42540,1066.7"];
+	5013	[height=0.74639,
+		label="[5013] NN Jakobsdotter
+, född i Grätnäs, Sidensjö sn.",
+		pos="42878,1103.8",
+		width=4.3801];
+	2506 -> 5013	[color=pink,
+		pos="e,42795,1080.9 42636,1039.6 42683,1051.7 42739,1066.3 42785,1078.4"];
+	10024	[height=0.74639,
+		label="[10024] Anders NN
+. finne.",
+		pos="42454,1193.5",
+		width=3.0445];
+	5012 -> 10024	[color=blue,
+		pos="e,42479,1167.1 42514,1130.6 42505,1139.7 42495,1150 42486,1159.6"];
+	10026	[height=0.74639,
+		label="[10026] Jakob Thomasson
+. Bonde i Grätnäs, Sidensjö sn. finne, nämnd 1644-1655.",
+		pos="42878,1193.5",
+		width=8.2299];
+	5013 -> 10026	[color=blue,
+		pos="e,42878,1166.5 42878,1131.1 42878,1139 42878,1147.9 42878,1156.4"];
+	10027	[height=0.74639,
+		label="[10027] NN NN
+, död 1639 i Grätnäs, Sidensjö sn.",
+		pos="43375,1193.5",
+		width=5.0676];
+	5013 -> 10027	[color=pink,
+		pos="e,43262,1172.4 42985,1123.6 43063,1137.4 43170,1156.2 43252,1170.7"];
+	1254	[height=0.74639,
+		label="[1254] Per Persson
+, född 1654 i Stig, Sidensjö sn, död 1741 i Stig,   Sidensjö sn. Bonde i Stig, Sidensjö sn.",
+		pos="43441,924.27",
+		width=12.59];
+	627 -> 1254	[color=blue,
+		pos="e,43441,897.27 43441,861.86 43441,869.82 43441,878.71 43441,887.2"];
+	1255	[height=0.74639,
+		label="[1255] Märta Jonsdotter
+, född 1654, död 1738 i Stig, Sidensjö sn.",
+		pos="44132,924.27",
+		width=6.1086];
+	627 -> 1255	[color=pink,
+		pos="e,43984,904.42 43618,857.96 43728,871.89 43868,889.65 43974,903.13"];
+	2508	[height=0.74639,
+		label="[2508] Per Persson
+, född i Nolås, Sidensjö sn. Bonde i Stig, Sidensjö sn.   nämnd 1646-1649.",
+		pos="43511,1014",
+		width=10.646];
+	1254 -> 2508	[color=blue,
+		pos="e,43491,987.04 43462,951.12 43469,959.88 43477,969.8 43484,979.09"];
+	314	[height=0.74639,
+		label="[314] Olof Håkansson Nyman
+, född 1703-07-12 i Myre, Sidensjö sn, död 1782  i Backen, Sidensjö sn. Kronobåtsman i Backen, \
+Sidensjö sn.",
+		pos="44545,744.79",
+		width=15.596];
+	157 -> 314	[color=blue,
+		pos="e,44545,717.79 44545,682.38 44545,690.34 44545,699.23 44545,707.72"];
+	315	[height=0.74639,
+		label="[315] Ella Persdotter
+, född 1698 i Sidensjö sn, död 1780 i Sidensjö sn.",
+		pos="45497,744.79",
+		width=7.2282];
+	157 -> 315	[color=pink,
+		pos="e,45308,726.34 44668,667.34 44827,682.03 45108,707.88 45298,725.41"];
+	628	[height=0.74639,
+		label="[628] Håkan Tomasson Geting
+, född 1673 i Eden, Nätra sn, död 1711.  Kronobåtsman i Sidensjö sn.",
+		pos="44180,834.53",
+		width=10.057];
+	314 -> 628	[color=blue,
+		pos="e,44284,808.73 44439,771.29 44393,782.29 44340,795.18 44293,806.37"];
+	629	[height=0.74639,
+		label="[629] Kerstin Olofsdotter
+, född 1671 i Västerkäl, Sidensjö sn, död 1759  i Sidensjö sn.",
+		pos="44878,834.53",
+		width=8.8192];
+	314 -> 629	[color=pink,
+		pos="e,44784,808.8 44642,771.29 44684,782.25 44732,795.08 44775,806.23"];
+	1258	[height=0.74639,
+		label="[1258] Olof Svensson
+, född i Nybyn, Sidensjö sn, död 1699 i Västerkäl,   Sidensjö sn. Bonde i Västerkäl, Sidensjö sn.",
+		pos="44869,924.27",
+		width=13.612];
+	629 -> 1258	[color=blue,
+		pos="e,44872,897.27 44876,861.86 44875,869.82 44874,878.71 44873,887.2"];
+	1259	[height=0.74639,
+		label="[1259] NN Markusdotter
+, född i Västerkäl, Sidensjö sn.",
+		pos="45542,924.27",
+		width=4.5766];
+	629 -> 1259	[color=pink,
+		pos="e,45424,905.39 45055,856.9 45148,868.41 45265,883.14 45368,897.4 45383,899.45 45399,901.66 45414,903.91"];
+	2516	[height=0.74639,
+		label="[2516] Sven Kjellsson
+, född 1601 ca i Nybyn, Sidensjö sn. Bonde i Nybyn,   Sidensjö sn. nämnd 1629-1638.",
+		pos="44355,1014",
+		width=12.296];
+	1258 -> 2516	[color=blue,
+		pos="e,44499,988.55 44724,950 44657,961.5 44577,975.18 44509,986.85"];
+	2517	[height=0.74639,
+		label="[2517] Märet NN
+.",
+		pos="44915,1014",
+		width=2.7499];
+	1258 -> 2517	[color=pink,
+		pos="e,44902,987.31 44883,951.6 44888,959.99 44892,969.41 44897,978.3"];
+	5032	[height=0.74639,
+		label="[5032] Kjell Håkansson
+. Bonde i Nybyn, Sidensjö sn. nämnd 1607-1627.",
+		pos="44355,1103.8",
+		width=7.1693];
+	2516 -> 5032	[color=blue,
+		pos="e,44355,1076.7 44355,1041.3 44355,1049.3 44355,1058.2 44355,1066.7"];
+	2518	[height=0.74639,
+		label="[2518] Markus Thomasson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1644-1668.",
+		pos="45460,1014",
+		width=11.883];
+	1259 -> 2518	[color=blue,
+		pos="e,45485,987.04 45518,951.12 45510,960.06 45500,970.2 45492,979.65"];
+	2519	[height=0.74639,
+		label="[2519] NN Håkansdotter
+, född i Själand, Själevads sn.",
+		pos="46066,1014",
+		width=4.4587];
+	1259 -> 2519	[color=pink,
+		pos="e,45956,994.5 45654,944.04 45740,958.39 45858,978.13 45946,992.82"];
+	5036	[height=0.74639,
+		label="[5036] Tomas Clemetsson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1592-1627.",
+		pos="45454,1103.8",
+		width=11.883];
+	2518 -> 5036	[color=blue,
+		pos="e,45456,1076.7 45459,1041.3 45458,1049.3 45457,1058.2 45457,1066.7"];
+	10072	[height=0.74639,
+		label="[10072] Clemet Ersson
+, född i Västerkäl, Sidensjö sn. Bonde i Västerkäl,   Sidensjö sn. nämnd 1567-1591.",
+		pos="45454,1193.5",
+		width=11.883];
+	5036 -> 10072	[color=blue,
+		pos="e,45454,1166.5 45454,1131.1 45454,1139 45454,1147.9 45454,1156.4"];
+	20144	[height=0.74639,
+		label="[20144] Erik Jonsson
+. Bonde i Västerkäl, Sidensjö sn. nämnd 1535-1566.",
+		pos="45454,1283.2",
+		width=7.5621];
+	10072 -> 20144	[color=blue,
+		pos="e,45454,1256.2 45454,1220.8 45454,1228.8 45454,1237.7 45454,1246.2"];
+	5038	[height=0.74639,
+		label="[5038] Håkan NN
+. Bosatt i Själand, Själevads sn.",
+		pos="46071,1103.8",
+		width=4.7533];
+	2519 -> 5038	[color=blue,
+		pos="e,46070,1076.7 46068,1041.3 46068,1049.3 46069,1058.2 46069,1066.7"];
+	630	[height=0.74639,
+		label="[630] Per Jonsson Näsman
+, död 1701 i Sidensjö sn. Kronobåtsman i Sidensjö sn.",
+		pos="45497,834.53",
+		width=7.8764];
+	315 -> 630	[color=blue,
+		pos="e,45497,807.53 45497,772.12 45497,780.08 45497,788.97 45497,797.46"];
+	631	[height=0.74639,
+		label="[631] Karin Clementsdotter
+, död 1701 i Sidensjö sn.",
+		pos="45950,834.53",
+		width=4.2034];
+	315 -> 631	[color=pink,
+		pos="e,45851,814.21 45616,768.73 45685,782.21 45773,799.13 45841,812.3"];
+	158	[height=0.74639,
+		label="[158] Anders Jacobsson
+.",
+		pos="48550,655.05",
+		width=3.6141];
+	79 -> 158	[color=blue,
+		pos="e,48550,628.05 48550,592.64 48550,600.6 48550,609.49 48550,617.98"];
+	159	[height=0.74639,
+		label="[159] Kerstin Jonsdotter
+.",
+		pos="50642,655.05",
+		width=3.7123];
+	79 -> 159	[color=pink,
+		pos="e,50513,648.61 48676,571.57 49043,586.99 50117,632.01 50502,648.18"];
+	316	[height=0.74639,
+		label="[316] Jakob Salomonsson
+, född 1705-12-10 i Å, Sidensjö sn, död 1785 i Å,  Sidensjö sn. Bonde i Å, Sidensjö sn.",
+		pos="47781,744.79",
+		width=12.237];
+	158 -> 316	[color=blue,
+		pos="e,47982,720.85 48439,668.81 48322,682.1 48137,703.22 47993,719.67"];
+	317	[height=0.74639,
+		label="[317] Sara Andersdotter
+, född 1710-07-17 i Å, Sidensjö sn, död 1800 i Å,  Sidensjö sn.",
+		pos="49113,744.79",
+		width=8.937];
+	158 -> 317	[color=pink,
+		pos="e,48966,720.85 48652,671.89 48737,685.1 48859,704.14 48956,719.3"];
+	632	[height=0.74639,
+		label="[632] Salomon Johansson
+, född i Å, Sidensjö sn, död 1725 i Å, Sidensjö sn.  Bonde i Å, Sidensjö sn.",
+		pos="46847,834.53",
+		width=10.567];
+	316 -> 632	[color=blue,
+		pos="e,47069,812.69 47549,767.62 47406,781.08 47223,798.27 47079,811.72"];
+	633	[height=0.74639,
+		label="[633] Kerstin Johansdotter
+, född i Ås, Sidensjö sn, död 1709 i Å, Sidensjö sn.",
+		pos="47781,834.53",
+		width=7.3264];
+	316 -> 633	[color=pink,
+		pos="e,47781,807.53 47781,772.12 47781,780.08 47781,788.97 47781,797.46"];
+	1264	[height=0.74639,
+		label="[1264] Johan Persson
+, född 1596 i Nybyn, Sidensjö sn, död 1676 i Å,   Sidensjö sn. Bonde i Å, Sidensjö sn.",
+		pos="46249,924.27",
+		width=12.178];
+	632 -> 1264	[color=blue,
+		pos="e,46413,899.33 46688,858.93 46606,870.93 46506,885.56 46423,897.84"];
+	1265	[height=0.74639,
+		label="[1265] Kerstin Larsdotter
+.",
+		pos="46847,924.27",
+		width=3.9284];
+	632 -> 1265	[color=pink,
+		pos="e,46847,897.27 46847,861.86 46847,869.82 46847,878.71 46847,887.2"];
+	2528	[height=0.74639,
+		label="[2528] Per Sjulsson
+, född i Å, Sidensjö sn. Bonde i Nybyn, Sidensjö sn.   nämnd 1606-1621.",
+		pos="46618,1014",
+		width=10.371];
+	1264 -> 2528	[color=blue,
+		pos="e,46514,988.17 46355,950.41 46402,961.48 46456,974.5 46504,985.79"];
+	5056	[height=0.74639,
+		label="[5056] Sjul Persson
+, född i Å, Sidensjö sn. Bonde i Å, Sidensjö sn.   nämnd 1588-1595.",
+		pos="46618,1103.8",
+		width=9.6442];
+	2528 -> 5056	[color=blue,
+		pos="e,46618,1076.7 46618,1041.3 46618,1049.3 46618,1058.2 46618,1066.7"];
+	10112	[height=0.74639,
+		label="[10112] Per Andersson
+. Bonde i Å, Sidensjö sn. nämnd 1542-1585.",
+		pos="46618,1193.5",
+		width=6.4425];
+	5056 -> 10112	[color=blue,
+		pos="e,46618,1166.5 46618,1131.1 46618,1139 46618,1147.9 46618,1156.4"];
+	1266	[height=0.74639,
+		label="[1266] Johan Nilsson
+, född i Hämra, Sidensjö sn. Bonde i Ås, Sidensjö sn.   nämnd 1644-1685.",
+		pos="47387,924.27",
+		width=10.567];
+	633 -> 1266	[color=blue,
+		pos="e,47498,898.53 47675,859.16 47624,870.63 47562,884.46 47508,896.33"];
+	1267	[height=0.74639,
+		label="[1267] Sara Jonsdotter
+, född i Ås, Sidensjö sn, död 1689 i Ås, Sidensjö sn.",
+		pos="48054,924.27",
+		width=7.4639];
+	633 -> 1267	[color=pink,
+		pos="e,47977,898.39 47858,860.32 47892,871.21 47932,884.04 47967,895.27"];
+	2532	[height=0.74639,
+		label="[2532] Nils Jonsson
+. Bonde i Hämra, Sidensjö sn. nämnd 1604-1631.",
+		pos="47269,1014",
+		width=7.2086];
+	1266 -> 2532	[color=blue,
+		pos="e,47304,987.35 47353,951.12 47340,960.58 47325,971.4 47312,981.31"];
+	2533	[height=0.74639,
+		label="[2533] NN NN
+.",
+		pos="47631,1014",
+		width=2.357];
+	1266 -> 2533	[color=pink,
+		pos="e,47577,993.31 47458,950.77 47493,963.11 47533,977.82 47567,989.84"];
+	2534	[height=0.74639,
+		label="[2534] Jon Persson
+, född 1572 i Ås, Sidensjö sn. Bonde i Ås, Sidensjö sn.   nämnd 1610-1643.",
+		pos="48121,1014",
+		width=10.744];
+	1267 -> 2534	[color=blue,
+		pos="e,48102,987.04 48074,951.12 48081,959.88 48088,969.8 48095,979.09"];
+	5068	[height=0.74639,
+		label="[5068] Per Andersson
+. Bonde i Ås, Sidensjö sn. nämnd 1604-1608.",
+		pos="47926,1103.8",
+		width=6.58];
+	2534 -> 5068	[color=blue,
+		pos="e,47982,1077.6 48064,1040.6 48042,1050.9 48015,1062.8 47992,1073.4"];
+	5069	[height=0.74639,
+		label="[5069] Karin NN
+. nämnd som änka 1609.",
+		pos="48316,1103.8",
+		width=3.7516];
+	2534 -> 5069	[color=pink,
+		pos="e,48263,1078.9 48178,1040.6 48202,1051.3 48230,1063.8 48254,1074.8"];
+	634	[height=0.74639,
+		label="[634] Anders Nilsson
+, född 1664 i Anundsböle, Sidensjö sn, död 1730 i Å,   Sidensjö sn. Bonde i Å, Sidensjö sn.",
+		pos="49113,834.53",
+		width=12.885];
+	317 -> 634	[color=blue,
+		pos="e,49113,807.53 49113,772.12 49113,780.08 49113,788.97 49113,797.46"];
+	635	[height=0.74639,
+		label="[635] Sara Nilsdotter
+, född 1678 i Nordanås, Själevads sn, död 1749 i Å,   Sidensjö sn.",
+		pos="50201,834.53",
+		width=9.4674];
+	317 -> 635	[color=pink,
+		pos="e,49969,814.81 49339,763.97 49520,778.57 49774,799.04 49959,813.99"];
+	1268	[height=0.74639,
+		label="[1268] Nils Olofsson
+, född i Överå, Sidensjö sn, död 1713 i Mosjö,   Sidensjö sn. Bonde i Grätnäs o Mosjö, Sidensjö \
+sn.",
+		pos="48847,924.27",
+		width=14.064];
+	634 -> 1268	[color=blue,
+		pos="e,48925,897.71 49036,861.03 49004,871.53 48967,883.74 48934,894.55"];
+	1269	[height=0.74639,
+		label="[1269] Anna Larsdotter
+, född i Hämra, Sidensjö sn, död 1718 i Mosjö,   Sidensjö sn.",
+		pos="49687,924.27",
+		width=8.7603];
+	634 -> 1269	[color=pink,
+		pos="e,49539,900.53 49272,859.8 49352,872.01 49448,886.76 49528,898.98"];
+	2536	[height=0.74639,
+		label="[2536] Olof Andersson
+. Bonde i Överå, Sidensjö sn. nämnd 1638-1644.",
+		pos="48847,1014",
+		width=7.0907];
+	1268 -> 2536	[color=blue,
+		pos="e,48847,987.01 48847,951.6 48847,959.56 48847,968.45 48847,976.94"];
+	2538	[height=0.74639,
+		label="[2538] Lars Andersson
+, född 1598 i Hämra, Sidensjö sn. Bonde i Hämra,   Sidensjö sn. nämnd 1631-1663.",
+		pos="49687,1014",
+		width=11.982];
+	1269 -> 2538	[color=blue,
+		pos="e,49687,987.01 49687,951.6 49687,959.56 49687,968.45 49687,976.94"];
+	5076	[height=0.74639,
+		label="[5076] Anders Gabrielsson
+. Bonde i Hämra, Sidensjö sn. nämnd 1604-1629.",
+		pos="49687,1103.8",
+		width=7.2086];
+	2538 -> 5076	[color=blue,
+		pos="e,49687,1076.7 49687,1041.3 49687,1049.3 49687,1058.2 49687,1066.7"];
+	1270	[height=0.74639,
+		label="[1270] Nils Olsson
+. Bonde i Nordanås, Själevads sn.",
+		pos="50201,924.27",
+		width=5.0283];
+	635 -> 1270	[color=blue,
+		pos="e,50201,897.27 50201,861.86 50201,869.82 50201,878.71 50201,887.2"];
+	1271	[height=0.74639,
+		label="[1271] NN NN
+, död 1708 i Nordanås, Själevads sn.",
+		pos="50597,924.27",
+		width=5.4604];
+	635 -> 1271	[color=pink,
+		pos="e,50497,901.06 50312,859.97 50366,872.1 50432,886.7 50487,898.83"];
+	318	[height=0.74639,
+		label="[318] Jon Persson
+, född 1701-02-17 i Nolås, Sidensjö sn, död 1778-12-27  i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö \
+sn.",
+		pos="51269,744.79",
+		width=14.947];
+	159 -> 318	[color=blue,
+		pos="e,51064,719.94 50738,674 50754,676.79 50770,679.54 50785,681.92 50873,695.45 50970,708.26 51054,718.68"];
+	319	[height=0.74639,
+		label="[319] Karin Olofsdotter
+, född 1705-05-22 i Drömme, Sidensjö sn, död 1777-12-28  i Nolås, Sidensjö sn.",
+		pos="53849,744.79",
+		width=11.451];
+	159 -> 319	[color=pink,
+		pos="e,53446,739.22 50734,674.78 50751,677.67 50769,680.24 50785,681.92 51041,707.5 52660,729.75 53436,739.09"];
+	636	[height=0.74639,
+		label="[636] Per Johansson
+, född 1658 i Nolås, Sidensjö sn, död 1735 i Nolås,  Sidensjö sn. Bonde i Nolås, Sidensjö sn.",
+		pos="51269,834.53",
+		width=13.18];
+	318 -> 636	[color=blue,
+		pos="e,51269,807.53 51269,772.12 51269,780.08 51269,788.97 51269,797.46"];
+	637	[height=0.74639,
+		label="[637] Beata Jonsdotter
+, född i Österkäl, Sidensjö sn, död 1729 i Nolås,  Sidensjö sn.",
+		pos="52224,834.53",
+		width=8.8781];
+	318 -> 637	[color=pink,
+		pos="e,52014,814.25 51518,768.64 51669,782.48 51859,799.96 52004,813.3"];
+	1272	[height=0.74639,
+		label="[1272] Johan Persson
+, död 1698 i Nolås, Sidensjö sn. Bonde i Nolås,  Sidensjö sn.",
+		pos="51126,924.27",
+		width=8.7406];
+	636 -> 1272	[color=blue,
+		pos="e,51168,897.61 51227,861.38 51211,871.02 51193,882.06 51177,892.13"];
+	1273	[height=0.74639,
+		label="[1273] NN NN
+, död 1702 i Nolås, Sidensjö sn.",
+		pos="51630,924.27",
+		width=4.7533];
+	636 -> 1273	[color=pink,
+		pos="e,51540,901.39 51373,860.79 51423,872.8 51481,887.09 51530,898.97"];
+	1274	[height=0.74639,
+		label="[1274] Jon Johansson
+, född i Nolås, Sidensjö sn. Bonde i Österkäl,   Sidensjö sn. nämnd 1656-1663.",
+		pos="52224,924.27",
+		width=11.255];
+	637 -> 1274	[color=blue,
+		pos="e,52224,897.27 52224,861.86 52224,869.82 52224,878.71 52224,887.2"];
+	1275	[height=0.74639,
+		label="[1275] Beata Persdotter
+, född i Österkäl, Sidensjö sn.",
+		pos="52808,924.27",
+		width=4.4587];
+	637 -> 1275	[color=pink,
+		pos="e,52693,905.63 52377,858.21 52455,869.87 52552,884.34 52638,897.4 52653,899.55 52668,901.82 52682,904.07"];
+	2548	[height=0.74639,
+		label="[2548] Johan Uddesson
+, född i Nolås, Sidensjö sn, död 1635 i Nolås,   Sidensjö sn. Bonde i Nolås, Sidensjö sn. nämnd 1627-1635.",
+		pos="51562,1014",
+		width=15.183];
+	1274 -> 2548	[color=blue,
+		pos="e,51746,988.66 52049,948.55 51959,960.49 51849,975.06 51756,987.33"];
+	2549	[height=0.74639,
+		label="[2549] Kerstin NN
+.",
+		pos="52231,1014",
+		width=2.907];
+	1274 -> 2549	[color=pink,
+		pos="e,52229,987.01 52226,951.6 52227,959.56 52228,968.45 52228,976.94"];
+	5096	[height=0.74639,
+		label="[5096] Udde Persson
+, född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1579-1602.",
+		pos="51311,1103.8",
+		width=10.862];
+	2548 -> 5096	[color=blue,
+		pos="e,51384,1077.3 51489,1040.7 51459,1051.1 51424,1063.2 51394,1073.9"];
+	5097	[height=0.74639,
+		label="[5097] Anna NN
+.",
+		pos="51813,1103.8",
+		width=2.5927];
+	2548 -> 5097	[color=pink,
+		pos="e,51756,1082.6 51636,1040.7 51671,1052.9 51712,1067.3 51746,1079.2"];
+	10192	[height=0.74639,
+		label="[10192] Per Jonsson
+. Bonde i Nolås, Sidensjö sn. nämnd 1561-1578.",
+		pos="51311,1193.5",
+		width=7.0514];
+	5096 -> 10192	[color=blue,
+		pos="e,51311,1166.5 51311,1131.1 51311,1139 51311,1147.9 51311,1156.4"];
+	2550	[height=0.74639,
+		label="[2550] Per Phålesson
+, född 1587 i Överå, Sidensjö sn. Bonde i Österkäl,   Sidensjö sn. nämnd 1623-1655.",
+		pos="52802,1014",
+		width=12.099];
+	1275 -> 2550	[color=blue,
+		pos="e,52804,987.01 52807,951.6 52806,959.56 52805,968.45 52805,976.94"];
+	5100	[height=0.74639,
+		label="[5100] Phåle Grelsson
+. Bonde i Överå, Sidensjö sn. nämnd 1588-1619.",
+		pos="52802,1103.8",
+		width=7.0907];
+	2550 -> 5100	[color=blue,
+		pos="e,52802,1076.7 52802,1041.3 52802,1049.3 52802,1058.2 52802,1066.7"];
+	638	[height=0.74639,
+		label="[638] Olof Markusson
+, född 1673 i Drömme, Sidensjö sn, död 1747 i Drömme,  Sidensjö sn. Bonde i Drömme, Sidensjö sn.",
+		pos="53849,834.53",
+		width=14.417];
+	319 -> 638	[color=blue,
+		pos="e,53849,807.53 53849,772.12 53849,780.08 53849,788.97 53849,797.46"];
+	639	[height=0.74639,
+		label="[639] Sara Uddesdotter
+, född 1675 i Västanå, Nätra sn, död 1745 i Drömme,  Sidensjö sn.",
+		pos="54986,834.53",
+		width=9.6049];
+	319 -> 639	[color=pink,
+		pos="e,54747,815.07 54108,765.76 54297,780.3 54551,799.9 54737,814.28"];
+	1276	[height=0.74639,
+		label="[1276] Markus Olofsson
+, född 1621 i Drömme, Sidensjö sn, död 1697 i Drömme,   Sidensjö sn. Bonde i Drömme, Sidensjö sn.",
+		pos="53595,924.27",
+		width=14.496];
+	638 -> 1276	[color=blue,
+		pos="e,53670,897.63 53775,861.15 53745,871.55 53710,883.62 53679,894.34"];
+	1277	[height=0.74639,
+		label="[1277] Anna NN
+, död 1697 i Drömme, Sidensjö sn.",
+		pos="54321,924.27",
+		width=5.1658];
+	638 -> 1277	[color=pink,
+		pos="e,54210,902.62 53984,860.5 54052,873.17 54134,888.44 54200,900.75"];
+	2552	[height=0.74639,
+		label="[2552] Olof Markusson
+, född i Drömme, Sidensjö sn. Bonde i Drömme,   Sidensjö sn. nämnd 1611-1627.",
+		pos="53676,1014",
+		width=11.687];
+	1276 -> 2552	[color=blue,
+		pos="e,53652,987.04 53619,951.12 53627,960.06 53637,970.2 53646,979.65"];
+	5104	[height=0.74639,
+		label="[5104] Markus Gullesson
+, född i Drömme, Sidensjö sn. Bonde i Drömme,   Sidensjö sn. nämnd 1579-1600.",
+		pos="53676,1103.8",
+		width=11.687];
+	2552 -> 5104	[color=blue,
+		pos="e,53676,1076.7 53676,1041.3 53676,1049.3 53676,1058.2 53676,1066.7"];
+	10208	[height=0.74639,
+		label="[10208] Gulle Olofsson
+. Bonde i Drömme, Sidensjö sn. nämnd 1542-1578.",
+		pos="53676,1193.5",
+		width=7.4639];
+	5104 -> 10208	[color=blue,
+		pos="e,53676,1166.5 53676,1131.1 53676,1139 53676,1147.9 53676,1156.4"];
+	1278	[height=0.74639,
+		label="[1278] Udde Arahamsson
+, född i Västanå, Nätra sn, död 1706 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn.",
+		pos="54986,924.27",
+		width=12.806];
+	639 -> 1278	[color=blue,
+		pos="e,54986,897.27 54986,861.86 54986,869.82 54986,878.71 54986,887.2"];
+	1279	[height=0.74639,
+		label="[1279] Anna Eliaedotter
+, född i Nyland, Sidensjö sn, död 1716 i Nyland,   Sidensjö sn.",
+		pos="55788,924.27",
+		width=8.9763];
+	639 -> 1279	[color=pink,
+		pos="e,55598,902.49 55180,856.77 55304,870.29 55464,887.75 55588,901.39"];
+	2558	[height=0.74639,
+		label="[2558] Elias Persson
+, född 1612 i Nyland, Sidensjö sn. Bonde i Nyland,   Sidensjö sn. nämnd 1645-1685.",
+		pos="55473,1014",
+		width=12.06];
+	1279 -> 2558	[color=blue,
+		pos="e,55564,987.66 55699,950.18 55660,961.01 55614,973.76 55574,984.93"];
+	2559	[height=0.74639,
+		label="[2559] NN NN
+, död 1697 i Nyland, Sidensjö sn.",
+		pos="56103,1014",
+		width=4.9497];
+	1279 -> 2559	[color=pink,
+		pos="e,56021,990.14 55878,950.18 55920,961.84 55969,975.7 56012,987.44"];
+	5116	[height=0.74639,
+		label="[5116] Per Persson
+. Bonde i Nyland, Sidensjö sn. nämnd 1609-1633.",
+		pos="55473,1103.8",
+		width=7.2478];
+	2558 -> 5116	[color=blue,
+		pos="e,55473,1076.7 55473,1041.3 55473,1049.3 55473,1058.2 55473,1066.7"];
+	10	[height=0.74639,
+		label="[10] Erik Hansson Näsholm
+, född 1846-05-29 i Lökom, Överlännäs sn.",
+		pos="52058,296.09",
+		width=6.2658];
+	5 -> 10	[color=blue,
+		pos="e,52111,269.86 52191,231.79 52169,242.22 52143,254.48 52121,265.43"];
+	11	[height=0.74639,
+		label="[11] Anna Margareta Mellin
+, född 1849-03-20.",
+		pos="52573,296.09",
+		width=4.223];
+	5 -> 11	[color=pink,
+		pos="e,52491,273.37 52324,228.93 52372,241.6 52432,257.66 52482,270.79"];
+	20	[height=0.74639,
+		label="[20] Hans Månsson
+, född 1819-07-11 i Lökom, Överlännäs sn.",
+		pos="51542,385.83",
+		width=6.2658];
+	10 -> 20	[color=blue,
+		pos="e,51668,363.46 51933,318.44 51856,331.55 51757,348.34 51678,361.76"];
+	21	[height=0.74639,
+		label="[21] Dorotea Ersdotter
+, född 1819-02-01 i Viätt, Styrnäs sn.",
+		pos="52058,385.83",
+		width=5.5194];
+	10 -> 21	[color=pink,
+		pos="e,52058,358.83 52058,323.42 52058,331.38 52058,340.27 52058,348.76"];
+	40	[height=0.74639,
+		label="[40] Måns Hansson
+, född 1790-11-27 i Lökom, Överlännäs sn.",
+		pos="51073,475.57",
+		width=6.2658];
+	20 -> 40	[color=blue,
+		pos="e,51191,452.58 51425,408.8 51357,421.55 51271,437.62 51201,450.68"];
+	41	[height=0.74639,
+		label="[41] Greta Olofsdotter
+, född 1798-05-10 i Lökom, Överlännäs sn.",
+		pos="51542,475.57",
+		width=6.2658];
+	20 -> 41	[color=pink,
+		pos="e,51542,448.57 51542,413.16 51542,421.12 51542,430.01 51542,438.5"];
+	80	[height=0.74639,
+		label="[80] Hans Thomasson
+, född 1750.",
+		pos="50918,565.31",
+		width=3.3588];
+	40 -> 80	[color=blue,
+		pos="e,50961,540.05 51028,501.95 51010,512.3 50989,524.34 50970,535.06"];
+	81	[height=0.74639,
+		label="[81] Brita Olofsdotter
+, född 1771.",
+		pos="51178,565.31",
+		width=3.3588];
+	40 -> 81	[color=pink,
+		pos="e,51148,539.25 51104,502.42 51116,511.87 51128,522.66 51140,532.56"];
+	160	[height=0.74639,
+		label="[160] Tomas Mattsson
+= 130",
+		pos="50918,655.05",
+		width=3.457];
+	80 -> 160	[color=blue,
+		pos="e,50918,628.05 50918,592.64 50918,600.6 50918,609.49 50918,617.98"];
+	161	[height=0.74639,
+		label="[161] Margeta Månsdotter
+= 131",
+		pos="51207,655.05",
+		width=4.0659];
+	80 -> 161	[color=pink,
+		pos="e,51134,631.73 50988,587.44 51029,599.88 51081,615.7 51124,628.8"];
+	82	[height=0.74639,
+		label="[82] Olof Jonsson
+, född 1770-03-09 i Lökom, Överlännäs sn.",
+		pos="51542,565.31",
+		width=6.2658];
+	41 -> 82	[color=blue,
+		pos="e,51542,538.31 51542,502.9 51542,510.86 51542,519.75 51542,528.24"];
+	83	[height=0.74639,
+		label="[83] Greta Jansdotter
+, född 1774-10-30.",
+		pos="51905,565.31",
+		width=3.3195];
+	41 -> 83	[color=pink,
+		pos="e,51826,545.12 51639,499.97 51694,513.25 51762,529.77 51816,542.74"];
+	164	[height=0.74639,
+		label="[164] Jon Olofsson
+, född 1724.",
+		pos="51508,655.05",
+		width=2.8874];
+	82 -> 164	[color=blue,
+		pos="e,51518,628.08 51532,592.16 51529,600.48 51525,609.84 51522,618.71"];
+	165	[height=0.74639,
+		label="[165] Anna Hansdotter
+, född 1727.",
+		pos="51757,655.05",
+		width=3.5355];
+	82 -> 165	[color=pink,
+		pos="e,51701,630.89 51603,591.22 51631,602.42 51663,615.65 51691,627.09"];
+	42	[height=0.74639,
+		label="[42] Erik Sjö
+, född 1794-05-27 i ?.",
+		pos="51904,475.57",
+		width=3.2998];
+	21 -> 42	[color=blue,
+		pos="e,51947,450.46 52014,412.21 51996,422.61 51974,434.7 51955,445.46"];
+	43	[height=0.74639,
+		label="[43] Greta Nilsdotter
+, född 1793-12-07.",
+		pos="52159,475.57",
+		width=3.2802];
+	21 -> 43	[color=pink,
+		pos="e,52130,449.38 52088,412.44 52099,421.9 52111,432.73 52123,442.67"];
+	22	[height=0.74639,
+		label="[22] Pehr Mellin
+, född 1821-08-05 i Prästbordet, Boteå sn.",
+		pos="52573,385.83",
+		width=6.2265];
+	11 -> 22	[color=blue,
+		pos="e,52573,358.83 52573,323.42 52573,331.38 52573,340.27 52573,348.76"];
+	23	[height=0.74639,
+		label="[23] Magdalena Persdotter
+, född 1814-11-27 i Österås, Eds sn.",
+		pos="53081,385.83",
+		width=5.3622];
+	11 -> 23	[color=pink,
+		pos="e,52964,364.5 52679,315.38 52759,329.17 52869,348.15 52954,362.78"];
+	44	[height=0.74639,
+		label="[44] Pehr Mellin
+, född 1777-07-21 i Undrom, Boteå sn.",
+		pos="52500,475.57",
+		width=5.6961];
+	22 -> 44	[color=blue,
+		pos="e,52522,448.6 52552,412.68 52545,421.44 52536,431.36 52529,440.65"];
+	45	[height=0.74639,
+		label="[45] Brita Pehrsdotter
+, född 1780-11-20 i ?.",
+		pos="52847,475.57",
+		width=3.4373];
+	22 -> 45	[color=pink,
+		pos="e,52780,452.89 52649,411.15 52687,423.17 52732,437.63 52770,449.72"];
+	88	[height=0.74639,
+		label="[88] Henrik Mellin
+.",
+		pos="52321,565.31",
+		width=2.907];
+	44 -> 88	[color=blue,
+		pos="e,52368,541.27 52449,501.71 52427,512.66 52400,525.53 52378,536.74"];
+	89	[height=0.74639,
+		label="[89] Dordie Persdotter Westberg
+.",
+		pos="52621,565.31",
+		width=4.9301];
+	44 -> 89	[color=pink,
+		pos="e,52586,538.82 52536,502.18 52549,511.73 52564,522.69 52578,532.72"];
+	46	[height=0.74639,
+		label="[46] Per Nilsson
+, född 1786 i ?.",
+		pos="53081,475.57",
+		width=2.5731];
+	23 -> 46	[color=blue,
+		pos="e,53081,448.57 53081,413.16 53081,421.12 53081,430.01 53081,438.5"];
+	47	[height=0.74639,
+		label="[47] Magdalena Jansdotter
+, född 1782-04-18 i ?.",
+		pos="53338,475.57",
+		width=4.0659];
+	23 -> 47	[color=pink,
+		pos="e,53271,451.59 53152,410.92 53186,422.51 53227,436.44 53261,448.3"];
+	93	[height=0.74639,
+		label="[93] Dordie Persdotter
+, född 1762.",
+		pos="53063,565.31",
+		width=3.4963];
+	46 -> 93	[color=pink,
+		pos="e,53069,538.34 53076,502.42 53074,510.56 53072,519.7 53071,528.41"];
+	95	[height=0.74639,
+		label="[95] Anna Andersdotter
+, född 1751.",
+		pos="53338,565.31",
+		width=3.6337];
+	47 -> 95	[color=pink,
+		pos="e,53338,538.31 53338,502.9 53338,510.86 53338,519.75 53338,528.24"];
+	6	[height=0.74639,
+		label="[6] Nils Jonas Lindström
+, född 1883-02-19 i Ådalslidens sn.",
+		pos="54105,206.35",
+		width=5.1658];
+	3 -> 6	[color=blue,
+		pos="e,54105,179.35 54105,143.94 54105,151.9 54105,160.79 54105,169.28"];
+	7	[height=0.74639,
+		label="[7] Ida Eriksdotter
+, född 1889-04-18 i Junsele sn.",
+		pos="54484,206.35",
+		width=4.5766];
+	3 -> 7	[color=pink,
+		pos="e,54392,184.01 54192,137.74 54249,150.85 54323,168 54382,181.75"];
+	13	[height=0.74639,
+		label="[13] Anna Karolina Karlsdotter
+, född 1862-01-05.",
+		pos="54105,296.09",
+		width=4.6355];
+	6 -> 13	[color=pink,
+		pos="e,54105,269.09 54105,233.68 54105,241.64 54105,250.53 54105,259.02"];
+	26	[height=0.74639,
+		label="[26] Karl Erik Persson
+, född 1837-11-20 i ?.",
+		pos="53920,385.83",
+		width=3.4373];
+	13 -> 26	[color=blue,
+		pos="e,53970,361.1 54053,321.76 54030,332.64 54003,345.47 53980,356.71"];
+	27	[height=0.74639,
+		label="[27] Anna Cajsa Henriksdotter
+, född 1838-10-04 i Västersel, Anundsjö sn.",
+		pos="54290,385.83",
+		width=6.3443];
+	13 -> 27	[color=pink,
+		pos="e,54237,359.58 54157,321.76 54179,332.14 54205,344.31 54228,355.17"];
+	54	[height=0.74639,
+		label="[54] Henrik Andersson Gullsjö
+, född 1802-11-18 i Västersel, Anundsjö sn.",
+		pos="54104,475.57",
+		width=6.3443];
+	27 -> 54	[color=blue,
+		pos="e,54158,449.42 54237,411.97 54215,422.3 54190,434.33 54167,445.07"];
+	55	[height=0.74639,
+		label="[55] Anna Olofsdotter
+, född 1806.",
+		pos="54506,475.57",
+		width=3.3588];
+	27 -> 55	[color=pink,
+		pos="e,54450,451.7 54352,411.74 54379,423.03 54412,436.39 54441,447.88"];
+	108	[height=0.74639,
+		label="[108] Anders Andersson Westersel
+, född 1774.",
+		pos="53673,565.31",
+		width=5.1658];
+	54 -> 108	[color=blue,
+		pos="e,53778,543.05 53994,499.11 53931,511.95 53852,528.02 53788,540.99"];
+	109	[height=0.74639,
+		label="[109] Anna Henriksdotter
+, född 1776-02-16 i Brandkäl, Anundsjö sn.",
+		pos="54104,565.31",
+		width=6.305];
+	54 -> 109	[color=pink,
+		pos="e,54104,538.31 54104,502.9 54104,510.86 54104,519.75 54104,528.24"];
+	218	[height=0.74639,
+		label="[218] Henrik Olofsson
+.",
+		pos="54104,655.05",
+		width=3.398];
+	109 -> 218	[color=blue,
+		pos="e,54104,628.05 54104,592.64 54104,600.6 54104,609.49 54104,617.98"];
+	110	[height=0.74639,
+		label="[110] Olof Göransson Gullsjö
+, född 1768.",
+		pos="54506,565.31",
+		width=4.3605];
+	55 -> 110	[color=blue,
+		pos="e,54506,538.31 54506,502.9 54506,510.86 54506,519.75 54506,528.24"];
+	111	[height=0.74639,
+		label="[111] Anna Olofsdotter
+, född 1768-07-04 i Galasjö, Anundsjö sn.",
+		pos="54899,565.31",
+		width=6.0693];
+	55 -> 111	[color=pink,
+		pos="e,54797,541.52 54590,495.18 54647,508.02 54724,525.25 54787,539.29"];
+	222	[height=0.74639,
+		label="[222] Olof Jonsson
+.",
+		pos="54771,655.05",
+		width=2.8874];
+	111 -> 222	[color=blue,
+		pos="e,54807,629.76 54862,591.92 54847,602 54830,613.63 54815,624.09"];
+	223	[height=0.74639,
+		label="[223] Karin Mattsdotter
+.",
+		pos="55026,655.05",
+		width=3.6927];
+	111 -> 223	[color=pink,
+		pos="e,54990,629.16 54936,591.92 54951,601.73 54967,613.03 54982,623.27"];
+	15	[height=0.74639,
+		label="[15] Christina Johanna Kristiansdotter
+, född 1865-06-12.",
+		pos="55087,296.09",
+		width=5.6961];
+	7 -> 15	[color=pink,
+		pos="e,54954,275.66 54604,224.79 54702,239.01 54840,259.14 54944,274.22"];
+	31	[height=0.74639,
+		label="[31] Lisa Cajsa Wilhelmsdotter
+, född 1843-04-15 i Kyrktjärn, Bjurholms sn.",
+		pos="55273,385.83",
+		width=6.5211];
+	15 -> 31	[color=pink,
+		pos="e,55220,359.53 55141,322.23 55162,332.51 55188,344.48 55210,355.19"];
+	62	[height=0.74639,
+		label="[62] Wilhelm Petter Jonsson
+, född 1814-04-15 i Kolksele, Umeå landsf.",
+		pos="55273,475.57",
+		width=6.2461];
+	31 -> 62	[color=blue,
+		pos="e,55273,448.57 55273,413.16 55273,421.12 55273,430.01 55273,438.5"];
+	63	[height=0.74639,
+		label="[63] Anna Magdalena Håkansdotter Wester
+, född 1811-03-01 i Braksele,   Bjurholms sn.",
+		pos="55789,475.57",
+		width=6.58];
+	31 -> 63	[color=pink,
+		pos="e,55662,452.88 55401,408.46 55477,421.43 55574,437.92 55652,451.19"];
+	124	[height=0.74639,
+		label="[124] Jon Persson
+.",
+		pos="55236,565.31",
+		width=2.7891];
+	62 -> 124	[color=blue,
+		pos="e,55247,538.34 55262,502.42 55259,510.74 55255,520.1 55251,528.97"];
+	125	[height=0.74639,
+		label="[125] Anna Beata Berggren
+.",
+		pos="55504,565.31",
+		width=4.1641];
+	62 -> 125	[color=pink,
+		pos="e,55442,540.79 55339,501.36 55368,512.52 55403,525.72 55433,537.15"];
+	126	[height=0.74639,
+		label="[126] Håkan Persson
+.",
+		pos="55789,565.31",
+		width=3.2409];
+	63 -> 126	[color=blue,
+		pos="e,55789,538.31 55789,502.9 55789,510.86 55789,519.75 55789,528.24"];
+	127	[height=0.74639,
+		label="[127] Magdalena Svensdotter
+.",
+		pos="56086,565.31",
+		width=4.498];
+	63 -> 127	[color=pink,
+		pos="e,56009,541.6 55872,500.89 55911,512.65 55959,526.77 56000,538.7"];
+}

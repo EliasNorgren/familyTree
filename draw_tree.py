@@ -49,9 +49,9 @@ def create_person_tree(data):
 # root.father.mother = Person(5, "Paternal Grandmother", "b. 1845")
 # root.mother.father = Person(6, "Maternal asd Grandfather", "b. 1850")
 
-input_file = "Bergman.htm.json"
+input_file = "merged_output/merged.json"
 
-with open(f"output/{input_file}", "r", encoding="utf-8") as f:
+with open(f"{input_file}", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 root = create_person_tree(data)

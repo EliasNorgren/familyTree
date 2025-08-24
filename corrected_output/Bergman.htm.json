@@ -1,0 +1,686 @@
+[
+  {
+    "number": "1",
+    "name": "Kjell Erik Bergman",
+    "relationship": "1",
+    "suffix": ", född 1944-03-09."
+  },
+  {
+    "number": "2",
+    "name": "Erik Ingemund Bergman",
+    "relationship": "f",
+    "suffix": ", född 1919-04-07."
+  },
+  {
+    "number": "3",
+    "name": "Elin Arvida Lindström",
+    "relationship": "m",
+    "suffix": ", född 1918-09-07."
+  },
+  {
+    "number": "4",
+    "name": "Abraham Edvard Bergman",
+    "relationship": "ff",
+    "suffix": ", född 1882-01-01."
+  },
+  {
+    "number": "5",
+    "name": "Hulda Kristina Näsholm",
+    "relationship": "fm",
+    "suffix": ", född 1891-12-26."
+  },
+  {
+    "number": "6",
+    "name": "Nils Jonas Lindström",
+    "relationship": "mf",
+    "suffix": ", född 1883-02-19 i Ådalslidens sn."
+  },
+  {
+    "number": "7",
+    "name": "Ida Eriksdotter",
+    "relationship": "mm",
+    "suffix": ", född 1889-04-18 i Junsele sn."
+  },
+  {
+    "number": "8",
+    "name": "Nils Olof Bergman",
+    "relationship": "fff",
+    "suffix": ", född 1847-12-08 i Bjursta, Multrå sn."
+  },
+  {
+    "number": "9",
+    "name": "Catarina Elisabet Öberg",
+    "relationship": "ffm",
+    "suffix": ", född 1854-08-14 i Forse, Långsele sn."
+  },
+  {
+    "number": "10",
+    "name": "Erik Hansson Näsholm",
+    "relationship": "fmf",
+    "suffix": ", född 1846-05-29 i Lökom, Överlännäs sn."
+  },
+  {
+    "number": "11",
+    "name": "Anna Margareta Mellin",
+    "relationship": "fmm",
+    "suffix": ", född 1849-03-20."
+  },
+  {
+    "number": "13",
+    "name": "Anna Karolina Karlsdotter",
+    "relationship": "mfm",
+    "suffix": ", född 1862-01-05."
+  },
+  {
+    "number": "15",
+    "name": "Christina Johanna Kristiansdotter",
+    "relationship": "mmm",
+    "suffix": ", född 1865-06-12."
+  },
+  {
+    "number": "16",
+    "name": "Abraham Nilsson",
+    "relationship": "ffff",
+    "suffix": ", född 1824-10-05 i Sand, Eds sn."
+  },
+  {
+    "number": "17",
+    "name": "Anna Elisabet Nilsdotter",
+    "relationship": "fffm",
+    "suffix": ", född 1854-08-14 i Österstrinne, Multrå sn."
+  },
+  {
+    "number": "18",
+    "name": "Elias Öberg",
+    "relationship": "ffmf",
+    "suffix": ", född 1826-01-05 i Björkäng, Sollefteå sn."
+  },
+  {
+    "number": "19",
+    "name": "Stina Nilsdotter",
+    "relationship": "ffmm",
+    "suffix": ", född 1826-05-30 i Östertjäl, Sidensjö sn."
+  },
+  {
+    "number": "20",
+    "name": "Hans Månsson",
+    "relationship": "fmff",
+    "suffix": ", född 1819-07-11 i Lökom, Överlännäs sn."
+  },
+  {
+    "number": "21",
+    "name": "Dorotea Ersdotter",
+    "relationship": "fmfm",
+    "suffix": ", född 1819-02-01 i Viätt, Styrnäs sn."
+  },
+  {
+    "number": "22",
+    "name": "Pehr Mellin",
+    "relationship": "fmmf",
+    "suffix": ", född 1821-08-05 i Prästbordet, Boteå sn."
+  },
+  {
+    "number": "23",
+    "name": "Magdalena Persdotter",
+    "relationship": "fmmm",
+    "suffix": ", född 1814-11-27 i Österås, Eds sn."
+  },
+  {
+    "number": "26",
+    "name": "Karl Erik Persson",
+    "relationship": "mfmf",
+    "suffix": ", född 1837-11-20 i ?."
+  },
+  {
+    "number": "27",
+    "name": "Anna Cajsa Henriksdotter",
+    "relationship": "mfmm",
+    "suffix": ", född 1838-10-04 i Västersel, Anundsjö sn."
+  },
+  {
+    "number": "31",
+    "name": "Lisa Cajsa Wilhelmsdotter",
+    "relationship": "mmmm",
+    "suffix": ", född 1843-04-15 i Kyrktjärn, Bjurholms sn."
+  },
+  {
+    "number": "32",
+    "name": "Nils Eriksson",
+    "relationship": "fffff",
+    "suffix": ", född 1781-09-07 i Hågesta, Sollefteå sn."
+  },
+  {
+    "number": "33",
+    "name": "Helena Abrahamsdotter",
+    "relationship": "ffffm",
+    "suffix": ", född 1791-06-12 i Yttersel, Resele sn."
+  },
+  {
+    "number": "34",
+    "name": "Nils Persson",
+    "relationship": "fffmf",
+    "suffix": ", född 1788-04-17 i Österstrinne, Multrå sn."
+  },
+  {
+    "number": "35",
+    "name": "Karin Persdotter",
+    "relationship": "fffmm",
+    "suffix": ", född 1790 i ?."
+  },
+  {
+    "number": "36",
+    "name": "Mauritz Jansson",
+    "relationship": "ffmff",
+    "suffix": ", född 1792-08-18 i Örbäck, Långsele sn."
+  },
+  {
+    "number": "37",
+    "name": "Maja Lisa Blå",
+    "relationship": "ffmfm",
+    "suffix": ", född 1802-07-03 i Björkäng, Sollefteå sn."
+  },
+  {
+    "number": "38",
+    "name": "Nils Christophersson",
+    "relationship": "ffmmf",
+    "suffix": ", född 1802-07-04 i Hämra, Sidensjö sn."
+  },
+  {
+    "number": "39",
+    "name": "Stina Olofsdotter",
+    "relationship": "ffmmm",
+    "suffix": ", född 1794-04-08 i Hållen, Sidensjö sn."
+  },
+  {
+    "number": "40",
+    "name": "Måns Hansson",
+    "relationship": "fmfff",
+    "suffix": ", född 1790-11-27 i Lökom, Överlännäs sn."
+  },
+  {
+    "number": "41",
+    "name": "Greta Olofsdotter",
+    "relationship": "fmffm",
+    "suffix": ", född 1798-05-10 i Lökom, Överlännäs sn."
+  },
+  {
+    "number": "42",
+    "name": "Erik Sjö",
+    "relationship": "fmfmf",
+    "suffix": ", född 1794-05-27 i ?."
+  },
+  {
+    "number": "43",
+    "name": "Greta Nilsdotter",
+    "relationship": "fmfmm",
+    "suffix": ", född 1793-12-07."
+  },
+  {
+    "number": "44",
+    "name": "Pehr Mellin",
+    "relationship": "fmmff",
+    "suffix": ", född 1777-07-21 i Undrom, Boteå sn."
+  },
+  {
+    "number": "45",
+    "name": "Brita Pehrsdotter",
+    "relationship": "fmmfm",
+    "suffix": ", född 1780-11-20 i ?."
+  },
+  {
+    "number": "46",
+    "name": "Per Nilsson",
+    "relationship": "fmmmf",
+    "suffix": ", född 1786 i ?."
+  },
+  {
+    "number": "47",
+    "name": "Magdalena Jansdotter",
+    "relationship": "fmmmm",
+    "suffix": ", född 1782-04-18 i ?."
+  },
+  {
+    "number": "54",
+    "name": "Henrik Andersson Gullsjö",
+    "relationship": "mfmmf",
+    "suffix": ", född 1802-11-18 i Västersel, Anundsjö sn."
+  },
+  {
+    "number": "55",
+    "name": "Anna Olofsdotter",
+    "relationship": "mfmmm",
+    "suffix": ", född 1806."
+  },
+  {
+    "number": "62",
+    "name": "Wilhelm Petter Jonsson",
+    "relationship": "mmmmf",
+    "suffix": ", född 1814-04-15 i Kolksele, Umeå landsf."
+  },
+  {
+    "number": "63",
+    "name": "Anna Magdalena Håkansdotter Wester",
+    "relationship": "mmmmm",
+    "suffix": ", född 1811-03-01 i Braksele,   Bjurholms sn."
+  },
+  {
+    "number": "64",
+    "name": "Erik Nilsson",
+    "relationship": "ffffff",
+    "suffix": ", född 1740-11-01."
+  },
+  {
+    "number": "65",
+    "name": "Sara Tomasdotter",
+    "relationship": "fffffm",
+    "suffix": ", född 1753."
+  },
+  {
+    "number": "66",
+    "name": "Abraham Rossberg",
+    "relationship": "ffffmf",
+    "suffix": ", född 1761-06-12 i Lund, Brunflo sn."
+  },
+  {
+    "number": "67",
+    "name": "Dordie Gustafsdotter",
+    "relationship": "ffffmm",
+    "suffix": ", född 1768-10-05 i Rösta, Sollefteå sn."
+  },
+  {
+    "number": "68",
+    "name": "Nils Persson",
+    "relationship": "fffmff",
+    "suffix": "."
+  },
+  {
+    "number": "69",
+    "name": "Dordie Olofsdotter",
+    "relationship": "fffmfm",
+    "suffix": ", född 1760."
+  },
+  {
+    "number": "72",
+    "name": "Jan Mauritzsson",
+    "relationship": "ffmfff",
+    "suffix": "."
+  },
+  {
+    "number": "73",
+    "name": "Catharina Olofsdotter",
+    "relationship": "ffmffm",
+    "suffix": "."
+  },
+  {
+    "number": "74",
+    "name": "Elias Blå",
+    "relationship": "ffmfmf",
+    "suffix": ", född 1780 i Säbrå sn."
+  },
+  {
+    "number": "75",
+    "name": "Maria Nilsdotter",
+    "relationship": "ffmfmm",
+    "suffix": ", född 1778-01-15 i Västergranvåg, Sollefteå sn."
+  },
+  {
+    "number": "76",
+    "name": "Christopher Hansson",
+    "relationship": "ffmmff",
+    "suffix": "."
+  },
+  {
+    "number": "77",
+    "name": "Stina Jöransdotter",
+    "relationship": "ffmmfm",
+    "suffix": "."
+  },
+  {
+    "number": "78",
+    "name": "Olof Persson",
+    "relationship": "ffmmmf",
+    "suffix": "."
+  },
+  {
+    "number": "79",
+    "name": "Sara Andersdotter",
+    "relationship": "ffmmmm",
+    "suffix": "."
+  },
+  {
+    "number": "80",
+    "name": "Hans Thomasson",
+    "relationship": "fmffff",
+    "suffix": ", född 1750."
+  },
+  {
+    "number": "81",
+    "name": "Brita Olofsdotter",
+    "relationship": "fmfffm",
+    "suffix": ", född 1771."
+  },
+  {
+    "number": "82",
+    "name": "Olof Jonsson",
+    "relationship": "fmffmf",
+    "suffix": ", född 1770-03-09 i Lökom, Överlännäs sn."
+  },
+  {
+    "number": "83",
+    "name": "Greta Jansdotter",
+    "relationship": "fmffmm",
+    "suffix": ", född 1774-10-30."
+  },
+  {
+    "number": "88",
+    "name": "Henrik Mellin",
+    "relationship": "fmmfff",
+    "suffix": "."
+  },
+  {
+    "number": "89",
+    "name": "Dordie Persdotter Westberg",
+    "relationship": "fmmffm",
+    "suffix": "."
+  },
+  {
+    "number": "93",
+    "name": "Dordie Persdotter",
+    "relationship": "fmmmfm",
+    "suffix": ", född 1762."
+  },
+  {
+    "number": "95",
+    "name": "Anna Andersdotter",
+    "relationship": "fmmmmm",
+    "suffix": ", född 1751."
+  },
+  {
+    "number": "108",
+    "name": "Anders Andersson Westersel",
+    "relationship": "mfmmff",
+    "suffix": ", född 1774."
+  },
+  {
+    "number": "109",
+    "name": "Anna Henriksdotter",
+    "relationship": "mfmmfm",
+    "suffix": ", född 1776-02-16 i Brandkäl, Anundsjö sn."
+  },
+  {
+    "number": "110",
+    "name": "Olof Göransson Gullsjö",
+    "relationship": "mfmmmf",
+    "suffix": ", född 1768."
+  },
+  {
+    "number": "111",
+    "name": "Anna Olofsdotter",
+    "relationship": "mfmmmm",
+    "suffix": ", född 1768-07-04 i Galasjö, Anundsjö sn."
+  },
+  {
+    "number": "124",
+    "name": "Jon Persson",
+    "relationship": "mmmmff",
+    "suffix": "."
+  },
+  {
+    "number": "125",
+    "name": "Anna Beata Berggren",
+    "relationship": "mmmmfm",
+    "suffix": "."
+  },
+  {
+    "number": "126",
+    "name": "Håkan Persson",
+    "relationship": "mmmmmf",
+    "suffix": "."
+  },
+  {
+    "number": "127",
+    "name": "Magdalena Svensdotter",
+    "relationship": "mmmmmm",
+    "suffix": "."
+  },
+  {
+    "number": "128",
+    "name": "Nils Olofsson",
+    "relationship": "fffffff",
+    "suffix": ", född 1704 i Para, Sånga, död 1785-12-11 i Hågesta,   Sollefteå sn. Bonde i Para o Hågesta, Sollefteå sn."
+  },
+  {
+    "number": "129",
+    "name": "Helena Eriksdotter",
+    "relationship": "ffffffm",
+    "suffix": ", född 1714 i Ås, Högsjö sn, död 1754-07-02   i Hågesta, Sollefteå sn."
+  },
+  {
+    "number": "130",
+    "name": "Tomas Mattsson",
+    "relationship": "fffffmf",
+    "suffix": "."
+  },
+  {
+    "number": "131",
+    "name": "Margeta Månsdotter",
+    "relationship": "fffffmm",
+    "suffix": "."
+  },
+  {
+    "number": "132",
+    "name": "Abraham Rossberg",
+    "relationship": "ffffmff",
+    "suffix": ", född 1739-08-03 i Lund, Brunflo sn, död 1820-03-22   i Yttersel, Resele sn. Skomakare i Yttersel, Resele sn."
+  },
+  {
+    "number": "133",
+    "name": "Elin Olofsdotter",
+    "relationship": "ffffmfm",
+    "suffix": ", född (döpt 1736-10-17) i Ope, Brunflo sn."
+  },
+  {
+    "number": "134",
+    "name": "Gustaf Eriksson",
+    "relationship": "ffffmmf",
+    "suffix": ", född 1726-11-01 i Rösta, Sollefteå, död 1810-02-19   i Rösta, Sollefteå sn. Bonde i Rösta, Sollefteå sn."
+  },
+  {
+    "number": "135",
+    "name": "Margareta Ersdotter",
+    "relationship": "ffffmmm",
+    "suffix": ", född 1732-06-04 i Ön, Eds sn, död 1811-06-08   i Sand, Eds sn."
+  },
+  {
+    "number": "138",
+    "name": "Olof Persson",
+    "relationship": "fffmfmf",
+    "suffix": ", född 1732. Bonde i Ingersta, Sollefteå an."
+  },
+  {
+    "number": "139",
+    "name": "Brita Israelsdotter",
+    "relationship": "fffmfmm",
+    "suffix": ", född 1732."
+  },
+  {
+    "number": "144",
+    "name": "Mauritz Olofsson",
+    "relationship": "ffmffff",
+    "suffix": "."
+  },
+  {
+    "number": "145",
+    "name": "Märta Hansdotter",
+    "relationship": "ffmfffm",
+    "suffix": "."
+  },
+  {
+    "number": "146",
+    "name": "Olof Johansson",
+    "relationship": "ffmffmf",
+    "suffix": "."
+  },
+  {
+    "number": "147",
+    "name": "Lisa Olofsdotter",
+    "relationship": "ffmffmm",
+    "suffix": "."
+  },
+  {
+    "number": "149",
+    "name": "Ingrid Pärsdotter",
+    "relationship": "ffmfmfm",
+    "suffix": "."
+  },
+  {
+    "number": "150",
+    "name": "Nils Persson",
+    "relationship": "ffmfmmf",
+    "suffix": "."
+  },
+  {
+    "number": "151",
+    "name": "Gunilla Persdotter",
+    "relationship": "ffmfmmm",
+    "suffix": "."
+  },
+  {
+    "number": "152",
+    "name": "Hans Nilsson",
+    "relationship": "ffmmfff",
+    "suffix": "."
+  },
+  {
+    "number": "153",
+    "name": "Marget Christophersdotter",
+    "relationship": "ffmmffm",
+    "suffix": "."
+  },
+  {
+    "number": "154",
+    "name": "Jöran Johansson",
+    "relationship": "ffmmfmf",
+    "suffix": "."
+  },
+  {
+    "number": "155",
+    "name": "Kerstin Marcusdotter",
+    "relationship": "ffmmfmm",
+    "suffix": "."
+  },
+  {
+    "number": "156",
+    "name": "Per Hansson",
+    "relationship": "ffmmmff",
+    "suffix": "."
+  },
+  {
+    "number": "157",
+    "name": "Helena Olofsdotter",
+    "relationship": "ffmmmfm",
+    "suffix": "."
+  },
+  {
+    "number": "158",
+    "name": "Anders Jacobsson",
+    "relationship": "ffmmmmf",
+    "suffix": "."
+  },
+  {
+    "number": "159",
+    "name": "Kerstin Jonsdotter",
+    "relationship": "ffmmmmm",
+    "suffix": "."
+  },
+  {
+    "number": "160",
+    "name": "Tomas Mattsson",
+    "relationship": "fmfffff",
+    "suffix": "= 130"
+  },
+  {
+    "number": "161",
+    "name": "Margeta Månsdotter",
+    "relationship": "fmffffm",
+    "suffix": "= 131"
+  },
+  {
+    "number": "164",
+    "name": "Jon Olofsson",
+    "relationship": "fmffmff",
+    "suffix": ", född 1724."
+  },
+  {
+    "number": "165",
+    "name": "Anna Hansdotter",
+    "relationship": "fmffmfm",
+    "suffix": ", född 1727."
+  },
+  {
+    "number": "218",
+    "name": "Henrik Olofsson",
+    "relationship": "mfmmfmf",
+    "suffix": "."
+  },
+  {
+    "number": "222",
+    "name": "Olof Jonsson",
+    "relationship": "mfmmmmf",
+    "suffix": "."
+  },
+  {
+    "number": "223",
+    "name": "Karin Mattsdotter",
+    "relationship": "mfmmmmm",
+    "suffix": "."
+  },
+  {
+    "number": "256",
+    "name": "Olof Olofsson",
+    "relationship": "ffffffff",
+    "suffix": ", född 1677 i Para, Sånga sn. Bonde i Para, Sånga sn.   Nämnd 1702-40."
+  },
+  {
+    "number": "257",
+    "name": "NN",
+    "relationship": "fffffffm",
+    "suffix": ", död 1725 i Para, Sånga sn."
+  },
+  {
+    "number": "258",
+    "name": "Erik Olofsson",
+    "relationship": "ffffffmf",
+    "suffix": ", född 1672 i Ås, Högsjö sn, död 1735-08-31 i Vålånger,   Högsjö sn."
+  },
+  {
+    "number": "259",
+    "name": "Sissla Järlandsdotter",
+    "relationship": "ffffffmm",
+    "suffix": ", född 1691 i Lästa, Ytterlännäs."
+  },
+  {
+    "number": "512",
+    "name": "Olof Andersson",
+    "relationship": "fffffffff",
+    "suffix": ", född i Pars, Sånga sn. Bonde i Para 4, Sånga sn.   Nämnd 1684-1701."
+  },
+  {
+    "number": "513",
+    "name": "NN",
+    "relationship": "ffffffffm",
+    "suffix": ", död 1697 i Para, Sånga sn."
+  },
+  {
+    "number": "1024",
+    "name": "Anders Olofsson",
+    "relationship": "ffffffffff",
+    "suffix": ", född i Para, Sånga sn. Bonde i Para, Sånga sn.    Nämnd 1642-1683."
+  },
+  {
+    "number": "2048",
+    "name": "Olof Andersson",
+    "relationship": "fffffffffff",
+    "suffix": ". Bonde i Para, Sånga sn. Nämnd 1627-29."
+  }
+]
