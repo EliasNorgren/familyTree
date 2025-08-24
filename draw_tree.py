@@ -56,9 +56,26 @@ with open(f"{input_file}", "r", encoding="utf-8") as f:
 
 root = create_person_tree(data)
 
-tree = draw_tree(root)
-tree.render(f'renders/{input_file}', format='png', cleanup=True)
-tree.render(f'renders/{input_file}', format='pdf', cleanup=True)
-tree.render(f'renders/{input_file}', format='svg', cleanup=True)
-tree.render(f'renders/{input_file}', format='gv', cleanup=True)
+def has_duplicate_ancestors(root):
+    visited = set()
+    def traverse(person):
+        if person is None:
+            return False
+        if person.ahnentafel in visited:
+            return True  # Found duplicate ancestor
+        visited.add(person.ahnentafel)
+        return traverse(person.father) or traverse(person.mother)
+    return traverse(root)
+
+# Usage:
+if has_duplicate_ancestors(root):
+    print("Warning: Duplicate ancestors detected (possible incestuous relation or pedigree collapse).")
+else:
+    print("No duplicate ancestors detected.")
+
+# tree = draw_tree(root)
+# tree.render(f'renders/{input_file}', format='png', cleanup=True)
+# tree.render(f'renders/{input_file}', format='pdf', cleanup=True)
+# tree.render(f'renders/{input_file}', format='svg', cleanup=True)
+# tree.render(f'renders/{input_file}', format='gv', cleanup=True)
 
