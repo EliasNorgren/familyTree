@@ -49,15 +49,16 @@ def create_person_tree(data):
 # root.father.mother = Person(5, "Paternal Grandmother", "b. 1845")
 # root.mother.father = Person(6, "Maternal asd Grandfather", "b. 1850")
 
-with open("output/Bergman.htm.json", "r", encoding="utf-8") as f:
+input_file = "Bergman.htm.json"
+
+with open(f"output/{input_file}", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 root = create_person_tree(data)
 
-
 tree = draw_tree(root)
-tree.render('family_tree', format='png', cleanup=True)
-tree.render('family_tree', format='pdf', cleanup=True)
-tree.render('family_tree', format='svg', cleanup=True)
-tree.render('family_tree', format='gv', cleanup=True)
+tree.render(f'renders/{input_file}', format='png', cleanup=True)
+tree.render(f'renders/{input_file}', format='pdf', cleanup=True)
+tree.render(f'renders/{input_file}', format='svg', cleanup=True)
+tree.render(f'renders/{input_file}', format='gv', cleanup=True)
 

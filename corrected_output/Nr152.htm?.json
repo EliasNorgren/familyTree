@@ -1,0 +1,182 @@
+[
+  {
+    "number": "152",
+    "name": "Hans Nilsson",
+    "relationship": "f",
+    "suffix": ", född 1731 i Å, Sidensjö sn, död 1804 i Västerby,  Sidensjö sn. Bonde i Västerby, Sidensjö sn."
+  },
+  {
+    "number": "304",
+    "name": "Nils Andersson",
+    "relationship": "ff",
+    "suffix": ", född 1700-03-20 i Å, Sidensjö sn, död 1789-07-01 i Å,  Sidensjö sn. Bonde i Å, Sidensjö sn."
+  },
+  {
+    "number": "608",
+    "name": "Anders Nilsson",
+    "relationship": "fff",
+    "suffix": ", född 1664 i Anundsböle, Sidensjö sn, död 1730 i Å,  Sidensjö sn. Bonde i Å, Sidensjö sn."
+  },
+  {
+    "number": "1216",
+    "name": "Nils Olofsson",
+    "relationship": "ffff",
+    "suffix": ", född i Överå, Sidensjö sn, död 1713 i Mosjö,   Sidensjö sn. Bonde i Grätnäs o Mosjö, Sidensjö sn."
+  },
+  {
+    "number": "2432",
+    "name": "Olof Andersson",
+    "relationship": "fffff",
+    "suffix": ". Bonde i Överå, Sidensjö sn. nämnd 1638-1644."
+  },
+  {
+    "number": "1217",
+    "name": "Anna Larsdotter",
+    "relationship": "fffm",
+    "suffix": ", född i Hämra, Sidensjö sn, död 1718 i Mosjö,   Sidensjö sn."
+  },
+  {
+    "number": "2434",
+    "name": "Lars Andersson",
+    "relationship": "fffmf",
+    "suffix": ", född 1598 i Hämra, Sidensjö sn. Bonde i Hämra,   Sidensjö sn. nämnd 1631-1663."
+  },
+  {
+    "number": "4868",
+    "name": "Anders Gabrielsson",
+    "relationship": "fffmff",
+    "suffix": ". Bonde i Hämra, Sidensjö sn. nämnd 1604-1629."
+  },
+  {
+    "number": "609",
+    "name": "Sara Nilsdotter",
+    "relationship": "ffm",
+    "suffix": ", född 1678 i Nordanås, Själevads sn, död 1749 i Å,  Sidensjö sn."
+  },
+  {
+    "number": "1218",
+    "name": "Nils Olsson",
+    "relationship": "ffmf",
+    "suffix": ". Bonde i Nordanås, Själevads sn."
+  },
+  {
+    "number": "1219",
+    "name": "NN NN",
+    "relationship": "ffmm",
+    "suffix": ", död 1708 i Nordanås, Själevads sn."
+  },
+  {
+    "number": "305",
+    "name": "Margareta Jonsdotter",
+    "relationship": "fm",
+    "suffix": ", född 1699-12-28 i Ås, Sidensjö sn, död 1755-05-04  i Å, Sidensjö sn."
+  },
+  {
+    "number": "610",
+    "name": "Jon Hansson",
+    "relationship": "fmf",
+    "suffix": ", född i Nyland, Sidensjö sn, död 1711-12-04 i Ås,   Sidensjö sn. Bonde i Ås, Sidensjö sn."
+  },
+  {
+    "number": "1220",
+    "name": "Hans Andersson",
+    "relationship": "fmff",
+    "suffix": ", född i Nyland, Sidensjö sn, död 1668 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "2440",
+    "name": "Anders Olofsson",
+    "relationship": "fmfff",
+    "suffix": ", född 1575. Bonde i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "1221",
+    "name": "Karin Johansdotter",
+    "relationship": "fmfm",
+    "suffix": ", född i Nyland, Sidensjö sn, död 1686 i Nyland,   Sidensjö sn."
+  },
+  {
+    "number": "2442",
+    "name": "Johan Persson",
+    "relationship": "fmfmf",
+    "suffix": ", född 1596 i Nyland, Sidensjö sn, död 1670 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "4884",
+    "name": "Per Persson",
+    "relationship": "fmfmff",
+    "suffix": ", född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1609-1633."
+  },
+  {
+    "number": "9768",
+    "name": "Per Olofsson",
+    "relationship": "fmfmfff",
+    "suffix": ", född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1571-1608."
+  },
+  {
+    "number": "19536",
+    "name": "Olof Olofsson",
+    "relationship": "fmfmffff",
+    "suffix": ". Bonde i Nyland, Sidensjö sn. nämnd 1549-1570."
+  },
+  {
+    "number": "9769",
+    "name": "NN Tomasdotter",
+    "relationship": "fmfmffm",
+    "suffix": ", född i Nolås, Sidensjö sn."
+  },
+  {
+    "number": "19538",
+    "name": "Tomas Jonsson",
+    "relationship": "fmfmffmf",
+    "suffix": ", född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1571-1621."
+  },
+  {
+    "number": "39076",
+    "name": "Jon Jakobsson",
+    "relationship": "fmfmffmff",
+    "suffix": ", född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1555-1570."
+  },
+  {
+    "number": "78152",
+    "name": "Jakob Olofsson",
+    "relationship": "fmfmffmfff",
+    "suffix": ". Bonde i Nolås, Sidensjö sn. nämnd 1535-1549."
+  },
+  {
+    "number": "2443",
+    "name": "Brita Andersdotter",
+    "relationship": "fmfmm",
+    "suffix": ", död 1675 i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "611",
+    "name": "Elisabet Jonsdotter",
+    "relationship": "fmm",
+    "suffix": ", född 1666 i Teg, Sidensjö sn, död 1735-01-12 i Ås,   Sidensjö sn."
+  },
+  {
+    "number": "1222",
+    "name": "Jon Eriksson",
+    "relationship": "fmmf",
+    "suffix": ", född 1630 i Teg, Sidensjö sn, död 1703 i Teg,   Sidensjö sn. Bonde i Teg, Sidensjö sn."
+  },
+  {
+    "number": "2444",
+    "name": "Erik Jonsson",
+    "relationship": "fmmff",
+    "suffix": ", född 1585 i Teg, Sidensjö sn. Bonde i Teg, Sidensjö sn."
+  },
+  {
+    "number": "2445",
+    "name": "NN NN",
+    "relationship": "fmmfm",
+    "suffix": ", död 1676 i Teg, Sidensjö sn."
+  },
+  {
+    "number": "1223",
+    "name": "NN NN",
+    "relationship": "fmmm",
+    "suffix": ", död 1676 i Teg, Sidensjö sn."
+  }
+]
