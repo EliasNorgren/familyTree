@@ -1,0 +1,254 @@
+[
+  {
+    "number": "4",
+    "name": "Per Hansson Lind",
+    "relationship": "ff",
+    "suffix": ", född 1743-09-20 i Bredåker, Sidensjö sn,  död 1774-07-07 i Stockholm. Kronobåtsman i Käl, Sidensjö sn."
+  },
+  {
+    "number": "8",
+    "name": "Hans Jonsson",
+    "relationship": "fff",
+    "suffix": ", född 1703-06-24 i Ås, Sidensjö sn, död 1754-08-24  i Bredåker, Sidensjö sn. Bonde o nämndeman i Bredåker, Sidensjö sn."
+  },
+  {
+    "number": "9",
+    "name": "Märta Pålsdotter",
+    "relationship": "ffm",
+    "suffix": ", född 1708-08-26 i Myre, Sidensjö sn, död 1793-08-28  i Bredåker, Sidensjö sn."
+  },
+  {
+    "number": "16",
+    "name": "Jon Hansson",
+    "relationship": "ffff",
+    "suffix": ", född i Nyland, Sidensjö sn, död 1711-12-04 i Ås,   Sidensjö sn. Bonde i Ås, Sidensjö sn."
+  },
+  {
+    "number": "17",
+    "name": "Elisabet Jonsdotter",
+    "relationship": "fffm",
+    "suffix": ", född 1666 i Teg, Sidensjö sn, död 1735-01-12 i Ås,   Sidensjö sn."
+  },
+  {
+    "number": "18",
+    "name": "Pål Johansson",
+    "relationship": "ffmf",
+    "suffix": ", född 1679 i Myre, Sidensjö sn, död 1748-02-28 i Myre,   Sidensjö sn. Bonde i Myre, Sidensjö sn."
+  },
+  {
+    "number": "19",
+    "name": "Beata Persdotter",
+    "relationship": "ffmm",
+    "suffix": ", född 1684 i Stig, Sidensjö sn, död 1758-04-16 i Myre,   Sidensjö sn."
+  },
+  {
+    "number": "32",
+    "name": "Hans Andersson",
+    "relationship": "fffff",
+    "suffix": ", född i Nyland, Sidensjö sn, död 1668 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "33",
+    "name": "Karin Johansdotter",
+    "relationship": "ffffm",
+    "suffix": ", född i Nyland, Sidensjö sn, död 1686 i Nyland,   Sidensjö sn."
+  },
+  {
+    "number": "34",
+    "name": "Jon Eriksson",
+    "relationship": "fffmf",
+    "suffix": ", född 1630 i Teg, Sidensjö sn, död 1703 i Teg,   Sidensjö sn. Bonde i Teg, Sidensjö sn."
+  },
+  {
+    "number": "35",
+    "name": "NN NN",
+    "relationship": "fffmm",
+    "suffix": ", död 1676 i Teg, Sidensjö sn."
+  },
+  {
+    "number": "36",
+    "name": "Johan Pålsson",
+    "relationship": "ffmff",
+    "suffix": ", född i Bölen, Sidensjö sn, död 1704 i Myre, Sidensjö sn.   Bonde i Myre, Sidensjö sn."
+  },
+  {
+    "number": "37",
+    "name": "Anna Olofsdotter",
+    "relationship": "ffmfm",
+    "suffix": ", född i Nolås, Sidensjö sn, död 1712 i Myre,   Sidensjö sn."
+  },
+  {
+    "number": "38",
+    "name": "Per Persson",
+    "relationship": "ffmmf",
+    "suffix": ", född 1654 i Stig, Sidensjö sn, död 1741 i Stig,   Sidensjö sn. Bonde i Stig, Sidensjö sn."
+  },
+  {
+    "number": "39",
+    "name": "Märta Jonsdotter",
+    "relationship": "ffmmm",
+    "suffix": ", född 1654, död 1738 i Stig, Sidensjö sn."
+  },
+  {
+    "number": "64",
+    "name": "Anders Olofsson",
+    "relationship": "ffffff",
+    "suffix": ", född 1575. Bonde i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "66",
+    "name": "Johan Persson",
+    "relationship": "ffffmf",
+    "suffix": ", född 1596 i Nyland, Sidensjö sn, död 1670 i Nyland,   Sidensjö sn. Bonde i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "67",
+    "name": "Brita Andersdotter",
+    "relationship": "ffffmm",
+    "suffix": ", död 1675 i Nyland, Sidensjö sn."
+  },
+  {
+    "number": "68",
+    "name": "Erik Jonsson",
+    "relationship": "fffmff",
+    "suffix": ", född 1585 i Teg, Sidensjö sn. Bonde i Teg, Sidensjö sn."
+  },
+  {
+    "number": "69",
+    "name": "NN NN",
+    "relationship": "fffmfm",
+    "suffix": ", död 1676 i Teg, Sidensjö sn."
+  },
+  {
+    "number": "72",
+    "name": "Pål Ersson",
+    "relationship": "ffmfff",
+    "suffix": ", född i Bölen, Sidensjö sn. Bonde i Myre, Sidensjö sn.   nämnd 1667-1673."
+  },
+  {
+    "number": "73",
+    "name": "Kerstin Davidsdotter",
+    "relationship": "ffmffm",
+    "suffix": ", född i Myre, Sidensjö sn, död 1694 i Myre,   Sidensjö sn."
+  },
+  {
+    "number": "74",
+    "name": "Olof Andersson",
+    "relationship": "ffmfmf",
+    "suffix": ", född i Lännäs, Sidensjö sn. Bonde i Nolås, Sidensjö sn."
+  },
+  {
+    "number": "75",
+    "name": "Sara Persdotter",
+    "relationship": "ffmfmm",
+    "suffix": "."
+  },
+  {
+    "number": "76",
+    "name": "Per Persson",
+    "relationship": "ffmmff",
+    "suffix": ", född i Nolås, Sidensjö sn. Bonde i Stig, Sidensjö sn.   nämnd 1646-1649."
+  },
+  {
+    "number": "132",
+    "name": "Per Persson",
+    "relationship": "ffffmff",
+    "suffix": ", född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1609-1633."
+  },
+  {
+    "number": "144",
+    "name": "Erik Björnsson",
+    "relationship": "ffmffff",
+    "suffix": ", född i Bölen, Sidensjö sn. Bonde i Bölen, Sidensjö sn.   nämnd 1609-1624."
+  },
+  {
+    "number": "146",
+    "name": "David Persson",
+    "relationship": "ffmffmf",
+    "suffix": ", född 1591 i Myre, Sidensjö sn. Bonde i Myre,   Sidensjö sn. nämnd 1629-1654."
+  },
+  {
+    "number": "148",
+    "name": "Anders Andersson",
+    "relationship": "ffmfmff",
+    "suffix": ". Bonde i Lännäs, Sidensjö sn."
+  },
+  {
+    "number": "149",
+    "name": "NN Jakobsdotter",
+    "relationship": "ffmfmfm",
+    "suffix": ", född i Grätnäs, Sidensjö sn."
+  },
+  {
+    "number": "264",
+    "name": "Per Olofsson",
+    "relationship": "ffffmfff",
+    "suffix": ", född i Nyland, Sidensjö sn. Bonde i Nyland, Sidensjö sn.   nämnd 1571-1608."
+  },
+  {
+    "number": "265",
+    "name": "NN Tomasdotter",
+    "relationship": "ffffmffm",
+    "suffix": ", född i Nolås, Sidensjö sn."
+  },
+  {
+    "number": "288",
+    "name": "Björn Phålesson",
+    "relationship": "ffmfffff",
+    "suffix": ". Bonde i Bölen, Sidensjö sn. nämnd 1607."
+  },
+  {
+    "number": "292",
+    "name": "Per Andersson",
+    "relationship": "ffmffmff",
+    "suffix": ", född i Myre, Sidensjö sn. Bonde i Myre, Sidensjö sn.   nämnd 1604-1627."
+  },
+  {
+    "number": "296",
+    "name": "Anders NN",
+    "relationship": "ffmfmfff",
+    "suffix": ". finne."
+  },
+  {
+    "number": "298",
+    "name": "Jakob Thomasson",
+    "relationship": "ffmfmfmf",
+    "suffix": ". Bonde i Grätnäs, Sidensjö sn. finne, nämnd 1644-1655."
+  },
+  {
+    "number": "299",
+    "name": "NN NN",
+    "relationship": "ffmfmfmm",
+    "suffix": ", död 1639 i Grätnäs, Sidensjö sn."
+  },
+  {
+    "number": "528",
+    "name": "Olof Olofsson",
+    "relationship": "ffffmffff",
+    "suffix": ". Bonde i Nyland, Sidensjö sn. nämnd 1549-1570."
+  },
+  {
+    "number": "530",
+    "name": "Tomas Jonsson",
+    "relationship": "ffffmffmf",
+    "suffix": ", född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.   nämnd 1571-1621."
+  },
+  {
+    "number": "584",
+    "name": "Anders Persson",
+    "relationship": "ffmffmfff",
+    "suffix": ". Bonde i Myre, Sidensjö sn. nämnd 1558-1602."
+  },
+  {
+    "number": "1060",
+    "name": "Jon Jakobsson",
+    "relationship": "ffffmffmff",
+    "suffix": ", född i Nolås, Sidensjö sn. Bonde i Nolås, Sidensjö sn.    nämnd 1555-1570."
+  },
+  {
+    "number": "2120",
+    "name": "Jakob Olofsson",
+    "relationship": "ffffmffmfff",
+    "suffix": ". Bonde i Nolås, Sidensjö sn. nämnd 1535-1549."
+  }
+]
